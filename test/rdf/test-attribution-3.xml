@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:b="https://data.maudry.com/voc/boamp#"
+         xmlns:dct="http://purl.org/dc/terms/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:attributions="https://boamp.maudry.com/attributions/"
+         xmlns:appeloffres="https://boamp.maudry.com/appeloffres/"
+         xmlns:annonces="https://boamp.maudry.com/annonces/"
+         xmlns:acheteurs="https://boamp.maudry.com/acheteurs/"
+         xmlns:titulaires="https://boamp.maudry.com/titulaires/"
+         xmlns:descripteurs="https://boamp.maudry.com/descripteurs/"
+         xmlns:lots="https://boamp.maudry.com/lots/"
+         xmlns:cpv="https://boamp.maudry.com/cpv/">
+  <b:Annonce rdf:about="https://boamp.maudry.com/annonces/16-178891">
+      <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
+      <b:idweb>16-178891</b:idweb>
+      <b:annonceAnterieure>
+         <b:Annonce rdf:about="https://boamp.maudry.com/annonces/16-139506">
+            <b:idweb>16-139506</b:idweb>
+         </b:Annonce>
+      </b:annonceAnterieure>
+      <b:nomHtml>16-178891.html</b:nomHtml>
+      <b:datePublication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-01-05</b:datePublication>
+      <b:dateFinDiffusion rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-01-16</b:dateFinDiffusion>
+      <b:descripteur rdf:resource="https://boamp.maudry.com/descripteurs/116"/>
+      <b:descripteur rdf:resource="https://boamp.maudry.com/descripteurs/118"/>
+      <b:departementPublication>91</b:departementPublication>
+      <b:resumeObjet>Plan de déplacement Campus de l'Université Paris Sud. La présente consultation concerne : L'élaboration d'un Plan de Déplacements Campus pour les 5 sites de l'Université Paris-Sud</b:resumeObjet>
+      <b:attribution>
+         <b:Attribution rdf:about="https://boamp.maudry.com/attributions/16-178891">
+            <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-139506"/>
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/Université-paris-Sud">
+                  <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Etat"/>
+                  <rdfs:label>Université paris Sud</rdfs:label>
+                  <b:codePostal>91405</b:codePostal>
+                  <b:ville>Orsay Cedex</b:ville>
+               </rdf:Description>
+            </b:acheteur>
+            <b:nbTitulaires rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbTitulaires>
+      
+            <b:dateDecision rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-14</b:dateDecision>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Axe-Sig-Atmosphère-33450">
+                  <rdfs:label>Axe Sig/Atmosphère</rdfs:label>
+                  <b:codePostal>33450</b:codePostal>
+               </b:Titulaire>
+            </b:titulaire>
+         </b:Attribution>
+      </b:attribution>
+   </b:Annonce>
+  
+</rdf:RDF>

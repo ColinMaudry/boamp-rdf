@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:b="https://data.maudry.com/voc/boamp#"
+         xmlns:dct="http://purl.org/dc/terms/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:attributions="https://boamp.maudry.com/attributions/"
+         xmlns:appeloffres="https://boamp.maudry.com/appeloffres/"
+         xmlns:annonces="https://boamp.maudry.com/annonces/"
+         xmlns:acheteurs="https://boamp.maudry.com/acheteurs/"
+         xmlns:titulaires="https://boamp.maudry.com/titulaires/"
+         xmlns:descripteurs="https://boamp.maudry.com/descripteurs/"
+         xmlns:lots="https://boamp.maudry.com/lots/"
+         xmlns:cpv="https://boamp.maudry.com/cpv/">
+  <b:Annonce rdf:about="https://boamp.maudry.com/annonces/17-5219">
+      <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
+      <b:idweb>17-5219</b:idweb>
+      <b:annonceAnterieure>
+         <b:Annonce rdf:about="https://boamp.maudry.com/annonces/16-105311">
+            <b:idweb>16-105311</b:idweb>
+         </b:Annonce>
+      </b:annonceAnterieure>
+      <b:nomHtml>17-5219.html</b:nomHtml>
+      <b:datePublication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-01-12</b:datePublication>
+      <b:dateFinDiffusion rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-02-26</b:dateFinDiffusion>
+      <b:descripteur rdf:resource="https://boamp.maudry.com/descripteurs/47"/>
+      <b:descripteur rdf:resource="https://boamp.maudry.com/descripteurs/162"/>
+      <b:departementPublication>5</b:departementPublication>
+      <b:resumeObjet>Travaux et fourniture du câblage du réseau informatique et téléphonique du Département des Hautes-Alpes</b:resumeObjet>
+      <b:attribution>
+         <b:Attribution rdf:about="https://boamp.maudry.com/attributions/17-5219">
+            <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-105311"/>
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/DEPARTEMENT-DES-HAUTES-ALPES">
+                  <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Departement"/>
+                  <rdfs:label>DEPARTEMENT DES HAUTES-ALPES</rdfs:label>
+                  <b:codePostal>05008</b:codePostal>
+                  <b:ville>GAP</b:ville>
+                  <b:profilAcheteur rdf:resource="http://marchespublics.hautes-alpes.fr"/>
+               </rdf:Description>
+            </b:acheteur>
+            <b:nbTitulaires rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</b:nbTitulaires>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-07</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">150000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/ROIRET-Energies-69800">
+                  <rdfs:label>ROIRET Energies</rdfs:label>
+                  <b:codePostal>69800</b:codePostal>
+                  <b:ville>Saint-Priest</b:ville>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/SCARA---Cie-05200">
+                  <rdfs:label>SCARA &amp; Cie</rdfs:label>
+                  <b:codePostal>05200</b:codePostal>
+                  <b:ville>Embrun</b:ville>
+               </b:Titulaire>
+            </b:titulaire>
+         </b:Attribution>
+      </b:attribution>
+   </b:Annonce>
+  
+</rdf:RDF>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:b="https://data.maudry.com/voc/boamp#"
+         xmlns:dct="http://purl.org/dc/terms/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:attributions="https://boamp.maudry.com/attributions/"
+         xmlns:appeloffres="https://boamp.maudry.com/appeloffres/"
+         xmlns:annonces="https://boamp.maudry.com/annonces/"
+         xmlns:acheteurs="https://boamp.maudry.com/acheteurs/"
+         xmlns:titulaires="https://boamp.maudry.com/titulaires/"
+         xmlns:descripteurs="https://boamp.maudry.com/descripteurs/"
+         xmlns:lots="https://boamp.maudry.com/lots/"
+         xmlns:cpv="https://boamp.maudry.com/cpv/">
+  <b:Annonce rdf:about="https://boamp.maudry.com/annonces/17-40964">
+      <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
+      <b:idweb>17-40964</b:idweb>
+      <b:nomHtml>17-40964.html</b:nomHtml>
+      <b:datePublication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-27</b:datePublication>
+      <b:dateFinDiffusion rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-04-26</b:dateFinDiffusion>
+      <b:descripteur rdf:resource="https://boamp.maudry.com/descripteurs/6"/>
+      <b:departementPublication>33</b:departementPublication>
+      <b:resumeObjet>delegation du service public d'eau potable (concession de service au sens de l'ordonnace no2016-65 du 29/01/2016)</b:resumeObjet>
+      <b:appelOffres>
+         <b:AppelOffres rdf:about="https://boamp.maudry.com/appeloffres/17-40964">
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/COMMUNE-DE-CARCANS">
+                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdfs:label>COMMUNE DE CARCANS</rdfs:label>
+                  <b:codePostal>33121</b:codePostal>
+                  <b:ville>CARCANS</b:ville>
+                  <b:profilAcheteur rdf:resource="http://www.marches-securises.fr"/>
+               </rdf:Description>
+            </b:acheteur>
+            <b:titreMarche>DELEGATION DU SERVICE PUBLIC D'EAU POTABLE </b:titreMarche>
+            <b:refMarche>2017MAPAS00003</b:refMarche>
+            <b:typeMarche>Service</b:typeMarche>
+            <b:objetComplet>: L&#x92;objet de la présente consultation vise à désigner le futur délégataire du service public de l&#x92;eau potable de la Commune à compter du 1er janvier 2018. La présente procédure est passée en application des dispositions de l&#x92;Ordonnance no2016-65 du 29 janvier 2016 relative aux contrats de concession et à son décret d&#x92;application no2016-86 du 1er février 2016 et aux articles L1411-1 et suivants et R1411-1 et suivants du Code Général des Collectivités territoriales. Le déroulement de la procédure se fera dans le respect des règles applicables aux contrats afférents au a) du 2° de l'article 10 du décret no 2016-86 du 1er février 2016, qui ont, quelle que soit leur valeur estimée, pour objet une activité relevant du 3° du I de l'article 11 de l'ordonnance no 2016-65 du 29 janvier 2016.La procédure est restreinte.Les candidats admis à présenter une offre, sélectionnés après examen de leur aptitude à assurer la continuité du service public et l&#x92;égalité des usagers, à travers leurs références, leurs garanties professionnelles et financières, ainsi que le respect de l&#x92;obligation d&#x92;emploi des travailleurs handicapés conformément aux articles L5212-1, L5212-2, L5212-5 et L5212-9 du Code du travail (CANDIDATURE), recevront un dossier de consultation, envoyé aux frais de la Collectivité. </b:objetComplet>
+            <b:cpvPrincipal rdf:resource="https://boamp.maudry.com/cpv/65100000"/>
+            <b:valeurTotale rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3200000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:valeurTotale>
+            <b:lot>
+               <b:Lot rdf:about="https://boamp.maudry.com/lots/17-40964_">
+                  <b:appelOffres rdf:resource="https://boamp.maudry.com/annonces/17-40964"/>
+                  <b:description>Le contrat de concession aura pour objet la gestion du service de production et distribution d&#x92;eau potable de la Commune.La gestion du service porte notamment sur l&#x92;exploitation des ouvrages et installations de production et de distribution d&#x92;eau potable, le renouvellement des équipements, à l&#x92;exception des canalisations et du génie civil, la facturation et la gestion des relations avec les usagers.Données technico-économiques du service (valeurs 2015)Nombre d&#x92;abonnés : 2 991Volumes facturés : 287 020 m3Ouvrages du service :&#x95;	4 forages d&#x92;une capacité totale de 5 960 m3 par jour. &#x95;	5 réservoirs d&#x92;une capacité totale de 2 050 m3&#x95;	8 stations de surpression &#x95;	150 km de réseau&#x95;	3 083 branchements</b:description>
+                  <b:cpvPrincipal rdf:resource="https://boamp.maudry.com/cpv/65100000"/>
+                  <b:valeur rdf:parseType="Resource">
+                     <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3200000</b:montant>
+                     <b:devise>EUR</b:devise>
+                  </b:valeur>
+               </b:Lot>
+            </b:lot>
+            <b:lot>
+               <b:Lot rdf:about="https://boamp.maudry.com/lots/17-40964_">
+                  <b:appelOffres rdf:resource="https://boamp.maudry.com/annonces/17-40964"/>
+                  <b:description>Le contrat de concession aura pour objet la gestion du service de production et distribution d&#x92;eau potable de la Commune.La gestion du service porte notamment sur l&#x92;exploitation des ouvrages et installations de production et de distribution d&#x92;eau potable, le renouvellement des équipements, à l&#x92;exception des canalisations et du génie civil, la facturation et la gestion des relations avec les usagers.Données technico-économiques du service (valeurs 2015)Nombre d&#x92;abonnés : 2 991Volumes facturés : 287 020 m3Ouvrages du service :&#x95;	4 forages d&#x92;une capacité totale de 5 960 m3 par jour. &#x95;	5 réservoirs d&#x92;une capacité totale de 2 050 m3&#x95;	8 stations de surpression &#x95;	150 km de réseau&#x95;	3 083 branchements</b:description>
+                  <b:cpvPrincipal rdf:resource="https://boamp.maudry.com/cpv/65100000"/>
+                  <b:valeur rdf:parseType="Resource">
+                     <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3200000</b:montant>
+                     <b:devise>EUR</b:devise>
+                  </b:valeur>
+               </b:Lot>
+            </b:lot>
+            <b:eligibleMps rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:eligibleMps>
+         </b:AppelOffres>
+      </b:appelOffres>
+   </b:Annonce>
+  
+</rdf:RDF>

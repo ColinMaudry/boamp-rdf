@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:b="https://data.maudry.com/voc/boamp#"
+         xmlns:dct="http://purl.org/dc/terms/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:attributions="https://boamp.maudry.com/attributions/"
+         xmlns:appeloffres="https://boamp.maudry.com/appeloffres/"
+         xmlns:annonces="https://boamp.maudry.com/annonces/"
+         xmlns:acheteurs="https://boamp.maudry.com/acheteurs/"
+         xmlns:titulaires="https://boamp.maudry.com/titulaires/"
+         xmlns:descripteurs="https://boamp.maudry.com/descripteurs/"
+         xmlns:lots="https://boamp.maudry.com/lots/"
+         xmlns:cpv="https://boamp.maudry.com/cpv/">
+  <b:Annonce rdf:about="https://boamp.maudry.com/annonces/16-186359">
+      <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
+      <b:idweb>16-186359</b:idweb>
+      <b:nomHtml>16-186359.html</b:nomHtml>
+      <b:datePublication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-01-01</b:datePublication>
+      <b:dateFinDiffusion rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-02-17</b:dateFinDiffusion>
+      <b:descripteur rdf:resource="https://boamp.maudry.com/descripteurs/445"/>
+      <b:departementPublication>75</b:departementPublication>
+      <b:resumeObjet>Conception, organisation et réalisation de manifestations pour les ministères sociaux</b:resumeObjet>
+      <b:appelOffres>
+         <b:AppelOffres rdf:about="https://boamp.maudry.com/appeloffres/16-186359">
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/MTSFP">
+                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdfs:label>MTSFP</rdfs:label>
+                  <b:codePostal>75007</b:codePostal>
+                  <b:ville>Paris</b:ville>
+                  <b:profilAcheteur rdf:resource="https://www.marches-publics.gouv.fr/?page=entreprise.EntrepriseAdvancedSearch&amp;AllCons&amp;refConsultation=316558&amp;orgAcronyme=h8j"/>
+               </rdf:Description>
+            </b:acheteur>
+            <b:titreMarche>Conception, organisation et réalisation de manifestations pour les ministères sociaux</b:titreMarche>
+            <b:refMarche>AOOEVENEMENTS2016</b:refMarche>
+            <b:typeMarche>Service</b:typeMarche>
+            <b:objetComplet>Conception, organisation et réalisation de manifestations pour les ministères sociaux. Lot no1 : Conception, organisation et réalisation de manifestations : colloques, séminaires, journées nationales, états généraux, événements exceptionnels organisés dans les locaux des ministères sociaux (amphithéâtre P. Laroque, auditorium, etc.). Lot no2 : Conception, organisation et réalisation de manifestations : colloques, séminaires, journées nationales, états généraux, événements exceptionnels organisés dans des salles extérieures aux ministères sociaux et mise en place de stands sur les salons auxquels participent les ministères sociaux.</b:objetComplet>
+            <b:cpvPrincipal rdf:resource="https://boamp.maudry.com/cpv/79952000"/>
+            <b:lot>
+               <b:Lot rdf:about="https://boamp.maudry.com/lots/16-186359_1">
+                  <b:appelOffres rdf:resource="https://boamp.maudry.com/annonces/16-186359"/>
+                  <b:numeroLot>1</b:numeroLot>
+                  <b:intitule>Conception, organisation et réalisation de manifestations organisées dans les locaux des ministères sociaux</b:intitule>
+                  <b:description>Conception, organisation et réalisation de manifestations : colloques, séminaires, journées nationales, états généraux, événements exceptionnels organisés dans les locaux des ministères sociaux (amphithéâtre P. Laroque, auditorium, etc.).</b:description>
+                  <b:cpvPrincipal rdf:resource="https://boamp.maudry.com/cpv/79952000"/>
+                  <b:cpvPrincipal rdf:resource="https://boamp.maudry.com/cpv/79951000"/>
+                  <b:valeur rdf:parseType="Resource">
+                     <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1083333</b:montant>
+                     <b:devise>EUR</b:devise>
+                  </b:valeur>
+               </b:Lot>
+            </b:lot>
+            <b:lot>
+               <b:Lot rdf:about="https://boamp.maudry.com/lots/16-186359_2">
+                  <b:appelOffres rdf:resource="https://boamp.maudry.com/annonces/16-186359"/>
+                  <b:numeroLot>2</b:numeroLot>
+                  <b:intitule>Conception, organisation et réalisation de manifestations organisées dans des salles extérieures au ministère</b:intitule>
+                  <b:description>Conception, organisation et réalisation de manifestations : colloques, séminaires, journées nationales, états généraux, événements exceptionnels organisés dans des salles extérieures au ministère et mise en place de stands sur les salons auxquels participent les ministères sociaux.</b:description>
+                  <b:cpvPrincipal rdf:resource="https://boamp.maudry.com/cpv/79952000"/>
+                  <b:cpvPrincipal rdf:resource="https://boamp.maudry.com/cpv/79951000"/>
+                  <b:valeur rdf:parseType="Resource">
+                     <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6333333</b:montant>
+                     <b:devise>EUR</b:devise>
+                  </b:valeur>
+               </b:Lot>
+            </b:lot>
+            <b:typeProcedure>Ouvert</b:typeProcedure>
+            <b:eligibleMps rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:eligibleMps>
+         </b:AppelOffres>
+      </b:appelOffres>
+   </b:Annonce>
+  
+</rdf:RDF>

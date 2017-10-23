@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:b="https://data.maudry.com/voc/boamp#"
+         xmlns:dct="http://purl.org/dc/terms/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:attributions="https://boamp.maudry.com/attributions/"
+         xmlns:appeloffres="https://boamp.maudry.com/appeloffres/"
+         xmlns:annonces="https://boamp.maudry.com/annonces/"
+         xmlns:acheteurs="https://boamp.maudry.com/acheteurs/"
+         xmlns:titulaires="https://boamp.maudry.com/titulaires/"
+         xmlns:descripteurs="https://boamp.maudry.com/descripteurs/"
+         xmlns:lots="https://boamp.maudry.com/lots/"
+         xmlns:cpv="https://boamp.maudry.com/cpv/">
+  <b:Annonce rdf:about="https://boamp.maudry.com/annonces/16-186063">
+      <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
+      <b:idweb>16-186063</b:idweb>
+      <b:nomHtml>16-186063.html</b:nomHtml>
+      <b:datePublication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-01-01</b:datePublication>
+      <b:dateFinDiffusion rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-02-10</b:dateFinDiffusion>
+      <b:descripteur rdf:resource="https://boamp.maudry.com/descripteurs/197"/>
+      <b:departementPublication>77</b:departementPublication>
+      <b:resumeObjet>Concours de maîtrise d'oeuvre pour la construction de 63 logements sociaux dans la zac de maurepas à mitry-mory</b:resumeObjet>
+      <b:appelOffres>
+         <b:AppelOffres rdf:about="https://boamp.maudry.com/appeloffres/16-186063">
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/SEMMY">
+                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdfs:label>SEMMY</rdfs:label>
+                  <b:codePostal>77290</b:codePostal>
+                  <b:ville>MITRY-MORY</b:ville>
+               </rdf:Description>
+            </b:acheteur>
+            <b:titreMarche>Concours de maîtrise d'oeuvre pour la construction de 63 logements sociaux dans la ZAC de Maurepas à Mitry-Mory</b:titreMarche>
+            <b:cpvPrincipal rdf:resource="https://boamp.maudry.com/cpv/45211000"/>
+            <b:lot>
+               <b:Lot rdf:about="https://boamp.maudry.com/lots/16-186063_">
+                  <b:appelOffres rdf:resource="https://boamp.maudry.com/annonces/16-186063"/>
+                  <b:description>Appel à candidatures pour une mission de maîtrise d'oeuvre complète au sens de la loi MOP et du décret 93-1268 du 29 novembre 1993. Cette mission sera confiée à l'équipe lauréate du concours organisé par la SEMMY.Niveau de rendu de concours prévu : "esquisse"Il est prévu la construction de trois ou quatre bâtiments (hauteur maximale R+3) dans lesquels seront réalisés les 63 logements.Le coût estimatif des travaux s'élève à  6 300 000 euro HT.La surface utile cumulée au sein des bâtiments devra s'élever à 4300 mètres carrés, en intégrant les terrasses et balcons éventuels.La surface de plancher totale prévue pour les logements est de 4350 mètres carrés.La programmation des logements est définie comme suit : -26 appartements type T2-15 appartements type T3-15 appartements type T4-5 appartements type T5-2 appartements type T6</b:description>
+                  <b:cpvPrincipal rdf:resource="https://boamp.maudry.com/cpv/45211000"/>
+               </b:Lot>
+            </b:lot>
+            <b:typeProcedure>Restreint</b:typeProcedure>
+         </b:AppelOffres>
+      </b:appelOffres>
+   </b:Annonce>
+  
+</rdf:RDF>

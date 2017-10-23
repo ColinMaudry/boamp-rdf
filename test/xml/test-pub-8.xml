@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNONCE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd">
+  <GESTION>
+    <REFERENCE>
+      <IDWEB>17-40964</IDWEB>
+      <TYPE_AVIS>
+        <FAMILLE>
+          <DSP/>
+        </FAMILLE>
+        <PERIMETRE>
+          <DSP/>
+        </PERIMETRE>
+        <NATURE>
+          <APPEL_OFFRE>
+            <CONCESSION/>
+          </APPEL_OFFRE>
+        </NATURE>
+        <STATUT>
+          <INITIAL/>
+        </STATUT>
+      </TYPE_AVIS>
+    </REFERENCE>
+    <NOM_HTML>17-40964.html</NOM_HTML>
+    <INDEXATION>
+      <DATE_PUBLICATION>2017-03-27</DATE_PUBLICATION>
+      <DATE_FIN_DIFFUSION>2017-04-26</DATE_FIN_DIFFUSION>
+      <DESCRIPTEURS>
+        <DESCRIPTEUR>
+          <CODE>6</CODE>
+          <LIBELLE>Alimentation en eau potable</LIBELLE>
+        </DESCRIPTEUR>
+      </DESCRIPTEURS>
+      <DEP_PUBLICATION>33</DEP_PUBLICATION>
+      <RESUME_OBJET>delegation du service public d'eau potable (concession de service au sens de l'ordonnace no2016-65 du 29/01/2016)</RESUME_OBJET>
+    </INDEXATION>
+  </GESTION>
+  <DONNEES>
+    <IDENTITE>
+      <DENOMINATION>COMMUNE DE CARCANS</DENOMINATION>
+      <CONTACT>www.marches-securises.fr</CONTACT>
+      <ADJUDICATEUR_NUTS>FR</ADJUDICATEUR_NUTS>
+      <ADRESSE>HOTEL DE VILLE 2A ROUTE DE HOURTIN</ADRESSE>
+      <CP>33121</CP>
+      <VILLE>CARCANS</VILLE>
+      <TEL>(+33) 5-56-03-90-20</TEL>
+      <FAX>(+33) 5-56-03-90-31</FAX>
+      <MEL>secretariat@mairie-carcans.fr</MEL>
+      <URL>http://www.carcans.fr</URL>
+      <URL_PROFIL_ACHETEUR>http://www.marches-securises.fr</URL_PROFIL_ACHETEUR>
+      <URL_DOCUMENT>http://www.marches-securises.fr</URL_DOCUMENT>
+    </IDENTITE>
+    <TYPE_POUVOIR_ADJUDICATEUR>
+      <AUTOTRITE_REGIONAL/>
+    </TYPE_POUVOIR_ADJUDICATEUR>
+    <ACTIVITE_PRINCIPALE>
+      <POUVOIR_ADJUDICATEUR>
+        <ACT_SERV_ADM_PUB/>
+      </POUVOIR_ADJUDICATEUR>
+    </ACTIVITE_PRINCIPALE>
+    <OBJET>
+      <TITRE_MARCHE>DELEGATION DU SERVICE PUBLIC D'EAU POTABLE </TITRE_MARCHE>
+      <REF_MARCHE>2017MAPAS00003</REF_MARCHE>
+      <TYPE_MARCHE>
+        <SERVICE/>
+      </TYPE_MARCHE>
+      <OBJET_COMPLET>: Lobjet de la présente consultation vise à désigner le futur délégataire du service public de leau potable de la Commune à compter du 1er janvier 2018. La présente procédure est passée en application des dispositions de lOrdonnance no2016-65 du 29 janvier 2016 relative aux contrats de concession et à son décret dapplication no2016-86 du 1er février 2016 et aux articles L1411-1 et suivants et R1411-1 et suivants du Code Général des Collectivités territoriales. Le déroulement de la procédure se fera dans le respect des règles applicables aux contrats afférents au a) du 2° de l'article 10 du décret no 2016-86 du 1er février 2016, qui ont, quelle que soit leur valeur estimée, pour objet une activité relevant du 3° du I de l'article 11 de l'ordonnance no 2016-65 du 29 janvier 2016.La procédure est restreinte.Les candidats admis à présenter une offre, sélectionnés après examen de leur aptitude à assurer la continuité du service public et légalité des usagers, à travers leurs références, leurs garanties professionnelles et financières, ainsi que le respect de lobligation demploi des travailleurs handicapés conformément aux articles L5212-1, L5212-2, L5212-5 et L5212-9 du Code du travail (CANDIDATURE), recevront un dossier de consultation, envoyé aux frais de la Collectivité. </OBJET_COMPLET>
+      <CPV>
+        <PRINCIPAL>65100000</PRINCIPAL>
+      </CPV>
+      <CARACTERISTIQUES>
+        <VALEUR_TOTALE DEVISE="EUR">3200000</VALEUR_TOTALE>
+      </CARACTERISTIQUES>
+      <DIV_EN_LOTS>
+        <NON/>
+      </DIV_EN_LOTS>
+      <LOTS>
+        <LOT>
+          <DESCRIPTION>Le contrat de concession aura pour objet la gestion du service de production et distribution deau potable de la Commune.La gestion du service porte notamment sur lexploitation des ouvrages et installations de production et de distribution deau potable, le renouvellement des équipements, à lexception des canalisations et du génie civil, la facturation et la gestion des relations avec les usagers.Données technico-économiques du service (valeurs 2015)Nombre dabonnés : 2 991Volumes facturés : 287 020 m3Ouvrages du service :	4 forages dune capacité totale de 5 960 m3 par jour. 	5 réservoirs dune capacité totale de 2 050 m3	8 stations de surpression 	150 km de réseau	3 083 branchements</DESCRIPTION>
+          <CPV>
+            <PRINCIPAL>65100000</PRINCIPAL>
+          </CPV>
+          <CODE_NUTS>FR612</CODE_NUTS>
+          <LIEU_PRINCIPAL>CARCANS</LIEU_PRINCIPAL>
+          <CRITERES_ATTRIBUTION>
+            <CRITERES_CCTP/>
+          </CRITERES_ATTRIBUTION>
+          <VALEUR DEVISE="EUR">3200000</VALEUR>
+          <DATE_DEBUT>2018-01-01</DATE_DEBUT>
+          <DATE_FIN>2028-12-31</DATE_FIN>
+          <FONDS_COMMUNAUTAIRES_NON/>
+          <INFO_COMPL>Le contrat sera un contrat de délégation de service public par lequel lautorité délégante confie la gestion d'un service public à un ou plusieurs opérateurs économiques, à qui est transféré un risque lié à l'exploitation du service, en contrepartie soit du droit d'exploiter le service qui fait l'objet du contrat, soit de ce droit assorti d'un prix. En outre, le délégataire devra en particulier assurer la continuité du service et être a&amp;amp;#768; même d'intervenir sur tout incident dans les délais les plus brefs.La Commune remettra au délégataire l'ensemble des installations nécessaires a&amp;amp;#768; la gestion du service délégué</INFO_COMPL>
+        </LOT>
+        <LOT>
+          <DESCRIPTION>Le contrat de concession aura pour objet la gestion du service de production et distribution deau potable de la Commune.La gestion du service porte notamment sur lexploitation des ouvrages et installations de production et de distribution deau potable, le renouvellement des équipements, à lexception des canalisations et du génie civil, la facturation et la gestion des relations avec les usagers.Données technico-économiques du service (valeurs 2015)Nombre dabonnés : 2 991Volumes facturés : 287 020 m3Ouvrages du service :	4 forages dune capacité totale de 5 960 m3 par jour. 	5 réservoirs dune capacité totale de 2 050 m3	8 stations de surpression 	150 km de réseau	3 083 branchements</DESCRIPTION>
+          <CPV>
+            <PRINCIPAL>65100000</PRINCIPAL>
+          </CPV>
+          <CODE_NUTS>FR612</CODE_NUTS>
+          <LIEU_PRINCIPAL>CARCANS</LIEU_PRINCIPAL>
+          <CRITERES_ATTRIBUTION>
+            <CRITERES_CCTP/>
+          </CRITERES_ATTRIBUTION>
+          <VALEUR DEVISE="EUR">3200000</VALEUR>
+          <DATE_DEBUT>2018-01-01</DATE_DEBUT>
+          <DATE_FIN>2028-12-31</DATE_FIN>
+          <FONDS_COMMUNAUTAIRES_NON/>
+          <INFO_COMPL>Le contrat sera un contrat de délégation de service public par lequel lautorité délégante confie la gestion d'un service public à un ou plusieurs opérateurs économiques, à qui est transféré un risque lié à l'exploitation du service, en contrepartie soit du droit d'exploiter le service qui fait l'objet du contrat, soit de ce droit assorti d'un prix. En outre, le délégataire devra en particulier assurer la continuité du service et être a&amp;amp;#768; même d'intervenir sur tout incident dans les délais les plus brefs.La Commune remettra au délégataire l'ensemble des installations nécessaires a&amp;amp;#768; la gestion du service délégué</INFO_COMPL>
+        </LOT>
+      </LOTS>
+    </OBJET>
+    <PROCEDURE>
+      <AMP_NON/>
+      <MARCHE_PERIODIQUE_NON/>
+    </PROCEDURE>
+    <CONDITION_DELAI>
+      <RECEPT_OFFRES>2017-04-26T12:00:00+01:00</RECEPT_OFFRES>
+    </CONDITION_DELAI>
+    <CONDITION_RELATIVE_MARCHE>
+      <PARTICIPATION_ELECTRONIQUE_NON/>
+      <LANGUES>
+        <LANGUE>fr</LANGUE>
+      </LANGUES>
+    </CONDITION_RELATIVE_MARCHE>
+    <CONDITION_PARTICIPATION>
+      <SITUATION_JURIDIQUE>	Une lettre de candidature, datée et signée, présentant le candidat ou chaque membre du groupement candidat (nom ou dénomination, adresse du siège social, forme juridique date de création, montant et composition du capital). En cas de groupement, la lettre de candidature indiquera sa composition ainsi que le nom de lopérateur mandataire, et sera accompagnée de l'habilitation donnée au mandataire pour engager le groupement.	les pouvoirs de la personne habilitée pour engager le candidat ; 	Déclaration sur l'honneur attestant : 1° Qu'il ne fait l'objet d'aucune exclusion de la participation à la procédure de passation des contrats de concession prévue aux articles 39, 40 et 42 de l'ordonnance du 29/01/2016 : le candidat produira lensemble des documents justificatifs ; 2° Que les renseignements et documents relatifs à ses capacités et à ses aptitudes, exigés en application de l'article 45 de l'ordonnance du 29/01/2016 et dans les conditions fixées aux articles 20 et 21, sont exacts.	Déclaration sur l'honneur attestant que le candidat respecte l'obligation d'emploi des travailleurs handicapés prévue aux articles L. 5212-1 et suivants du Code du travail.	Justificatif de l'inscription du candidat au registre du commerce et des sociétés (extrait K bis ou document d'effet équivalent).</SITUATION_JURIDIQUE>
+      <CAP_ECO_MARCHE_NON/>
+      <CAP_ECO>	Déclaration sur l'honneur concernant le chiffre d'affaires global et, s'il y a lieu, le chiffre d'affaires concernant les prestations, similaires à celles auxquelles se réfère le présent avis réalisées au cours des 3 derniers exercices. 	Les comptes de résultat et bilans des trois derniers exercices 	Les attestations d'assurance responsabilité civile et professionnelle en cours de validité	Les candidats qui ne seraient pas constitués depuis plus de trois ans pourront faire la preuve de leur capacité économique et financière par tout moyen</CAP_ECO>
+      <CAP_ECO_NIVEAU_MINI>/</CAP_ECO_NIVEAU_MINI>
+      <CAP_TECH_OFFRE_NON/>
+      <CAP_TECH>	Une déclaration sur l'honneur concernant les effectifs du candidat et l'importance du personnel d'encadrement pour chacune des 3 dernières années, ou depuis la date de création de l'entreprise si cette dernière date de moins de 3 ans ;	Une note présentant les capacités techniques du candidat 	Les références acquises dans le domaine objet de la délégation ou dans un domaine comparable et/ou toutes autres références ou éléments susceptibles de démontrer son aptitude à recevoir la délégation de service public objet du présent avis et à assurer la continuité du service public et l'égalité des usagers devant le service public. 	Tout élément permettant de juger l'aptitude du candidat à assurer la continuité du service public et l'égalité des usagers devant ledit service et document complémentaire de nature à faire apparaître la capacité et la solidité financière du candidat.</CAP_TECH>
+      <CAP_TECH_NIVEAU_MINI>/</CAP_TECH_NIVEAU_MINI>
+      <MARCHE_RESERVE_NON/>
+      <PRESTATION_RESERVEE_NON/>
+      <INDICATION_OBLIGATOIRE_NOM_QUALIFICATIONS_NON/>
+      <ELIGIBLE_MPS>
+        <non/>
+      </ELIGIBLE_MPS>
+    </CONDITION_PARTICIPATION>
+    <CONDITION_ADMINISTRATIVE>
+      <ENVOI_ELECTRONIQUE_AVEC_OUTIL_NON/>
+    </CONDITION_ADMINISTRATIVE>
+    <RENSEIGNEMENTS_COMPLEMENTAIRES>
+      <COMMANDE_ELECTRONIQUE_NON/>
+      <FACTURATION_ELECTRONIQUE_NON/>
+      <PAIEMENT_ELECTRONIQUE_NON/>
+      <RENS_COMPLEMENT>Les dossiers de candidature seront envoyés, en 1 exemplaire papier et 1 exemplaire sur support numérique, sous pli recommandé avec accusé de réception à ladresse indiqué dans le présent avis.Si la candidature est remise en main propre, elle devra lêtre contre récépissé dûment daté (heures douverture du lundi au vendredi de 9h00 à 12h00 et de 14h00 à 17h00)  Lenveloppe extérieure devra être anonyme et portera la mention " Délégation du service public deau potable" - " NE ¨PAS OUVRIR avant la séance douverture des plis ".  Pour obtenir tous les renseignements complémentaires qui leur seraient nécessaires au cours de la préparation de leur candidature, les candidats devront adresser une demande à à ladresse indiquée. Les candidats devront faire parvenir leur demande au plus tard 5 jours avant la date limite de remise des candidatures. Une réponse sera alors adressée au plus tard 4 jours avant la date fixée pour la réception des candidatures.</RENS_COMPLEMENT>
+      <PROCEDURES_RECOURS_PRECISIONS>Référé précontractuel contre la procédure initiée par le pouvoir adjudicateur à introduire avant la conclusion du contrat dans les conditions prévues aux articles L. 551-1 à L551-12 et R. 551-1 à R. 551-6 du Code de justice administrative.Référé contractuel à compter de la signature du contrat conformément aux articles L. 551-13 et R. 551-7 à R. 551-10 du Code de justice administrative, dans les délais mentionnés à larticle R551-7 du Code de justice administrative.Recours pour excès de pouvoir contre une décision administrative prévu aux articles R. 421-1 à R. 421-7 du CJA, et pouvant être exercé dans les 2 mois suivant la notification ou publication de la décision de l'organisme (le recours ne peut plus, toutefois, être exercé après la signature du contrat). Recours de pleine juridiction ouvert aux tiers justifiant dun intérêt lésé, et pouvant être exercé dans les deux mois suivant la date à laquelle la conclusion du contrat est rendue publique.</PROCEDURES_RECOURS_PRECISIONS>
+      <ADRESSES_COMPLEMENTAIRES>
+        <ADRESSE>
+          <TYPE>
+            <RENSEIGNEMENTS/>
+          </TYPE>
+          <DENOMINATION>COMMUNE DE CARCANS</DENOMINATION>
+          <CODE_IDENT_NATIONAL>21330097300129</CODE_IDENT_NATIONAL>
+          <CONTACT>https://www.marches-securises.fr</CONTACT>
+          <ADRESSE>HOTEL DE VILLE2A ROUTE DE HOURTIN</ADRESSE>
+          <CP>33121</CP>
+          <VILLE>CARCANS</VILLE>
+          <CODE_NUTS>FR612</CODE_NUTS>
+          <TEL>(+33) 5-56-03-90-20</TEL>
+          <FAX>(+33) 5-56-03-90-31</FAX>
+          <MEL>secretariat@mairie-carcans.fr</MEL>
+          <URL>http://www.carcans.fr</URL>
+        </ADRESSE>
+        <ADRESSE>
+          <TYPE>
+            <ENVOYER_OFFRES/>
+          </TYPE>
+          <DENOMINATION>COMMUNE DE CARCANS</DENOMINATION>
+          <CODE_IDENT_NATIONAL>21330097300129</CODE_IDENT_NATIONAL>
+          <CONTACT>MOREAU DIDIER</CONTACT>
+          <ADRESSE>HOTEL DE VILLE2A ROUTE DE HOURTIN</ADRESSE>
+          <CP>33121</CP>
+          <VILLE>CARCANS</VILLE>
+          <CODE_NUTS>FR612</CODE_NUTS>
+          <TEL>(+33) 5-56-03-90-20</TEL>
+          <FAX>(+33) 5-56-03-90-31</FAX>
+          <MEL>secretariat@mairie-carcans.fr</MEL>
+        </ADRESSE>
+        <ADRESSE>
+          <TYPE>
+            <INSTANCE_RECOURS/>
+          </TYPE>
+          <DENOMINATION>TRIBUNAL ADMINISTRATIF DE BORDEAUX</DENOMINATION>
+          <ADRESSE>09 RUE TASTETCS 21490</ADRESSE>
+          <CP>33063</CP>
+          <VILLE>BORDEAUX CEDEX</VILLE>
+          <TEL>(+33) 5-56-99-38-00</TEL>
+          <FAX>(+33) 5-56-24-39-03</FAX>
+          <MEL>greffe.ta-bordeaux@juradm.fr</MEL>
+        </ADRESSE>
+        <ADRESSE>
+          <TYPE>
+            <RENS_RECOURS/>
+          </TYPE>
+          <DENOMINATION>greffe du Tribunal Administratif de Bordeaux (cf. ci-dessus)</DENOMINATION>
+          <ADRESSE>09 rue TASTETCS 21490</ADRESSE>
+          <CP>33063</CP>
+          <VILLE>BORDEAUX CEDEX</VILLE>
+          <TEL>(+33) 5-56-99-38-00</TEL>
+          <FAX>(+33) 5-56-24-39-03</FAX>
+          <MEL>greffe.ta-bordeaux@juradm.fr</MEL>
+        </ADRESSE>
+      </ADRESSES_COMPLEMENTAIRES>
+    </RENSEIGNEMENTS_COMPLEMENTAIRES>
+  </DONNEES>
+</ANNONCE>

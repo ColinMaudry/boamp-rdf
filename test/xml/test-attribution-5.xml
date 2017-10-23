@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNONCE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd">
+  <GESTION>
+    <REFERENCE>
+      <IDWEB>17-1028</IDWEB>
+      <TYPE_AVIS>
+        <FAMILLE>
+          <MAPA/>
+        </FAMILLE>
+        <PERIMETRE>
+          <CMP-2006/>
+        </PERIMETRE>
+        <NATURE>
+          <ATTRIBUTION/>
+        </NATURE>
+        <STATUT>
+          <INITIAL/>
+        </STATUT>
+      </TYPE_AVIS>
+    </REFERENCE>
+    <MARCHE>
+      <ANNONCE_ANTERIEUR>
+        <REFERENCE>
+          <IDWEB>16-36319</IDWEB>
+          <TYPE_AVIS>
+            <FAMILLE>
+              <MAPA/>
+            </FAMILLE>
+            <PERIMETRE>
+              <CMP-2006/>
+            </PERIMETRE>
+            <NATURE>
+              <APPEL_OFFRE/>
+            </NATURE>
+            <STATUT>
+              <INITIAL/>
+            </STATUT>
+          </TYPE_AVIS>
+        </REFERENCE>
+        <REFERENCE_PUBLICATION>
+          <PUBLICATION_ELECTRONIQUE>
+            <DATE_PUBLICATION>2016-03-14</DATE_PUBLICATION>
+            <DATE_FIN_DIFFUSION>2016-04-25</DATE_FIN_DIFFUSION>
+          </PUBLICATION_ELECTRONIQUE>
+        </REFERENCE_PUBLICATION>
+      </ANNONCE_ANTERIEUR>
+    </MARCHE>
+    <NOM_HTML>17-1028.html</NOM_HTML>
+    <INDEXATION>
+      <DATE_PUBLICATION>2017-01-04</DATE_PUBLICATION>
+      <DATE_FIN_DIFFUSION>2017-03-04</DATE_FIN_DIFFUSION>
+      <DESCRIPTEURS>
+        <DESCRIPTEUR>
+          <CODE>341</CODE>
+          <LIBELLE>Terrassement</LIBELLE>
+        </DESCRIPTEUR>
+      </DESCRIPTEURS>
+      <DEP_PUBLICATION>33</DEP_PUBLICATION>
+      <DEP_PRESTATION>33</DEP_PRESTATION>
+      <RESUME_OBJET>Aménagement d'un parking de 116 places sur le site du parc cimetière rive gauche à Mérignac. Mérignac</RESUME_OBJET>
+    </INDEXATION>
+  </GESTION>
+  <DONNEES>
+    <IDENTITE>
+      <DENOMINATION>Bordeaux Métropole</DENOMINATION>
+      <CORRESPONDANT>Direction de la commande publique</CORRESPONDANT>
+      <ADRESSE>esplanade Charles de Gaulle</ADRESSE>
+      <CP>33076</CP>
+      <VILLE>Bordeaux Cedex</VILLE>
+      <TEL>(+33)5-56-99-84-84</TEL>
+      <FAX>(+33)5-56-99-87-83</FAX>
+      <MEL>dcp@bordeaux-metropole.fr</MEL>
+      <URL>http://www.bordeaux-metropole.fr</URL>
+      <URL_PROFIL_ACHETEUR>http://www.demat-ampa.fr</URL_PROFIL_ACHETEUR>
+    </IDENTITE>
+    <OBJET>
+      <OBJET_COMPLET>Aménagement d'un parking de 116 places sur le site du parc cimetière rive gauche à Mérignac</OBJET_COMPLET>
+    </OBJET>
+    <PROCEDURE>
+      <TYPE_PROCEDURE>
+        <PROCEDURE_ADAPTE/>
+      </TYPE_PROCEDURE>
+      <CRITERES_ATTRIBUTION>
+        <CRITERES_PONDERES>
+          <CRITERE POIDS="70">Prix des prestations</CRITERE>
+          <CRITERE POIDS="30">Méthodologie d'organisation pour réaliser le chantier au vue du cadre de réponse (en fonction des sous critères détaillés dans</CRITERE>
+        </CRITERES_PONDERES>
+      </CRITERES_ATTRIBUTION>
+    </PROCEDURE>
+    <ATTRIBUTION>
+      <ATTRIBUE_PAR_LOTS_MARCHES/>
+      <VALEUR_TOTALE DEVISE="EUR">159691.6</VALEUR_TOTALE>
+      <DATE_DECISION>2016-11-18</DATE_DECISION>
+      <DECISION>
+        <TITULAIRE>
+          <DENOMINATION>Moter</DENOMINATION>
+          <CP>33694</CP>
+          <VILLE>Mérignac</VILLE>
+        </TITULAIRE>
+        <RENSEIGNEMENT>
+          <MONTANT DEVISE="EUR">159691.6</MONTANT>
+        </RENSEIGNEMENT>
+      </DECISION>
+    </ATTRIBUTION>
+  </DONNEES>
+</ANNONCE>

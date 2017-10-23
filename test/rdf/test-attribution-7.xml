@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:b="https://data.maudry.com/voc/boamp#"
+         xmlns:dct="http://purl.org/dc/terms/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:attributions="https://boamp.maudry.com/attributions/"
+         xmlns:appeloffres="https://boamp.maudry.com/appeloffres/"
+         xmlns:annonces="https://boamp.maudry.com/annonces/"
+         xmlns:acheteurs="https://boamp.maudry.com/acheteurs/"
+         xmlns:titulaires="https://boamp.maudry.com/titulaires/"
+         xmlns:descripteurs="https://boamp.maudry.com/descripteurs/"
+         xmlns:lots="https://boamp.maudry.com/lots/"
+         xmlns:cpv="https://boamp.maudry.com/cpv/">
+  <b:Annonce rdf:about="https://boamp.maudry.com/annonces/17-29167">
+      <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
+      <b:idweb>17-29167</b:idweb>
+      <b:annonceAnterieure>
+         <b:Annonce rdf:about="https://boamp.maudry.com/annonces/16-166926">
+            <b:idweb>16-166926</b:idweb>
+         </b:Annonce>
+      </b:annonceAnterieure>
+      <b:nomHtml>17-29167.html</b:nomHtml>
+      <b:datePublication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-01</b:datePublication>
+      <b:dateFinDiffusion rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-04-15</b:dateFinDiffusion>
+      <b:descripteur rdf:resource="https://boamp.maudry.com/descripteurs/274"/>
+      <b:departementPublication>92</b:departementPublication>
+      <b:resumeObjet>Mise à disposition de personnel intérimaire pour le Service Petite Enfance de la Ville de Suresnes</b:resumeObjet>
+      <b:attribution>
+         <b:Attribution rdf:about="https://boamp.maudry.com/attributions/17-29167">
+            <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-166926"/>
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/Ville-de-Suresnes">
+                  <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Commune"/>
+                  <rdfs:label>Ville de Suresnes</rdfs:label>
+                  <b:codePostal>92151</b:codePostal>
+                  <b:ville>Suresnes</b:ville>
+                  <b:profilAcheteur rdf:resource="http://www.ville-suresnes.fr"/>
+               </rdf:Description>
+            </b:acheteur>
+            <b:nbTitulaires rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</b:nbTitulaires>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-01-31</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</b:nbOffresRecues>
+            <b:montantMini rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montantMini>
+            <b:montantMaxi rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">60000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montantMaxi>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/ADECCO-MEDICAL-69100">
+                  <rdfs:label>ADECCO MEDICAL</rdfs:label>
+                  <b:codePostal>69100</b:codePostal>
+                  <b:ville>VILLEURBANNE</b:ville>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/SELECT-TT-APPEL-MEDICAL-93211">
+                  <rdfs:label>SELECT TT APPEL MEDICAL</rdfs:label>
+                  <b:codePostal>93211</b:codePostal>
+                  <b:ville>LA PLAINE SAINT DENIS</b:ville>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/TROOPS-IZUMA-01390">
+                  <rdfs:label>TROOPS IZUMA</rdfs:label>
+                  <b:codePostal>01390</b:codePostal>
+                  <b:ville>SAINT ANDRE DE CORCY</b:ville>
+               </b:Titulaire>
+            </b:titulaire>
+         </b:Attribution>
+      </b:attribution>
+   </b:Annonce>
+  
+</rdf:RDF>

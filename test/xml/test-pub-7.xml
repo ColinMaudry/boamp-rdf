@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNONCE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd">
+  <GESTION>
+    <REFERENCE>
+      <IDWEB>17-22464</IDWEB>
+      <TYPE_AVIS>
+        <FAMILLE>
+          <DSP/>
+        </FAMILLE>
+        <PERIMETRE>
+          <DSP/>
+        </PERIMETRE>
+        <NATURE>
+          <APPEL_OFFRE>
+            <CONCESSION/>
+          </APPEL_OFFRE>
+        </NATURE>
+        <STATUT>
+          <INITIAL/>
+        </STATUT>
+      </TYPE_AVIS>
+    </REFERENCE>
+    <NOM_HTML>17-22464.html</NOM_HTML>
+    <INDEXATION>
+      <DATE_PUBLICATION>2017-02-15</DATE_PUBLICATION>
+      <DATE_FIN_DIFFUSION>2017-03-09</DATE_FIN_DIFFUSION>
+      <DESCRIPTEURS>
+        <DESCRIPTEUR>
+          <CODE>52</CODE>
+          <LIBELLE>Carburant, hydrocarbure</LIBELLE>
+        </DESCRIPTEUR>
+      </DESCRIPTEURS>
+      <DEP_PUBLICATION>11</DEP_PUBLICATION>
+      <RESUME_OBJET>CONTRAT DE CONCESSION - STATION SERVICE</RESUME_OBJET>
+    </INDEXATION>
+  </GESTION>
+  <DONNEES>
+    <IDENTITE>
+      <DENOMINATION>Cté de Cnes Pyrénées Audoises</DENOMINATION>
+      <ADJUDICATEUR_NUTS>FR811</ADJUDICATEUR_NUTS>
+      <ADRESSE>BP 8 - 1 avenue François Mitterrand</ADRESSE>
+      <CP>11500</CP>
+      <VILLE>Quillan</VILLE>
+      <TEL>(+33) -46-82-00-10</TEL>
+      <FAX>(+33) 4-68-31-59-19</FAX>
+      <MEL>philippe.raynaud@pyreneesaudoises.fr</MEL>
+      <URL>http://pyreneesaudoises.wix.com/ccpa</URL>
+      <URL_PROFIL_ACHETEUR>http://cc-pyreneesaudoises.e-marchespublics.com</URL_PROFIL_ACHETEUR>
+      <URL_DOCUMENT>http://cc-pyreneesaudoises.e-marchespublics.com</URL_DOCUMENT>
+      <AGIT_POUR_AUTRE_COMPTE_NON/>
+      <ORGANISME_ACHETEUR_CENTRAL_NON/>
+    </IDENTITE>
+    <TYPE_POUVOIR_ADJUDICATEUR>
+      <AUTRE/>
+    </TYPE_POUVOIR_ADJUDICATEUR>
+    <ACTIVITE_PRINCIPALE>
+      <POUVOIR_ADJUDICATEUR>
+        <ACT_SERV_ADM_PUB/>
+      </POUVOIR_ADJUDICATEUR>
+    </ACTIVITE_PRINCIPALE>
+    <OBJET>
+      <TITRE_MARCHE>CONTRAT DE CONCESSION - GESTION ET EXPLOITATION DE LA STATION SERVICE INTERCOMMUNALE</TITRE_MARCHE>
+      <REF_MARCHE>17DSPAXAT</REF_MARCHE>
+      <TYPE_MARCHE>
+        <SERVICE/>
+      </TYPE_MARCHE>
+      <OBJET_COMPLET>La présente consultation a pour objet la passation, pour une durée de 7 ans du contrat d'affermage du service public d'exploitation et de distribution de carburant en libre service sur la Commune d'Axat .La procédure est de type restreinte.Sur la base de l'ensemble des éléments du dossier de candidature remis, les candidats seront sélectionnés, conformément aux dispositions de l'article 45 de l'ordonnance du 29 janvier 2016 et de l'article L. 1411-5 CGCT, au regard de leurs garanties professionnelles et financières, de leur aptitude à assurer l'égalité des usagers devant le service public ainsi que la continuité de celui-ci et de leur respect de l'obligation d'emploi des travailleurs handicapés prévue aux articles L. 5212-1 à L. 5212-4 du code du travail.(2) Les candidats admis à présenter une offre seront sélectionnés par la commission de délégation de service public, désignée suivant les dispositions de l'article L. 1411-5 du CGCT.</OBJET_COMPLET>
+      <CPV>
+        <PRINCIPAL>09000000</PRINCIPAL>
+      </CPV>
+      <CARACTERISTIQUES>
+        <VALEUR_TOTALE DEVISE="EUR">3113000</VALEUR_TOTALE>
+      </CARACTERISTIQUES>
+      <DIV_EN_LOTS>
+        <NON/>
+      </DIV_EN_LOTS>
+      <LOTS>
+        <LOT>
+          <DESCRIPTION>Le contrat de concession de service public aura pour objet de :- confier au délégataire la gestion de la station-service d'AXAT- Entretenir l'ensemble des ouvrages et équipements destinés à l'exploitation du service public, - percevoir les recettes dues par les usagers.</DESCRIPTION>
+          <CODE_NUTS>FR811</CODE_NUTS>
+          <LIEU_PRINCIPAL>Territoire de la communauté des communes des Pyrenees Audoises - COMMUNE DE 11140 AXAT</LIEU_PRINCIPAL>
+          <CRITERES_ATTRIBUTION>
+            <CRITERES_COUT>
+              <CRITERE>conditions financières proposées</CRITERE>
+              <CRITERE>qualité du service</CRITERE>
+              <CRITERE>risques supportés et garanties apportées</CRITERE>
+            </CRITERES_COUT>
+          </CRITERES_ATTRIBUTION>
+          <VALEUR DEVISE="EUR">3113000</VALEUR>
+          <DUREE_MOIS>84</DUREE_MOIS>
+          <FONDS_COMMUNAUTAIRES_NON/>
+        </LOT>
+      </LOTS>
+    </OBJET>
+    <PROCEDURE>
+      <MARCHE_PERIODIQUE_NON/>
+    </PROCEDURE>
+    <CONDITION_DELAI>
+      <RECEPT_OFFRES>2017-03-15T16:00:00+01:00</RECEPT_OFFRES>
+    </CONDITION_DELAI>
+    <CONDITION_RELATIVE_MARCHE>
+      <PARTICIPATION_ELECTRONIQUE_NON/>
+      <LANGUES>
+        <LANGUE>fr</LANGUE>
+      </LANGUES>
+    </CONDITION_RELATIVE_MARCHE>
+    <CONDITION_PARTICIPATION>
+      <SITUATION_JURIDIQUE>Lettre de candidature valant déclaration sur l'honneur pour justifier que le candidat n'entre dans aucun des cas mentionnés d'interdiction de soumissionner.- Copie des certificats ou de l'état annuel des certificats reçus attestant que le candidat est à jour au 31.12.2016 des impots et cotisations - Déclaration sur l'honneur attestant que le candidat remplit les conditions soumises aux articles 39.40 et 42 de l'ordonnance du 29 janvier 2016, et à l'ensemble des conditions soumises à l'article 19 et 21 de la même ordonnance. Déclarartion relative au respect de l'obligation d'emploi de travailleurs handicapés mentionnés aux articles L5212-1 à L512-4 du code du travail. Extrait Kbis de moins de 6 mois ou équivalent étranger et composoition du capital socialun certificat de régularité fiscale et sociale délivré par les administrations et organismes compétents</SITUATION_JURIDIQUE>
+      <CAP_ECO>- CapaciteÌs professionnelles et financieÌeurores d'exploiter le service public</CAP_ECO>
+      <CAP_ECO_NIVEAU_MINI>La preÌsentation de la structure de l'entreprise (forme juridique, date de creÌation, extrait original du Registre du Commerce, copie certifieÌe conforme des statuts, moyens humains et mateÌriels, qualification des personnels)Déclaration concernant le chiffre d'affaires -Bilans-comptes de reÌsultat des 3 derniers exercices-</CAP_ECO_NIVEAU_MINI>
+      <CAP_TECH>- CapaciteÌs de garantir la continuiteÌ du service public et l'eÌgaliteÌ des usagers - Dossiers de reÌfeÌrence et notamment expeÌrience de gestion et d'exploitation de stations services</CAP_TECH>
+      <CAP_TECH_NIVEAU_MINI>Liste des principaux services au cours des trois dernières années, indiquant le montant, la date et le destinataire public ou privé. ; Déclaration indiquant les ffectifs moyens annuels du candidat et l'importance du personnel d'encadrement pour chacune des trois dernières années.Les références du candidat en matieÌeurore d'exploitation et de gestion d'un service public aux caracteÌristiques comparables aÌeuro celles du service deÌleÌgueÌ</CAP_TECH_NIVEAU_MINI>
+      <MARCHE_RESERVE_NON/>
+      <ELIGIBLE_MPS>
+        <non/>
+      </ELIGIBLE_MPS>
+    </CONDITION_PARTICIPATION>
+    <CONDITION_ADMINISTRATIVE>
+      <ENVOI_ELECTRONIQUE_AVEC_OUTIL_NON/>
+    </CONDITION_ADMINISTRATIVE>
+    <RENSEIGNEMENTS_COMPLEMENTAIRES>
+      <RENS_COMPLEMENT>Nombre de candidats admis à présenter une offre : 3 Les critères de sélection des candidatures sont :- les garanties professionnelles et financières,- l'aptitude à assurer la continuité du service public et l'égalité des usagers devant le service public,- le respect de l'obligation d'emploi des travailleurs.Les candidatures peuvent être adressées ou remises dans les conditions suivantes : via la plate-forme de dématérialisation des marchés publics est accessible sur : http://cc-pyreneesaudoises.e-marchespublics.com/. ouïparagraphe Sur un support papier et adressées par lettre recommandée avec demande d'avis de réception postal. ou remissous pli cacheté contre récépissé.à l'adresse suivante : Communauté des Communes des Pyrénées Audoises8 Avenue François Mitterrand -BP8 -11500 QUILLAN</RENS_COMPLEMENT>
+      <PROCEDURES_RECOURS_PRECISIONS>Pour obtenir des renseignements relatifs à l'introduction des recours, les candidats devront s'adresser à :</PROCEDURES_RECOURS_PRECISIONS>
+      <ADRESSES_COMPLEMENTAIRES>
+        <ADRESSE>
+          <TYPE>
+            <INSTANCE_RECOURS/>
+          </TYPE>
+          <DENOMINATION>Tribunal Administratif de Montpellier</DENOMINATION>
+          <ADRESSE>6 rue Pitot</ADRESSE>
+          <CP>34063</CP>
+          <VILLE>Montpelier cedex</VILLE>
+          <TEL>(+33) 4-67-54-81-00</TEL>
+          <FAX>(+33) 4-67-54-81-56</FAX>
+          <MEL>greffe.ta-montpellier@juradm.fr</MEL>
+        </ADRESSE>
+        <ADRESSE>
+          <TYPE>
+            <ORGANE_MEDIATION/>
+          </TYPE>
+          <DENOMINATION>Comité Consultatif Interrégional de règlement amiable des litiges en matière de marchés publics</DENOMINATION>
+          <ADRESSE>Préfecture de Région - Secrétariat général pour les affaires interrégionales -30 rue Paul Peytral</ADRESSE>
+          <CP>13282</CP>
+          <VILLE>Marseille Cedex</VILLE>
+        </ADRESSE>
+        <ADRESSE>
+          <TYPE>
+            <RENS_RECOURS/>
+          </TYPE>
+          <DENOMINATION>Greffe du Tribunal Administratif de Montpellier</DENOMINATION>
+          <ADRESSE>6 rue Pitot - CS 99002</ADRESSE>
+          <CP>34063</CP>
+          <VILLE>Montpellier Cedex</VILLE>
+          <TEL>(+33) 4-67-54-81-00</TEL>
+          <MEL>greffe.ta-montpellier@juradm.fr</MEL>
+        </ADRESSE>
+        <ADRESSE>
+          <TYPE>
+            <ENVOYER_OFFRES/>
+          </TYPE>
+          <DENOMINATION>Via la plateforme de dématérialisation accessible par http://cc-pyreneesaudoises.e-marchespublics.com/ ou Communauté des Communes des Pyrénées Audoises</DENOMINATION>
+          <CONTACT>Philippe Raynaud</CONTACT>
+          <ADRESSE>8 Avenue François Mitterrand -BP 8</ADRESSE>
+          <CP>11500</CP>
+          <VILLE>QUILLAN</VILLE>
+          <CODE_NUTS>FR811</CODE_NUTS>
+          <TEL>(+33) 4-68-20-00-10</TEL>
+          <MEL>philippe.raynaud@pyreneesaudoises.fr</MEL>
+          <URL>http://cc-pyreneesaudoises.com</URL>
+        </ADRESSE>
+      </ADRESSES_COMPLEMENTAIRES>
+    </RENSEIGNEMENTS_COMPLEMENTAIRES>
+  </DONNEES>
+</ANNONCE>

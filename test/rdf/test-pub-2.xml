@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:b="https://data.maudry.com/voc/boamp#"
+         xmlns:dct="http://purl.org/dc/terms/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:attributions="https://boamp.maudry.com/attributions/"
+         xmlns:appeloffres="https://boamp.maudry.com/appeloffres/"
+         xmlns:annonces="https://boamp.maudry.com/annonces/"
+         xmlns:acheteurs="https://boamp.maudry.com/acheteurs/"
+         xmlns:titulaires="https://boamp.maudry.com/titulaires/"
+         xmlns:descripteurs="https://boamp.maudry.com/descripteurs/"
+         xmlns:lots="https://boamp.maudry.com/lots/"
+         xmlns:cpv="https://boamp.maudry.com/cpv/">
+  <b:Annonce rdf:about="https://boamp.maudry.com/annonces/16-181902">
+      <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
+      <b:idweb>16-181902</b:idweb>
+      <b:nomHtml>16-181902.html</b:nomHtml>
+      <b:datePublication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-01-01</b:datePublication>
+      <b:dateFinDiffusion rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-01-30</b:dateFinDiffusion>
+      <b:descripteur rdf:resource="https://boamp.maudry.com/descripteurs/118"/>
+      <b:descripteur rdf:resource="https://boamp.maudry.com/descripteurs/197"/>
+      <b:departementPublication>13</b:departementPublication>
+      <b:resumeObjet>mission de maîtrise d'oeuvre pour la conception d'un ouvrage d'art - complexe international Cap Janet.</b:resumeObjet>
+      <b:appelOffres>
+         <b:AppelOffres rdf:about="https://boamp.maudry.com/appeloffres/16-181902">
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/Grand-Port-Maritime-de-Marseille">
+                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdfs:label>Grand Port Maritime de Marseille</rdfs:label>
+                  <b:codePostal>13226</b:codePostal>
+                  <b:ville>MARSEILLE Cedex 02</b:ville>
+                  <b:profilAcheteur rdf:resource="http://www.marseille-publics.gouv.fr"/>
+               </rdf:Description>
+            </b:acheteur>
+            <b:titreMarche>Mission de maîtrise d'oeuvre pour la conception d'un ouvrage d'art - Port de Marseille - complexe international Cap Janet</b:titreMarche>
+            <b:refMarche>201611004</b:refMarche>
+            <b:typeMarche>Service</b:typeMarche>
+            <b:objetComplet>La présente mission de maîtrise d'oeuvre prévoit la poursuite des études de conception déjà entamées par le découpage suivant et la réalisation :En tranche ferme du dossier PRO et du DCE de l'ouvrage de franchissement en même temps que l'intégration des études géotechniques confiées à un autre prestataire. -	en tranches optionnelles de la mission ACT (TO1) et du visa (TO2) en DET, toujours avec la nécessité de gestion de l&#x92;interface avec le prestataire géotechnique.Le coût prévisionnel des travaux est fixé à 1 000 000,00 Euros H.T. pour la solution hors étude des voies sous ouvrages et à 1 200 000,00 Euros H.T. pour la solution avec étude des voies sous ouvrages.</b:objetComplet>
+            <b:cpvPrincipal rdf:resource="https://boamp.maudry.com/cpv/71240000"/>
+            <b:lot>
+               <b:Lot rdf:about="https://boamp.maudry.com/lots/16-181902_">
+                  <b:appelOffres rdf:resource="https://boamp.maudry.com/annonces/16-181902"/>
+                  <b:description>Le marché de maîtrise d'oeuvre est décomposé en une tranche ferme et 2 tranches optionnelles (avec intégration des études géotechniques confiées à un autre prestataire). La conception portera notamment sur les parties suivantes de l&#x92;ouvrage de franchissement : Murs en terre armée (et ses fondations). équipements de chaussée (bordures, signalisation horizontale et verticale, dispositifs de retenu, joint de chaussée, étanchéité etc). La chaussée et l&#x92;arase supérieure des terrassements. L&#x92;ouvrage de franchissement (culées et murs associés, tablier, appuis de pont, etc.) et les " structures " de transition. La problématique du renforcement des sols d&#x92;assise des rampes ne fait pas partie de la mission. De la même manière, les fondations profondes sur lesquelles seront assises les culées seront principalement traitées par le prestataire géotechnique même si elles doivent rester sous le contrôle du prestataire du présent marché. </b:description>
+                  <b:cpvPrincipal rdf:resource="https://boamp.maudry.com/cpv/71240000"/>
+                  <b:cpvPrincipal rdf:resource="https://boamp.maudry.com/cpv/79311000"/>
+                  <b:cpvPrincipal rdf:resource="https://boamp.maudry.com/cpv/71335000"/>
+                  <b:valeur rdf:parseType="Resource">
+                     <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">50000</b:montant>
+                     <b:devise>EUR</b:devise>
+                  </b:valeur>
+               </b:Lot>
+            </b:lot>
+            <b:typeProcedure>Ouvert</b:typeProcedure>
+            <b:eligibleMps rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:eligibleMps>
+         </b:AppelOffres>
+      </b:appelOffres>
+   </b:Annonce>
+  
+</rdf:RDF>

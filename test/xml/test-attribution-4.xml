@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNONCE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd">
+  <GESTION>
+    <REFERENCE>
+      <IDWEB>16-183123</IDWEB>
+      <TYPE_AVIS>
+        <FAMILLE>
+          <MAPA/>
+        </FAMILLE>
+        <PERIMETRE>
+          <CMP-2006/>
+        </PERIMETRE>
+        <NATURE>
+          <ATTRIBUTION/>
+        </NATURE>
+        <STATUT>
+          <INITIAL/>
+        </STATUT>
+      </TYPE_AVIS>
+    </REFERENCE>
+    <MARCHE>
+      <ANNONCE_ANTERIEUR>
+        <REFERENCE>
+          <IDWEB>16-155545</IDWEB>
+          <TYPE_AVIS>
+            <FAMILLE>
+              <MAPA/>
+            </FAMILLE>
+            <PERIMETRE>
+              <CMP-2006/>
+            </PERIMETRE>
+            <NATURE>
+              <APPEL_OFFRE/>
+            </NATURE>
+            <STATUT>
+              <INITIAL/>
+            </STATUT>
+          </TYPE_AVIS>
+        </REFERENCE>
+        <REFERENCE_PUBLICATION>
+          <PUBLICATION_ELECTRONIQUE>
+            <DATE_PUBLICATION>2016-10-27</DATE_PUBLICATION>
+            <DATE_FIN_DIFFUSION>2016-11-21</DATE_FIN_DIFFUSION>
+          </PUBLICATION_ELECTRONIQUE>
+        </REFERENCE_PUBLICATION>
+      </ANNONCE_ANTERIEUR>
+      <ANNONCE_ANTERIEUR>
+        <REFERENCE>
+          <IDWEB>16-159242</IDWEB>
+          <TYPE_AVIS>
+            <FAMILLE>
+              <MAPA/>
+            </FAMILLE>
+            <PERIMETRE>
+              <CMP-2006/>
+            </PERIMETRE>
+            <NATURE>
+              <APPEL_OFFRE/>
+            </NATURE>
+            <STATUT>
+              <RECTIFICATIF/>
+            </STATUT>
+          </TYPE_AVIS>
+        </REFERENCE>
+        <REFERENCE_PUBLICATION>
+          <PUBLICATION_ELECTRONIQUE>
+            <DATE_PUBLICATION>2016-11-02</DATE_PUBLICATION>
+            <DATE_FIN_DIFFUSION>2016-11-21</DATE_FIN_DIFFUSION>
+          </PUBLICATION_ELECTRONIQUE>
+        </REFERENCE_PUBLICATION>
+      </ANNONCE_ANTERIEUR>
+    </MARCHE>
+    <NOM_HTML>16-183123.html</NOM_HTML>
+    <INDEXATION>
+      <DATE_PUBLICATION>2017-01-19</DATE_PUBLICATION>
+      <DATE_FIN_DIFFUSION>2017-02-19</DATE_FIN_DIFFUSION>
+      <DESCRIPTEURS>
+        <DESCRIPTEUR>
+          <CODE>160</CODE>
+          <LIBELLE>Impression</LIBELLE>
+        </DESCRIPTEUR>
+      </DESCRIPTEURS>
+      <DEP_PUBLICATION>10</DEP_PUBLICATION>
+      <RESUME_OBJET>réalisation, fabrication, impression et diffusion de catalogues pour le compte de la ville de troyes</RESUME_OBJET>
+    </INDEXATION>
+  </GESTION>
+  <DONNEES>
+    <IDENTITE>
+      <DENOMINATION>Ville de Troyes</DENOMINATION>
+      <CORRESPONDANT>L'Adjoint au Maire par délégation de Mr le Maire</CORRESPONDANT>
+      <ADRESSE>place Alexandre IsraëlBP 767</ADRESSE>
+      <CP>10026</CP>
+      <VILLE>Troyes cedex</VILLE>
+      <TEL>(+33)3-25-42-68-47</TEL>
+      <FAX>(+33)3-25-42-34-47</FAX>
+      <MEL>commande.publique@ville-troyes.fr</MEL>
+      <URL>http://www.ville-troyes.fr</URL>
+      <URL_PROFIL_ACHETEUR>http://www.xmarches.fr</URL_PROFIL_ACHETEUR>
+    </IDENTITE>
+    <TYPE_ORGANISME>
+      <COMMUNE/>
+    </TYPE_ORGANISME>
+    <OBJET>
+      <TYPE_MARCHE>
+        <SERVICE/>
+      </TYPE_MARCHE>
+      <OBJET_COMPLET>Réalisation, fabrication, impression et diffusion de catalogues pour le compte de la Ville de Troyes - Lot no 3 : Impression et livraison des catalogues de l'exposition 'Repenser Renoir' du musée d'art moderne de Troyes</OBJET_COMPLET>
+    </OBJET>
+    <PROCEDURE>
+      <TYPE_PROCEDURE>
+        <PROCEDURE_ADAPTE/>
+      </TYPE_PROCEDURE>
+      <CRITERES_ATTRIBUTION>
+        <CRITERES_PONDERES>
+          <CRITERE POIDS="60">Valeur technique, notée sur 10, jugée au regard du mémoire technique à fournir par le candidat comportant notamment : - la qualité des échantillons (gravure/3pts - impression/2pts - façonnage/1pt) - l'organisation et la méthodologie mises en place par le candidat pour réaliser l'ensemble des prestations, y compris planning détaillant les différentes phases de travail pour la réalisation de la maquette (2 points) - les moyens humains affectés au comité de lecture (1 point) - le réseau de vente et de diffusion des catalogues (1 point)</CRITERE>
+          <CRITERE POIDS="40">Prix des prestations, notés sur 10, jugé au regard du cumul du montant global et forfaitaire et du montant du détail quantitatif estimatif</CRITERE>
+        </CRITERES_PONDERES>
+      </CRITERES_ATTRIBUTION>
+    </PROCEDURE>
+    <ATTRIBUTION>
+      <SANS_SUITE/>
+      <VALEUR_TOTALE DEVISE="EUR">15000</VALEUR_TOTALE>
+      <DECISION>
+        <ATTRIBUE/>
+        <NUM_LOT>1</NUM_LOT>
+        <DESCRIPTION>Ce lot a pour objet de confier la réalisation, la fabrication, l'impression et la diffusion du catalogue des collections intitulé Voyage autour des collections : Muséum de Troyes. Il s'agit, à partir d'éléments fournis par le Muséum d'Histoire naturelle de concevoir, de fabriquer, d'éditer l'ouvrage et d'en assurer une diffusion commerciale.</DESCRIPTION>
+      </DECISION>
+      <DECISION>
+        <ATTRIBUE/>
+        <NUM_LOT>2</NUM_LOT>
+        <DESCRIPTION>Ce lot a pour objet de confier la réalisation, la fabrication, l'impression et la diffusion du catalogue des collections de peinture du musée des Beaux-Arts. Il s'agit, à partir d'éléments fournis par le musée des Beaux-Arts de concevoir, de fabriquer, d'éditer et d'assurer une diffusion commerciale de l'ouvrage.</DESCRIPTION>
+      </DECISION>
+      <DECISION>
+        <ATTRIBUE/>
+        <NUM_LOT>3</NUM_LOT>
+        <DESCRIPTION>Ce lot a pour objet de confier la réalisation, la fabrication, l'impression et la diffusion du catalogue de l'exposition " Repenser Renoir " (titre provisoire) qui aura lieu au musée d'Art moderne du 17 juin au 17 septembre 2017. Il s'agit, à partir d'éléments fournis par le musée d'Art moderne de concevoir, de fabriquer, d'éditer et d'assurer une diffusion commerciale de l'ouvrage.</DESCRIPTION>
+      </DECISION>
+    </ATTRIBUTION>
+  </DONNEES>
+</ANNONCE>

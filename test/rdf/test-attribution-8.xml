@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:b="https://data.maudry.com/voc/boamp#"
+         xmlns:dct="http://purl.org/dc/terms/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:attributions="https://boamp.maudry.com/attributions/"
+         xmlns:appeloffres="https://boamp.maudry.com/appeloffres/"
+         xmlns:annonces="https://boamp.maudry.com/annonces/"
+         xmlns:acheteurs="https://boamp.maudry.com/acheteurs/"
+         xmlns:titulaires="https://boamp.maudry.com/titulaires/"
+         xmlns:descripteurs="https://boamp.maudry.com/descripteurs/"
+         xmlns:lots="https://boamp.maudry.com/lots/"
+         xmlns:cpv="https://boamp.maudry.com/cpv/">
+  <b:Annonce rdf:about="https://boamp.maudry.com/annonces/17-4742">
+      <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
+      <b:idweb>17-4742</b:idweb>
+      <b:annonceAnterieure>
+         <b:Annonce rdf:about="https://boamp.maudry.com/annonces/16-652">
+            <b:idweb>16-652</b:idweb>
+         </b:Annonce>
+      </b:annonceAnterieure>
+      <b:nomHtml>17-4742.html</b:nomHtml>
+      <b:datePublication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-01-11</b:datePublication>
+      <b:dateFinDiffusion rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-02-10</b:dateFinDiffusion>
+      <b:descripteur rdf:resource="https://boamp.maudry.com/descripteurs/461"/>
+      <b:departementPublication>42</b:departementPublication>
+      <b:resumeObjet>DAMR 2016/01 PRESTATION D'INTERIM MEDICAL EN ANESTHESIE-REANIMATION</b:resumeObjet>
+      <b:attribution>
+         <b:Attribution rdf:about="https://boamp.maudry.com/attributions/17-4742">
+            <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-652"/>
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/CHU-St-Etienne">
+                  <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Autre"/>
+                  <rdfs:label>CHU St Etienne</rdfs:label>
+                  <b:codePostal>42055</b:codePostal>
+                  <b:ville>St etienne</b:ville>
+                  <b:profilAcheteur rdf:resource="http://www.achats-hopitaux.com"/>
+               </rdf:Description>
+            </b:acheteur>
+            <b:nbTitulaires rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</b:nbTitulaires>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-02-02</b:dateAttribution>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/ARC-INTERIM--Rang-1--75019">
+                  <rdfs:label>ARC INTERIM (Rang 1)</rdfs:label>
+                  <b:codePostal>75019</b:codePostal>
+                  <b:ville>PARIS</b:ville>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/PROMAN-MEDICAL--Rang-2--33000">
+                  <rdfs:label>PROMAN MEDICAL (Rang 2)</rdfs:label>
+                  <b:codePostal>33000</b:codePostal>
+                  <b:ville>Bordeaux</b:ville>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/ADECCO-MEDECINS--Rang-3--13001">
+                  <rdfs:label>ADECCO MEDECINS (Rang 3)</rdfs:label>
+                  <b:codePostal>13001</b:codePostal>
+                  <b:ville>Marseille</b:ville>
+               </b:Titulaire>
+            </b:titulaire>
+         </b:Attribution>
+      </b:attribution>
+   </b:Annonce>
+  
+</rdf:RDF>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:b="https://data.maudry.com/voc/boamp#"
+         xmlns:dct="http://purl.org/dc/terms/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:attributions="https://boamp.maudry.com/attributions/"
+         xmlns:appeloffres="https://boamp.maudry.com/appeloffres/"
+         xmlns:annonces="https://boamp.maudry.com/annonces/"
+         xmlns:acheteurs="https://boamp.maudry.com/acheteurs/"
+         xmlns:titulaires="https://boamp.maudry.com/titulaires/"
+         xmlns:descripteurs="https://boamp.maudry.com/descripteurs/"
+         xmlns:lots="https://boamp.maudry.com/lots/"
+         xmlns:cpv="https://boamp.maudry.com/cpv/">
+  <b:Annonce rdf:about="https://boamp.maudry.com/annonces/17-1028">
+      <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
+      <b:idweb>17-1028</b:idweb>
+      <b:annonceAnterieure>
+         <b:Annonce rdf:about="https://boamp.maudry.com/annonces/16-36319">
+            <b:idweb>16-36319</b:idweb>
+         </b:Annonce>
+      </b:annonceAnterieure>
+      <b:nomHtml>17-1028.html</b:nomHtml>
+      <b:datePublication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-01-04</b:datePublication>
+      <b:dateFinDiffusion rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-04</b:dateFinDiffusion>
+      <b:descripteur rdf:resource="https://boamp.maudry.com/descripteurs/341"/>
+      <b:departementPublication>33</b:departementPublication>
+      <b:resumeObjet>Aménagement d'un parking de 116 places sur le site du parc cimetière rive gauche à Mérignac. Mérignac</b:resumeObjet>
+      <b:attribution>
+         <b:Attribution rdf:about="https://boamp.maudry.com/attributions/17-1028">
+            <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-36319"/>
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/Bordeaux-Métropole">
+                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdfs:label>Bordeaux Métropole</rdfs:label>
+                  <b:codePostal>33076</b:codePostal>
+                  <b:ville>Bordeaux Cedex</b:ville>
+                  <b:profilAcheteur rdf:resource="http://www.demat-ampa.fr"/>
+               </rdf:Description>
+            </b:acheteur>
+            <b:nbTitulaires rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbTitulaires>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Moter-33694">
+                  <rdfs:label>Moter</rdfs:label>
+                  <b:codePostal>33694</b:codePostal>
+                  <b:ville>Mérignac</b:ville>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">159691.6</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+         </b:Attribution>
+      </b:attribution>
+   </b:Annonce>
+  
+</rdf:RDF>

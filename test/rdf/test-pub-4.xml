@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:b="https://data.maudry.com/voc/boamp#"
+         xmlns:dct="http://purl.org/dc/terms/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:attributions="https://boamp.maudry.com/attributions/"
+         xmlns:appeloffres="https://boamp.maudry.com/appeloffres/"
+         xmlns:annonces="https://boamp.maudry.com/annonces/"
+         xmlns:acheteurs="https://boamp.maudry.com/acheteurs/"
+         xmlns:titulaires="https://boamp.maudry.com/titulaires/"
+         xmlns:descripteurs="https://boamp.maudry.com/descripteurs/"
+         xmlns:lots="https://boamp.maudry.com/lots/"
+         xmlns:cpv="https://boamp.maudry.com/cpv/">
+  <b:Annonce rdf:about="https://boamp.maudry.com/annonces/16-186173">
+      <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
+      <b:idweb>16-186173</b:idweb>
+      <b:nomHtml>16-186173.html</b:nomHtml>
+      <b:datePublication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-01-01</b:datePublication>
+      <b:dateFinDiffusion rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-02-28</b:dateFinDiffusion>
+      <b:descripteur rdf:resource="https://boamp.maudry.com/descripteurs/406"/>
+      <b:departementPublication>27</b:departementPublication>
+      <b:resumeObjet>Ville des andelys</b:resumeObjet>
+      <b:appelOffres>
+         <b:AppelOffres rdf:about="https://boamp.maudry.com/appeloffres/16-186173">
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/COMMUNE-DE-LES-ANDELYS">
+                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdfs:label>COMMUNE DE LES ANDELYS</rdfs:label>
+                  <b:codePostal>27705</b:codePostal>
+                  <b:ville>Andelys</b:ville>
+               </rdf:Description>
+            </b:acheteur>
+            <b:titreMarche>Ville des andelys</b:titreMarche>
+            <b:typeMarche>Service</b:typeMarche>
+            <b:objetComplet>: Volume produit : 535 878 m3, volume consommé autorisé : 303 754 m3, nombre d'installations de production : 2, capacité totale de production 1680 m3/j, nombre de réservoirs : 3 , capacité totale des réservoirs 1 900 m3, longueur de réseau 60 k m, longueur des canalisations de distribution : 45 km, nombre de branchement : 2 289, nombre de compteurs : 3266</b:objetComplet>
+            <b:cpvPrincipal rdf:resource="https://boamp.maudry.com/cpv/65110000"/>
+            <b:lot>
+               <b:Lot rdf:about="https://boamp.maudry.com/lots/16-186173_">
+                  <b:appelOffres rdf:resource="https://boamp.maudry.com/annonces/16-186173"/>
+                  <b:description>le droit exclusif pour le fermier, d'assurer auprès des usagers la gestion du service d'eau potable dans le périmètre d'affermage.la production et la distribution d'eau nécessaire à l'alimentation des abonnés de la Collectivité en conformité avec la réglementation.Obligation pour le Concessionnaire, d'assurer la surveillance, le fonctionnement, l'entretien et la réparation des canalisations et ouvrages destinés à la production et la distribution d'eau potable à l'intérieur du périmètre d'affermage. Obligation d'assurer l'entretien, les réparations et le contrôle de la conformité des branchements au réseau public, de détecter et corriger, les fuites, les anomalies des réseaux, les dysfonctionnements localisés du service délégué. obligation de maintenir une veille sur le niveau de ses performances, notamment le taux de rendement du réseau et l'indice linéaire de perte.</b:description>
+                  <b:cpvPrincipal rdf:resource="https://boamp.maudry.com/cpv/65110000"/>
+                  <b:cpvPrincipal rdf:resource="https://boamp.maudry.com/cpv/65100000"/>
+               </b:Lot>
+            </b:lot>
+            <b:eligibleMps rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:eligibleMps>
+         </b:AppelOffres>
+      </b:appelOffres>
+   </b:Annonce>
+  
+</rdf:RDF>

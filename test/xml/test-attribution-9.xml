@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNONCE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd">
+  <GESTION>
+    <REFERENCE>
+      <IDWEB>17-5219</IDWEB>
+      <TYPE_AVIS>
+        <FAMILLE>
+          <FNS/>
+        </FAMILLE>
+        <PERIMETRE>
+          <CMP-2006/>
+        </PERIMETRE>
+        <NATURE>
+          <ATTRIBUTION/>
+        </NATURE>
+        <STATUT>
+          <INITIAL/>
+        </STATUT>
+      </TYPE_AVIS>
+    </REFERENCE>
+    <MARCHE>
+      <ANNONCE_ANTERIEUR>
+        <REFERENCE>
+          <IDWEB>16-105311</IDWEB>
+          <TYPE_AVIS>
+            <FAMILLE>
+              <FNS/>
+            </FAMILLE>
+            <PERIMETRE>
+              <CMP-2006/>
+            </PERIMETRE>
+            <NATURE>
+              <APPEL_OFFRE/>
+            </NATURE>
+            <STATUT>
+              <INITIAL/>
+            </STATUT>
+          </TYPE_AVIS>
+        </REFERENCE>
+        <REFERENCE_PUBLICATION>
+          <PUBLICATION_ELECTRONIQUE>
+            <DATE_PUBLICATION>2016-07-15</DATE_PUBLICATION>
+            <DATE_FIN_DIFFUSION>2016-09-28</DATE_FIN_DIFFUSION>
+          </PUBLICATION_ELECTRONIQUE>
+        </REFERENCE_PUBLICATION>
+      </ANNONCE_ANTERIEUR>
+    </MARCHE>
+    <NOM_HTML>17-5219.html</NOM_HTML>
+    <INDEXATION>
+      <DATE_PUBLICATION>2017-01-12</DATE_PUBLICATION>
+      <DATE_FIN_DIFFUSION>2017-02-26</DATE_FIN_DIFFUSION>
+      <DESCRIPTEURS>
+        <DESCRIPTEUR>
+          <CODE>47</CODE>
+          <LIBELLE>Câblage</LIBELLE>
+        </DESCRIPTEUR>
+        <DESCRIPTEUR>
+          <CODE>162</CODE>
+          <LIBELLE>Informatique (matériel)</LIBELLE>
+        </DESCRIPTEUR>
+      </DESCRIPTEURS>
+      <DEP_PUBLICATION>5</DEP_PUBLICATION>
+      <RESUME_OBJET>Travaux et fourniture du câblage du réseau informatique et téléphonique du Département des Hautes-Alpes</RESUME_OBJET>
+    </INDEXATION>
+  </GESTION>
+  <DONNEES>
+    <IDENTITE>
+      <DENOMINATION>DEPARTEMENT DES HAUTES-ALPES</DENOMINATION>
+      <CORRESPONDANT> Le Président</CORRESPONDANT>
+      <ADRESSE>Hôtel du Département, Place Saint-Arnoux, CS 66005</ADRESSE>
+      <CP>05008</CP>
+      <VILLE>GAP</VILLE>
+      <MEL>re-ap-mp@hautes-alpes.fr</MEL>
+      <URL>http://marchespublics.hautes-alpes.fr</URL>
+      <URL_PROFIL_ACHETEUR>http://marchespublics.hautes-alpes.fr</URL_PROFIL_ACHETEUR>
+    </IDENTITE>
+    <TYPE_ORGANISME>
+      <DEPARTEMENT/>
+    </TYPE_ORGANISME>
+    <ACTIVITE_PRINCIPALE>
+      <POUVOIR_ADJUDICATEUR>
+        <ACT_SERV_ADM_PUB/>
+      </POUVOIR_ADJUDICATEUR>
+    </ACTIVITE_PRINCIPALE>
+    <OBJET>
+      <OBJET_COMPLET>Travaux et fourniture du câblage du réseau informatique et téléphonique du Département des Hautes-Alpes</OBJET_COMPLET>
+      <CPV>
+        <PRINCIPAL>45314320</PRINCIPAL>
+      </CPV>
+      <CPV>
+        <PRINCIPAL>45311000</PRINCIPAL>
+      </CPV>
+    </OBJET>
+    <PROCEDURE>
+      <TYPE_PROCEDURE>
+        <PROCEDURE_ADAPTE/>
+      </TYPE_PROCEDURE>
+    </PROCEDURE>
+    <ATTRIBUTION>
+      <ATTRIBUE_PAR_LOTS_MARCHES/>
+      <DECISION>
+        <ATTRIBUE/>
+        <DESCRIPTION>Travaux et fourniture du câblage du réseau informatique et téléphonique du Département des Hautes-Alpes</DESCRIPTION>
+        <TITULAIRE>
+          <DENOMINATION>ROIRET Energies</DENOMINATION>
+          <ADRESSE>196 Allée Alexandre Borodine</ADRESSE>
+          <CP>69800</CP>
+          <VILLE>Saint-Priest</VILLE>
+        </TITULAIRE>
+        <RENSEIGNEMENT>
+          <DATE_ATTRIBUTION>2016-12-07</DATE_ATTRIBUTION>
+          <NB_OFFRE_RECU>2</NB_OFFRE_RECU>
+          <MONTANT DEVISE="EUR">150000</MONTANT>
+        </RENSEIGNEMENT>
+        <TITULAIRE>
+          <DENOMINATION>SCARA &amp; Cie</DENOMINATION>
+          <ADRESSE>ZA d'Entraigues II</ADRESSE>
+          <CP>05200</CP>
+          <VILLE>Embrun</VILLE>
+        </TITULAIRE>
+        <RENSEIGNEMENT>
+          <DATE_ATTRIBUTION>2016-12-07</DATE_ATTRIBUTION>
+          <NB_OFFRE_RECU>2</NB_OFFRE_RECU>
+          <MONTANT DEVISE="EUR">150000</MONTANT>
+        </RENSEIGNEMENT>
+      </DECISION>
+    </ATTRIBUTION>
+    <RENSEIGNEMENTS_COMPLEMENTAIRES>
+      <ADRESSES_COMPLEMENTAIRES>
+        <ADRESSE>
+          <TYPE>
+            <INSTANCE_RECOURS/>
+          </TYPE>
+          <DENOMINATION>Tribunal administratif de Marseille</DENOMINATION>
+          <ADRESSE>22,24 rue Breteuil</ADRESSE>
+          <CP>13006</CP>
+          <VILLE>Marseille</VILLE>
+          <TEL>04-91-13-48-13</TEL>
+          <FAX>04-91-81-13-87</FAX>
+          <MEL>greffe.ta-marseille@juradm.fr</MEL>
+        </ADRESSE>
+      </ADRESSES_COMPLEMENTAIRES>
+    </RENSEIGNEMENTS_COMPLEMENTAIRES>
+  </DONNEES>
+</ANNONCE>

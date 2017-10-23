@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNONCE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd">
+  <GESTION>
+    <REFERENCE>
+      <IDWEB>16-186359</IDWEB>
+      <TYPE_AVIS>
+        <FAMILLE>
+          <JOUE/>
+        </FAMILLE>
+        <PERIMETRE>
+          <DIRECTIVE-24/>
+        </PERIMETRE>
+        <NATURE>
+          <APPEL_OFFRE>
+            <STANDARD/>
+          </APPEL_OFFRE>
+        </NATURE>
+        <STATUT>
+          <INITIAL/>
+        </STATUT>
+      </TYPE_AVIS>
+    </REFERENCE>
+    <NOM_HTML>16-186359.html</NOM_HTML>
+    <INDEXATION>
+      <DATE_PUBLICATION>2017-01-01</DATE_PUBLICATION>
+      <DATE_FIN_DIFFUSION>2017-02-17</DATE_FIN_DIFFUSION>
+      <DESCRIPTEURS>
+        <DESCRIPTEUR>
+          <CODE>445</CODE>
+          <LIBELLE>Evénementiel</LIBELLE>
+        </DESCRIPTEUR>
+      </DESCRIPTEURS>
+      <DEP_PUBLICATION>75</DEP_PUBLICATION>
+      <RESUME_OBJET>Conception, organisation et réalisation de manifestations pour les ministères sociaux</RESUME_OBJET>
+    </INDEXATION>
+  </GESTION>
+  <DONNEES>
+    <IDENTITE>
+      <DENOMINATION>MTSFP</DENOMINATION>
+      <ADJUDICATEUR_NUTS>FR101</ADJUDICATEUR_NUTS>
+      <ADRESSE>14 av Duquesne</ADRESSE>
+      <CP>75007</CP>
+      <VILLE>Paris</VILLE>
+      <MEL>didier.hubler@sg.social.gouv.fr</MEL>
+      <URL>https://www.marches-publics.gouv.fr/?page=entreprise.EntrepriseAdvancedSearch&amp;AllCons&amp;refConsultation=316558&amp;orgAcronyme=h8j</URL>
+      <URL_PROFIL_ACHETEUR>https://www.marches-publics.gouv.fr/?page=entreprise.EntrepriseAdvancedSearch&amp;AllCons&amp;refConsultation=316558&amp;orgAcronyme=h8j</URL_PROFIL_ACHETEUR>
+      <URL_PARTICIPATION>https://www.marches-publics.gouv.fr/?page=entreprise.EntrepriseAdvancedSearch&amp;AllCons&amp;refConsultation=316558&amp;orgAcronyme=h8j</URL_PARTICIPATION>
+      <URL_DOCUMENT>https://www.marches-publics.gouv.fr/index.php?page=entreprise.EntrepriseAdvancedSearch&amp;AllCons&amp;refConsultation=316558&amp;orgAcronyme=h8j</URL_DOCUMENT>
+      <AGIT_POUR_AUTRE_COMPTE_NON/>
+      <ORGANISME_ACHETEUR_CENTRAL_NON/>
+    </IDENTITE>
+    <TYPE_POUVOIR_ADJUDICATEUR>
+      <MIN_AUTORITE_NATIONALE/>
+    </TYPE_POUVOIR_ADJUDICATEUR>
+    <ACTIVITE_PRINCIPALE>
+      <POUVOIR_ADJUDICATEUR>
+        <SANTE/>
+      </POUVOIR_ADJUDICATEUR>
+    </ACTIVITE_PRINCIPALE>
+    <OBJET>
+      <TITRE_MARCHE>Conception, organisation et réalisation de manifestations pour les ministères sociaux</TITRE_MARCHE>
+      <REF_MARCHE>AOOEVENEMENTS2016</REF_MARCHE>
+      <TYPE_MARCHE>
+        <SERVICE/>
+      </TYPE_MARCHE>
+      <OBJET_COMPLET>Conception, organisation et réalisation de manifestations pour les ministères sociaux. Lot no1 : Conception, organisation et réalisation de manifestations : colloques, séminaires, journées nationales, états généraux, événements exceptionnels organisés dans les locaux des ministères sociaux (amphithéâtre P. Laroque, auditorium, etc.). Lot no2 : Conception, organisation et réalisation de manifestations : colloques, séminaires, journées nationales, états généraux, événements exceptionnels organisés dans des salles extérieures aux ministères sociaux et mise en place de stands sur les salons auxquels participent les ministères sociaux.</OBJET_COMPLET>
+      <CPV>
+        <PRINCIPAL>79952000</PRINCIPAL>
+      </CPV>
+      <DIV_EN_LOTS>
+        <OUI/>
+        <OFFRE_TOUS/>
+      </DIV_EN_LOTS>
+      <NB_LOT_ATTRIB_MAX>1</NB_LOT_ATTRIB_MAX>
+      <LOTS>
+        <LOT>
+          <NUM>1</NUM>
+          <INTITULE>Conception, organisation et réalisation de manifestations organisées dans les locaux des ministères sociaux</INTITULE>
+          <DESCRIPTION>Conception, organisation et réalisation de manifestations : colloques, séminaires, journées nationales, états généraux, événements exceptionnels organisés dans les locaux des ministères sociaux (amphithéâtre P. Laroque, auditorium, etc.).</DESCRIPTION>
+          <CPV>
+            <PRINCIPAL>79952000</PRINCIPAL>
+          </CPV>
+          <CPV>
+            <PRINCIPAL>79951000</PRINCIPAL>
+          </CPV>
+          <CODE_NUTS>FR</CODE_NUTS>
+          <LIEU_PRINCIPAL>France métropolitaine et Corse</LIEU_PRINCIPAL>
+          <CRITERES_ATTRIBUTION>
+            <CRITERES_QUALITE>
+              <CRITERE POIDS="60">Valeur technique de la proposition</CRITERE>
+            </CRITERES_QUALITE>
+            <CRITERES_PRIX>
+              <POIDS>40</POIDS>
+            </CRITERES_PRIX>
+          </CRITERES_ATTRIBUTION>
+          <VALEUR DEVISE="EUR">1083333</VALEUR>
+          <DUREE_MOIS>12</DUREE_MOIS>
+          <RENOUVELLEMENT_OUI/>
+          <RENOUVELLEMENT_DESCRIPTION>Le marché est conclu pour une durée de 12 mois hors reconduction(s) éventuelle(s). La durée du marché court à compter de sa date de notification. Le marché est reconductible 3 fois selon les modalités suivantes : le marché est reconductible trois fois par période de douze mois. La durée totale du marché, reconductions comprises, ne peut excéder 48 mois.</RENOUVELLEMENT_DESCRIPTION>
+          <VARIANTES_NON/>
+          <OPTIONS_NON/>
+          <FONDS_COMMUNAUTAIRES_NON/>
+        </LOT>
+        <LOT>
+          <NUM>2</NUM>
+          <INTITULE>Conception, organisation et réalisation de manifestations organisées dans des salles extérieures au ministère</INTITULE>
+          <DESCRIPTION>Conception, organisation et réalisation de manifestations : colloques, séminaires, journées nationales, états généraux, événements exceptionnels organisés dans des salles extérieures au ministère et mise en place de stands sur les salons auxquels participent les ministères sociaux.</DESCRIPTION>
+          <CPV>
+            <PRINCIPAL>79952000</PRINCIPAL>
+          </CPV>
+          <CPV>
+            <PRINCIPAL>79951000</PRINCIPAL>
+          </CPV>
+          <CODE_NUTS>FR</CODE_NUTS>
+          <CRITERES_ATTRIBUTION>
+            <CRITERES_QUALITE>
+              <CRITERE POIDS="60">Valeur technique de la proposition</CRITERE>
+            </CRITERES_QUALITE>
+            <CRITERES_PRIX>
+              <POIDS>40</POIDS>
+            </CRITERES_PRIX>
+          </CRITERES_ATTRIBUTION>
+          <VALEUR DEVISE="EUR">6333333</VALEUR>
+          <DUREE_MOIS>12</DUREE_MOIS>
+          <RENOUVELLEMENT_OUI/>
+          <RENOUVELLEMENT_DESCRIPTION>Le marché est conclu pour une durée de 12 mois hors reconduction(s) éventuelle(s). La durée du marché court à compter de sa date de notification. Le marché est reconductible 3 fois selon les modalités suivantes : le marché est reconductible trois fois par période de douze mois. La durée totale du marché, reconductions comprises, ne peut excéder 48 mois.</RENOUVELLEMENT_DESCRIPTION>
+          <VARIANTES_NON/>
+          <OPTIONS_NON/>
+          <FONDS_COMMUNAUTAIRES_NON/>
+        </LOT>
+      </LOTS>
+    </OBJET>
+    <PROCEDURE>
+      <TYPE_PROCEDURE>
+        <OUVERT/>
+      </TYPE_PROCEDURE>
+      <ENCHERE_ELECTRONIQUE_NON/>
+      <AMP_OUI/>
+      <CRITERES_ATTRIBUTION>
+        <CRITERES_PRIX/>
+      </CRITERES_ATTRIBUTION>
+      <MARCHE_PERIODIQUE_OUI>
+        <CALENDRIER_PROCHAINS_AVIS>Décembre 2020</CALENDRIER_PROCHAINS_AVIS>
+      </MARCHE_PERIODIQUE_OUI>
+    </PROCEDURE>
+    <CONDITION_DELAI>
+      <RECEPT_OFFRES>2017-02-17T12:00:00+01:00</RECEPT_OFFRES>
+      <VALIDITE_OFFRE>
+        <DUREE_MOIS>4</DUREE_MOIS>
+      </VALIDITE_OFFRE>
+    </CONDITION_DELAI>
+    <CONDITION_RELATIVE_MARCHE>
+      <PARTICIPATION_ELECTRONIQUE_OUI/>
+      <LANGUES>
+        <LANGUE>fr</LANGUE>
+      </LANGUES>
+    </CONDITION_RELATIVE_MARCHE>
+    <CONDITION_PARTICIPATION>
+      <CAP_ECO>- Déclaration concernant le chiffre d'affaires global et le chiffre d'affaires concernant les prestations objet du marché, réalisés au cours des trois derniers exercices disponibles en fonction de la date de création de lentreprise ou du début dactivité de lopérateur économique, dans la mesure ou les informations sont disponibles</CAP_ECO>
+      <CAP_ECO_NIVEAU_MINI>Pour le lot no 1 : les candidats doivent justifier dun chiffre daffaires global annuel supérieur à 406 250 euros HT.Pour le lot no 2 : les candidats doivent justifier dun chiffre daffaires global annuel supérieur à 2 375 000 euros HT.</CAP_ECO_NIVEAU_MINI>
+      <CAP_TECH>- Pièces relatives au pouvoir des personnes habilitées à engager le candidat ; - Preuve d'une assurance pour les risques professionnels ; - Déclaration indiquant les effectifs moyens annuels du candidat et l'importance du personnel d'encadrement pour chacune des trois dernières années ; - Présentation d'une liste des principaux services effectués au cours des trois dernières années, indiquant le montant, la date et le destinataire public ou privé. Les prestations de services sont prouvées par des attestations du destinataire ou, à défaut, par une déclaration de l'opérateur économique. Les éléments de preuve relatifs à des services pertinents fournis il y a plus de trois ans seront pris en compte.</CAP_TECH>
+      <MARCHE_RESERVE_NON/>
+      <ELIGIBLE_MPS>
+        <non/>
+      </ELIGIBLE_MPS>
+    </CONDITION_PARTICIPATION>
+    <CONDITION_ADMINISTRATIVE>
+      <DATE_OUVERTURE_OFFRES>2017-02-17</DATE_OUVERTURE_OFFRES>
+      <ENVOI_ELECTRONIQUE_AVEC_OUTIL_NON/>
+    </CONDITION_ADMINISTRATIVE>
+    <RENSEIGNEMENTS_COMPLEMENTAIRES>
+      <RENS_COMPLEMENT>Le dossier de consultation est téléchargeable sur le site de la plate-forme des achats de l'Etat à l'adresse suivante :https://www.marches-publics.gouv.fr/?page=entreprise.EntrepriseAdvancedSearch&amp;AllCons&amp;refConsultation=316558&amp;orgAcronyme=h8jPour les 2 lots du marché, le détail des critères de sélection des offres est le suivant :Pour le lot 1 : Critère 1. Valeur technique de la proposition (60%) :Sous-critère 1.1. Qualité de l'équipe dédiée et organisation du travail mise en place avec le ministère1.1.1 Composition de l'équipe dédiée, répartition des rôles de chaque membre de l'équipe, expériences et qualifications de chacun (7.5%)1.1.2 Organisation du travail et modalités de collaboration avec l'administration proposées par le candidat (7.5 %) Sous-critère 1.2. Pertinence et exhaustivité des outils mis à disposition par le candidat à chaque étape de la préparation des manifestations (outils et plan de note d'intention) (15%)Sous-critère 1.3. Pertinence et qualité esthétique de l'identité visuelle et de ses différentes déclinaisons proposées dans le cadre de la simulation qualitative (10%)Sous-critère 1.4. Qualité technique et aménagement du site (accueil événement, événement et exposition) proposés dans le cadre de la simulation qualitative (10%)Sous-critère 1.5. Qualité des propositions d'animation proposées dans le cadre de la simulation qualitative (10%)Critère 2. Prix des prestations proposées (prix TTC) (40%)Pour le lot 2 :Critère 1. Valeur technique de la proposition (60%)Sous-critère 1.1. Qualité de l'équipe dédiée et organisation du travail mise en place avec le ministère1.1.1 Composition de l'équipe dédiée, répartition des rôles de chaque membre de l'équipe, expériences et qualifications de chacun (5%)1.1.2 Organisation du travail et modalités de collaboration avec l'administration proposées par le candidat (5 %)Sous-critère 1.2. Pertinence et exhaustivité des outils mis à disposition par le candidat à chaque étape de la préparation d'une manifestation (outils et plan de la note d'intention) (10%)Sous-critère 1.3. Pertinence et qualité esthétique de l'identité visuelle et de ses déclinaisons proposées dans le cadre de la simulation qualitative (5%)Sous-critère 1.4. Qualité technique et fonctionnelle de l'aménagement du site proposées dans le cadre de la simulation qualitative (10%)Sous-critère 1.5. Qualité des propositions d'animation proposée dans le cadre de la simulation qualitative (5%)Sous-critère 1.6. Qualité de la proposition de note d'intention proposée dans le cadre de la simulation qualitative (10%)Sous-critère 1.7. Qualité des propositions des plans et vues 3D et du plan signalétique proposés dans le cadre de la simulation qualitative (10%)Critère 2. Prix des prestations proposées (prix TTC) (40%)Si un candidat ayant soumissionné aux deux lots se voyait classé premier pour chacun des deux lots du marché après application des critères de sélection, il se verrait attribuer d'office le lot no2. Le lot no1 serait attribué au candidat classé en deuxième position du classement relatif au lot 1.. Date d'envoi du présent avis au JOUE et au BOAMP : 30 décembre 2016.</RENS_COMPLEMENT>
+      <PROCEDURES_RECOURS_PRECISIONS>Les candidats souhaitant contester les décisions de l'administration pourront :-soit exercer avant la signature du contrat un référé précontractuel (articles L. 551-1 à L. 551-12 et R 551-1 à R 551-6 du code justice administrative),-soit exercer après la signature du contrat :-un référé contractuel sur le fondement des articles L. 551-13 à L. 551-23 et R. 551-7 à R. 551-10 du code de justice administrative dans le délai de 31 jours à compter de la publication de l'avis d'attribution au JOUE ou, à défaut d'avis, dans un délai de 6 mois à compter du lendemain du jour de la conclusion du contrat.-un recours de plein contentieux en contestation de validité contractuelle issu de la jurisprudence 'Société Tropic travaux signalisation Guadeloupe' (CE, ass. 16 juillet 2007, Société Tropic Travaux Signalisation, req. no291545) dans un délai de deux mois à compter de la publication de l'avis d'attribution au JOUE.</PROCEDURES_RECOURS_PRECISIONS>
+      <ADRESSES_COMPLEMENTAIRES>
+        <ADRESSE>
+          <TYPE>
+            <INSTANCE_RECOURS/>
+          </TYPE>
+          <DENOMINATION>Tribunal administratif de Paris</DENOMINATION>
+          <ADRESSE>7, rue de Jouy</ADRESSE>
+          <CP>75181</CP>
+          <VILLE>PARIS</VILLE>
+          <TEL>(+33) 1-44-59-44-00</TEL>
+          <FAX>(+33) 1-44-59-44-00</FAX>
+          <MEL>greffe.ta-paris@juriadm.fr</MEL>
+        </ADRESSE>
+        <ADRESSE>
+          <TYPE>
+            <RENS_RECOURS/>
+          </TYPE>
+          <DENOMINATION>Greffe du Tribunal administratif de Paris</DENOMINATION>
+          <ADRESSE>7, rue de Jouy</ADRESSE>
+          <CP>75181</CP>
+          <VILLE>PARIS</VILLE>
+          <TEL>(+33) 1-44-59-44-00</TEL>
+          <FAX>(+33) 1-44-59-44-00</FAX>
+          <MEL>greffe.ta-paris@juriadm.fr</MEL>
+        </ADRESSE>
+      </ADRESSES_COMPLEMENTAIRES>
+    </RENSEIGNEMENTS_COMPLEMENTAIRES>
+  </DONNEES>
+</ANNONCE>

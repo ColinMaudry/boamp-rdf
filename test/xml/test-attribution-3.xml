@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNONCE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd">
+  <GESTION>
+    <REFERENCE>
+      <IDWEB>16-178891</IDWEB>
+      <TYPE_AVIS>
+        <FAMILLE>
+          <MAPA/>
+        </FAMILLE>
+        <PERIMETRE>
+          <CMP-2006/>
+        </PERIMETRE>
+        <NATURE>
+          <ATTRIBUTION/>
+        </NATURE>
+        <STATUT>
+          <INITIAL/>
+        </STATUT>
+      </TYPE_AVIS>
+    </REFERENCE>
+    <MARCHE>
+      <ANNONCE_ANTERIEUR>
+        <REFERENCE>
+          <IDWEB>16-139506</IDWEB>
+          <TYPE_AVIS>
+            <FAMILLE>
+              <MAPA/>
+            </FAMILLE>
+            <PERIMETRE>
+              <CMP-2006/>
+            </PERIMETRE>
+            <NATURE>
+              <APPEL_OFFRE/>
+            </NATURE>
+            <STATUT>
+              <INITIAL/>
+            </STATUT>
+          </TYPE_AVIS>
+        </REFERENCE>
+        <REFERENCE_PUBLICATION>
+          <PUBLICATION_ELECTRONIQUE>
+            <DATE_PUBLICATION>2016-09-23</DATE_PUBLICATION>
+            <DATE_FIN_DIFFUSION>2016-10-21</DATE_FIN_DIFFUSION>
+          </PUBLICATION_ELECTRONIQUE>
+        </REFERENCE_PUBLICATION>
+      </ANNONCE_ANTERIEUR>
+    </MARCHE>
+    <NOM_HTML>16-178891.html</NOM_HTML>
+    <INDEXATION>
+      <DATE_PUBLICATION>2017-01-05</DATE_PUBLICATION>
+      <DATE_FIN_DIFFUSION>2017-01-16</DATE_FIN_DIFFUSION>
+      <DESCRIPTEURS>
+        <DESCRIPTEUR>
+          <CODE>116</CODE>
+          <LIBELLE>Espaces verts</LIBELLE>
+        </DESCRIPTEUR>
+        <DESCRIPTEUR>
+          <CODE>118</CODE>
+          <LIBELLE>Etude</LIBELLE>
+        </DESCRIPTEUR>
+      </DESCRIPTEURS>
+      <DEP_PUBLICATION>91</DEP_PUBLICATION>
+      <RESUME_OBJET>Plan de déplacement Campus de l'Université Paris Sud. La présente consultation concerne : L'élaboration d'un Plan de Déplacements Campus pour les 5 sites de l'Université Paris-Sud</RESUME_OBJET>
+    </INDEXATION>
+  </GESTION>
+  <DONNEES>
+    <IDENTITE>
+      <DENOMINATION>Université paris Sud</DENOMINATION>
+      <CORRESPONDANT> Le Président de l'Université Paris Sud</CORRESPONDANT>
+      <ADRESSE>DABF Service Central des marchés Bat 209 D- 1er étage- 15 rue Georges Clémenceau</ADRESSE>
+      <CP>91405</CP>
+      <VILLE>Orsay Cedex</VILLE>
+    </IDENTITE>
+    <TYPE_ORGANISME>
+      <ETAT/>
+    </TYPE_ORGANISME>
+    <OBJET>
+      <TYPE_MARCHE>
+        <SERVICE/>
+      </TYPE_MARCHE>
+      <OBJET_COMPLET>Plan de déplacement Campus de l'Université Paris Sud</OBJET_COMPLET>
+    </OBJET>
+    <PROCEDURE>
+      <TYPE_PROCEDURE>
+        <PROCEDURE_ADAPTE/>
+      </TYPE_PROCEDURE>
+      <CRITERES_ATTRIBUTION>
+        <CRITERES_PONDERES>
+          <CRITERE POIDS="70">Valeur technique</CRITERE>
+          <CRITERE POIDS="45">Valeur technique : Méthodologie que le candidat mettra en place pour l'exécution du marché</CRITERE>
+          <CRITERE POIDS="25">Valeur technique : Moyens humains que le candidat mettre en place pour l'exécution du marché</CRITERE>
+          <CRITERE POIDS="30">Prix des prestations</CRITERE>
+        </CRITERES_PONDERES>
+      </CRITERES_ATTRIBUTION>
+    </PROCEDURE>
+    <ATTRIBUTION>
+      <ATTRIBUE_PAR_LOTS_MARCHES/>
+      <DATE_DECISION>2016-12-14</DATE_DECISION>
+      <DECISION>
+        <TITULAIRE>
+          <DENOMINATION>Axe Sig/Atmosphère</DENOMINATION>
+          <CP>33450</CP>
+        </TITULAIRE>
+      </DECISION>
+    </ATTRIBUTION>
+  </DONNEES>
+</ANNONCE>

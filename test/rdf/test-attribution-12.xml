@@ -1,0 +1,1411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:b="https://data.maudry.com/voc/boamp#"
+         xmlns:dct="http://purl.org/dc/terms/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:attributions="https://boamp.maudry.com/attributions/"
+         xmlns:appeloffres="https://boamp.maudry.com/appeloffres/"
+         xmlns:annonces="https://boamp.maudry.com/annonces/"
+         xmlns:acheteurs="https://boamp.maudry.com/acheteurs/"
+         xmlns:titulaires="https://boamp.maudry.com/titulaires/"
+         xmlns:descripteurs="https://boamp.maudry.com/descripteurs/"
+         xmlns:lots="https://boamp.maudry.com/lots/"
+         xmlns:cpv="https://boamp.maudry.com/cpv/">
+  <b:Annonce rdf:about="https://boamp.maudry.com/annonces/17-2599">
+      <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
+      <b:idweb>17-2599</b:idweb>
+      <b:annonceAnterieure>
+         <b:Annonce rdf:about="https://boamp.maudry.com/annonces/16-107438">
+            <b:idweb>16-107438</b:idweb>
+         </b:Annonce>
+      </b:annonceAnterieure>
+      <b:nomHtml>17-2599.html</b:nomHtml>
+      <b:datePublication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-01-08</b:datePublication>
+      <b:dateFinDiffusion rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-01-16</b:dateFinDiffusion>
+      <b:descripteur rdf:resource="https://boamp.maudry.com/descripteurs/88"/>
+      <b:departementPublication>83</b:departementPublication>
+      <b:resumeObjet>Fourniture de denrées alimentaires pour le Centre Communal d'Action Sociale de Toulon</b:resumeObjet>
+      <b:attribution>
+         <b:Attribution rdf:about="https://boamp.maudry.com/attributions/17-2599_1">
+            <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
+                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
+                  <b:siret>26830066200015</b:siret>
+                  <b:codePostal>83051</b:codePostal>
+                  <b:ville>Toulon</b:ville>
+                  <b:profilAcheteur rdf:resource="http://www.marches-publics.info/acheteur/ccas-toulon/"/>
+               </rdf:Description>
+            </b:acheteur>
+            <b:nbTitulaires rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbTitulaires>
+            <b:lot rdf:resource="https://boamp.maudry.com/appeloffres/16-107438_1"/>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Brake-France-Service-34500">
+                  <rdfs:label>Brake France Service</rdfs:label>
+                  <b:codePostal>34500</b:codePostal>
+                  <b:ville>Béziers</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">130000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+         </b:Attribution>
+      </b:attribution>
+      <b:attribution>
+         <b:Attribution rdf:about="https://boamp.maudry.com/attributions/17-2599_2">
+            <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
+                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
+                  <b:siret>26830066200015</b:siret>
+                  <b:codePostal>83051</b:codePostal>
+                  <b:ville>Toulon</b:ville>
+                  <b:profilAcheteur rdf:resource="http://www.marches-publics.info/acheteur/ccas-toulon/"/>
+               </rdf:Description>
+            </b:acheteur>
+            <b:nbTitulaires rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbTitulaires>
+            <b:lot rdf:resource="https://boamp.maudry.com/appeloffres/16-107438_2"/>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Brake-France-Service-34500">
+                  <rdfs:label>Brake France Service</rdfs:label>
+                  <b:codePostal>34500</b:codePostal>
+                  <b:ville>Béziers</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">60000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+         </b:Attribution>
+      </b:attribution>
+      <b:attribution>
+         <b:Attribution rdf:about="https://boamp.maudry.com/attributions/17-2599_3">
+            <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
+                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
+                  <b:siret>26830066200015</b:siret>
+                  <b:codePostal>83051</b:codePostal>
+                  <b:ville>Toulon</b:ville>
+                  <b:profilAcheteur rdf:resource="http://www.marches-publics.info/acheteur/ccas-toulon/"/>
+               </rdf:Description>
+            </b:acheteur>
+            <b:nbTitulaires rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbTitulaires>
+            <b:lot rdf:resource="https://boamp.maudry.com/appeloffres/16-107438_3"/>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Brake-France-Service-34500">
+                  <rdfs:label>Brake France Service</rdfs:label>
+                  <b:codePostal>34500</b:codePostal>
+                  <b:ville>Béziers</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">15000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+         </b:Attribution>
+      </b:attribution>
+      <b:attribution>
+         <b:Attribution rdf:about="https://boamp.maudry.com/attributions/17-2599_4">
+            <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
+                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
+                  <b:siret>26830066200015</b:siret>
+                  <b:codePostal>83051</b:codePostal>
+                  <b:ville>Toulon</b:ville>
+                  <b:profilAcheteur rdf:resource="http://www.marches-publics.info/acheteur/ccas-toulon/"/>
+               </rdf:Description>
+            </b:acheteur>
+            <b:nbTitulaires rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbTitulaires>
+            <b:lot rdf:resource="https://boamp.maudry.com/appeloffres/16-107438_4"/>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Société-de-Distribution-Avicole-Sda-44154">
+                  <rdfs:label>Société de Distribution Avicole Sda</rdfs:label>
+                  <b:codePostal>44154</b:codePostal>
+                  <b:ville>Ancenis Cedex</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">45000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+         </b:Attribution>
+      </b:attribution>
+      <b:attribution>
+         <b:Attribution rdf:about="https://boamp.maudry.com/attributions/17-2599_5">
+            <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
+                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
+                  <b:siret>26830066200015</b:siret>
+                  <b:codePostal>83051</b:codePostal>
+                  <b:ville>Toulon</b:ville>
+                  <b:profilAcheteur rdf:resource="http://www.marches-publics.info/acheteur/ccas-toulon/"/>
+               </rdf:Description>
+            </b:acheteur>
+            <b:nbTitulaires rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbTitulaires>
+            <b:lot rdf:resource="https://boamp.maudry.com/appeloffres/16-107438_5"/>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Générale-Frigorifique-Distribution-Lerda-83490">
+                  <rdfs:label>Générale Frigorifique Distribution Lerda</rdfs:label>
+                  <b:codePostal>83490</b:codePostal>
+                  <b:ville>Le Muy</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">65000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+         </b:Attribution>
+      </b:attribution>
+      <b:attribution>
+         <b:Attribution rdf:about="https://boamp.maudry.com/attributions/17-2599_6">
+            <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
+                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
+                  <b:siret>26830066200015</b:siret>
+                  <b:codePostal>83051</b:codePostal>
+                  <b:ville>Toulon</b:ville>
+                  <b:profilAcheteur rdf:resource="http://www.marches-publics.info/acheteur/ccas-toulon/"/>
+               </rdf:Description>
+            </b:acheteur>
+            <b:nbTitulaires rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbTitulaires>
+            <b:lot rdf:resource="https://boamp.maudry.com/appeloffres/16-107438_6"/>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Brake-France-Service-34500">
+                  <rdfs:label>Brake France Service</rdfs:label>
+                  <b:codePostal>34500</b:codePostal>
+                  <b:ville>Béziers</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+         </b:Attribution>
+      </b:attribution>
+      <b:attribution>
+         <b:Attribution rdf:about="https://boamp.maudry.com/attributions/17-2599_7">
+            <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
+                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
+                  <b:siret>26830066200015</b:siret>
+                  <b:codePostal>83051</b:codePostal>
+                  <b:ville>Toulon</b:ville>
+                  <b:profilAcheteur rdf:resource="http://www.marches-publics.info/acheteur/ccas-toulon/"/>
+               </rdf:Description>
+            </b:acheteur>
+            <b:nbTitulaires rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbTitulaires>
+            <b:lot rdf:resource="https://boamp.maudry.com/appeloffres/16-107438_7"/>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Davigel-76200">
+                  <rdfs:label>Davigel</rdfs:label>
+                  <b:codePostal>76200</b:codePostal>
+                  <b:ville>Dieppe</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+         </b:Attribution>
+      </b:attribution>
+      <b:attribution>
+         <b:Attribution rdf:about="https://boamp.maudry.com/attributions/17-2599_8">
+            <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
+                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
+                  <b:siret>26830066200015</b:siret>
+                  <b:codePostal>83051</b:codePostal>
+                  <b:ville>Toulon</b:ville>
+                  <b:profilAcheteur rdf:resource="http://www.marches-publics.info/acheteur/ccas-toulon/"/>
+               </rdf:Description>
+            </b:acheteur>
+            <b:nbTitulaires rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbTitulaires>
+            <b:lot rdf:resource="https://boamp.maudry.com/appeloffres/16-107438_8"/>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Terreazur-Pomona-83041">
+                  <rdfs:label>Terreazur Pomona</rdfs:label>
+                  <b:codePostal>83041</b:codePostal>
+                  <b:ville>Toulon</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+         </b:Attribution>
+      </b:attribution>
+      <b:attribution>
+         <b:Attribution rdf:about="https://boamp.maudry.com/attributions/17-2599_9">
+            <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#NonAttribue"/>
+            <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
+                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
+                  <b:siret>26830066200015</b:siret>
+                  <b:codePostal>83051</b:codePostal>
+                  <b:ville>Toulon</b:ville>
+                  <b:profilAcheteur rdf:resource="http://www.marches-publics.info/acheteur/ccas-toulon/"/>
+               </rdf:Description>
+            </b:acheteur>
+            <b:nbTitulaires rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</b:nbTitulaires>
+            <b:lot rdf:resource="https://boamp.maudry.com/appeloffres/16-107438_9"/>
+      
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Brake-France-Service-34500">
+                  <rdfs:label>Brake France Service</rdfs:label>
+                  <b:codePostal>34500</b:codePostal>
+                  <b:ville>Béziers</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">130000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Brake-France-Service-34500">
+                  <rdfs:label>Brake France Service</rdfs:label>
+                  <b:codePostal>34500</b:codePostal>
+                  <b:ville>Béziers</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">60000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Brake-France-Service-34500">
+                  <rdfs:label>Brake France Service</rdfs:label>
+                  <b:codePostal>34500</b:codePostal>
+                  <b:ville>Béziers</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">15000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Société-de-Distribution-Avicole-Sda-44154">
+                  <rdfs:label>Société de Distribution Avicole Sda</rdfs:label>
+                  <b:codePostal>44154</b:codePostal>
+                  <b:ville>Ancenis Cedex</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">45000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Générale-Frigorifique-Distribution-Lerda-83490">
+                  <rdfs:label>Générale Frigorifique Distribution Lerda</rdfs:label>
+                  <b:codePostal>83490</b:codePostal>
+                  <b:ville>Le Muy</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">65000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Brake-France-Service-34500">
+                  <rdfs:label>Brake France Service</rdfs:label>
+                  <b:codePostal>34500</b:codePostal>
+                  <b:ville>Béziers</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Davigel-76200">
+                  <rdfs:label>Davigel</rdfs:label>
+                  <b:codePostal>76200</b:codePostal>
+                  <b:ville>Dieppe</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Terreazur-Pomona-83041">
+                  <rdfs:label>Terreazur Pomona</rdfs:label>
+                  <b:codePostal>83041</b:codePostal>
+                  <b:ville>Toulon</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+      
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Brake-France-Service-34500">
+                  <rdfs:label>Brake France Service</rdfs:label>
+                  <b:codePostal>34500</b:codePostal>
+                  <b:ville>Béziers</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">150000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Nectarys-Sarl-49610">
+                  <rdfs:label>Nectarys Sarl</rdfs:label>
+                  <b:codePostal>49610</b:codePostal>
+                  <b:ville>Juine Sur Loire</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">13000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Felix-Potin-Provence-83170">
+                  <rdfs:label>Felix Potin Provence</rdfs:label>
+                  <b:codePostal>83170</b:codePostal>
+                  <b:ville>Brignoles</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">65000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+      
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Pro-A-Pro-Distribution-Sud-13140">
+                  <rdfs:label>Pro A Pro Distribution Sud</rdfs:label>
+                  <b:codePostal>13140</b:codePostal>
+                  <b:ville>Miramas</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Passion-Froid-Groupe-Pomona-13791">
+                  <rdfs:label>Passion Froid Groupe Pomona</rdfs:label>
+                  <b:codePostal>13791</b:codePostal>
+                  <b:ville>Aix En Provence cedex 3</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4500</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Nectarys-Sarl-49610">
+                  <rdfs:label>Nectarys Sarl</rdfs:label>
+                  <b:codePostal>49610</b:codePostal>
+                  <b:ville>Juigne Sur Loire</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/les-repas-sante-21200">
+                  <rdfs:label>les-repas-sante</rdfs:label>
+                  <b:codePostal>21200</b:codePostal>
+                  <b:ville>Beaune</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">20000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/les-repas-sante-21200">
+                  <rdfs:label>les-repas-sante</rdfs:label>
+                  <b:codePostal>21200</b:codePostal>
+                  <b:ville>Beaune</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6500</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+      
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Paindor-Toulon-Sas-83190">
+                  <rdfs:label>Paindor Toulon Sas</rdfs:label>
+                  <b:codePostal>83190</b:codePostal>
+                  <b:ville>Ollioules</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">90000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Sarl-Boulangerie-Patisserie-Lapierre-83200">
+                  <rdfs:label>Sarl Boulangerie-Patisserie Lapierre</rdfs:label>
+                  <b:codePostal>83200</b:codePostal>
+                  <b:ville>Toulon</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4500</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+         </b:Attribution>
+      </b:attribution>
+      <b:attribution>
+         <b:Attribution rdf:about="https://boamp.maudry.com/attributions/17-2599_10">
+            <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
+                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
+                  <b:siret>26830066200015</b:siret>
+                  <b:codePostal>83051</b:codePostal>
+                  <b:ville>Toulon</b:ville>
+                  <b:profilAcheteur rdf:resource="http://www.marches-publics.info/acheteur/ccas-toulon/"/>
+               </rdf:Description>
+            </b:acheteur>
+            <b:nbTitulaires rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbTitulaires>
+            <b:lot rdf:resource="https://boamp.maudry.com/appeloffres/16-107438_10"/>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Brake-France-Service-34500">
+                  <rdfs:label>Brake France Service</rdfs:label>
+                  <b:codePostal>34500</b:codePostal>
+                  <b:ville>Béziers</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">150000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+         </b:Attribution>
+      </b:attribution>
+      <b:attribution>
+         <b:Attribution rdf:about="https://boamp.maudry.com/attributions/17-2599_11">
+            <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
+                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
+                  <b:siret>26830066200015</b:siret>
+                  <b:codePostal>83051</b:codePostal>
+                  <b:ville>Toulon</b:ville>
+                  <b:profilAcheteur rdf:resource="http://www.marches-publics.info/acheteur/ccas-toulon/"/>
+               </rdf:Description>
+            </b:acheteur>
+            <b:nbTitulaires rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbTitulaires>
+            <b:lot rdf:resource="https://boamp.maudry.com/appeloffres/16-107438_11"/>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Nectarys-Sarl-49610">
+                  <rdfs:label>Nectarys Sarl</rdfs:label>
+                  <b:codePostal>49610</b:codePostal>
+                  <b:ville>Juine Sur Loire</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">13000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+         </b:Attribution>
+      </b:attribution>
+      <b:attribution>
+         <b:Attribution rdf:about="https://boamp.maudry.com/attributions/17-2599_12">
+            <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
+                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
+                  <b:siret>26830066200015</b:siret>
+                  <b:codePostal>83051</b:codePostal>
+                  <b:ville>Toulon</b:ville>
+                  <b:profilAcheteur rdf:resource="http://www.marches-publics.info/acheteur/ccas-toulon/"/>
+               </rdf:Description>
+            </b:acheteur>
+            <b:nbTitulaires rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbTitulaires>
+            <b:lot rdf:resource="https://boamp.maudry.com/appeloffres/16-107438_12"/>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Felix-Potin-Provence-83170">
+                  <rdfs:label>Felix Potin Provence</rdfs:label>
+                  <b:codePostal>83170</b:codePostal>
+                  <b:ville>Brignoles</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">65000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+         </b:Attribution>
+      </b:attribution>
+      <b:attribution>
+         <b:Attribution rdf:about="https://boamp.maudry.com/attributions/17-2599_13">
+            <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#NonAttribue"/>
+            <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
+                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
+                  <b:siret>26830066200015</b:siret>
+                  <b:codePostal>83051</b:codePostal>
+                  <b:ville>Toulon</b:ville>
+                  <b:profilAcheteur rdf:resource="http://www.marches-publics.info/acheteur/ccas-toulon/"/>
+               </rdf:Description>
+            </b:acheteur>
+            <b:nbTitulaires rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</b:nbTitulaires>
+            <b:lot rdf:resource="https://boamp.maudry.com/appeloffres/16-107438_13"/>
+      
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Brake-France-Service-34500">
+                  <rdfs:label>Brake France Service</rdfs:label>
+                  <b:codePostal>34500</b:codePostal>
+                  <b:ville>Béziers</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">130000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Brake-France-Service-34500">
+                  <rdfs:label>Brake France Service</rdfs:label>
+                  <b:codePostal>34500</b:codePostal>
+                  <b:ville>Béziers</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">60000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Brake-France-Service-34500">
+                  <rdfs:label>Brake France Service</rdfs:label>
+                  <b:codePostal>34500</b:codePostal>
+                  <b:ville>Béziers</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">15000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Société-de-Distribution-Avicole-Sda-44154">
+                  <rdfs:label>Société de Distribution Avicole Sda</rdfs:label>
+                  <b:codePostal>44154</b:codePostal>
+                  <b:ville>Ancenis Cedex</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">45000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Générale-Frigorifique-Distribution-Lerda-83490">
+                  <rdfs:label>Générale Frigorifique Distribution Lerda</rdfs:label>
+                  <b:codePostal>83490</b:codePostal>
+                  <b:ville>Le Muy</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">65000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Brake-France-Service-34500">
+                  <rdfs:label>Brake France Service</rdfs:label>
+                  <b:codePostal>34500</b:codePostal>
+                  <b:ville>Béziers</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Davigel-76200">
+                  <rdfs:label>Davigel</rdfs:label>
+                  <b:codePostal>76200</b:codePostal>
+                  <b:ville>Dieppe</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Terreazur-Pomona-83041">
+                  <rdfs:label>Terreazur Pomona</rdfs:label>
+                  <b:codePostal>83041</b:codePostal>
+                  <b:ville>Toulon</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+      
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Brake-France-Service-34500">
+                  <rdfs:label>Brake France Service</rdfs:label>
+                  <b:codePostal>34500</b:codePostal>
+                  <b:ville>Béziers</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">150000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Nectarys-Sarl-49610">
+                  <rdfs:label>Nectarys Sarl</rdfs:label>
+                  <b:codePostal>49610</b:codePostal>
+                  <b:ville>Juine Sur Loire</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">13000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Felix-Potin-Provence-83170">
+                  <rdfs:label>Felix Potin Provence</rdfs:label>
+                  <b:codePostal>83170</b:codePostal>
+                  <b:ville>Brignoles</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">65000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+      
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Pro-A-Pro-Distribution-Sud-13140">
+                  <rdfs:label>Pro A Pro Distribution Sud</rdfs:label>
+                  <b:codePostal>13140</b:codePostal>
+                  <b:ville>Miramas</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Passion-Froid-Groupe-Pomona-13791">
+                  <rdfs:label>Passion Froid Groupe Pomona</rdfs:label>
+                  <b:codePostal>13791</b:codePostal>
+                  <b:ville>Aix En Provence cedex 3</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4500</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Nectarys-Sarl-49610">
+                  <rdfs:label>Nectarys Sarl</rdfs:label>
+                  <b:codePostal>49610</b:codePostal>
+                  <b:ville>Juigne Sur Loire</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/les-repas-sante-21200">
+                  <rdfs:label>les-repas-sante</rdfs:label>
+                  <b:codePostal>21200</b:codePostal>
+                  <b:ville>Beaune</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">20000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/les-repas-sante-21200">
+                  <rdfs:label>les-repas-sante</rdfs:label>
+                  <b:codePostal>21200</b:codePostal>
+                  <b:ville>Beaune</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6500</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+      
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Paindor-Toulon-Sas-83190">
+                  <rdfs:label>Paindor Toulon Sas</rdfs:label>
+                  <b:codePostal>83190</b:codePostal>
+                  <b:ville>Ollioules</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">90000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Sarl-Boulangerie-Patisserie-Lapierre-83200">
+                  <rdfs:label>Sarl Boulangerie-Patisserie Lapierre</rdfs:label>
+                  <b:codePostal>83200</b:codePostal>
+                  <b:ville>Toulon</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4500</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+         </b:Attribution>
+      </b:attribution>
+      <b:attribution>
+         <b:Attribution rdf:about="https://boamp.maudry.com/attributions/17-2599_14">
+            <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
+                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
+                  <b:siret>26830066200015</b:siret>
+                  <b:codePostal>83051</b:codePostal>
+                  <b:ville>Toulon</b:ville>
+                  <b:profilAcheteur rdf:resource="http://www.marches-publics.info/acheteur/ccas-toulon/"/>
+               </rdf:Description>
+            </b:acheteur>
+            <b:nbTitulaires rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbTitulaires>
+            <b:lot rdf:resource="https://boamp.maudry.com/appeloffres/16-107438_14"/>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Pro-A-Pro-Distribution-Sud-13140">
+                  <rdfs:label>Pro A Pro Distribution Sud</rdfs:label>
+                  <b:codePostal>13140</b:codePostal>
+                  <b:ville>Miramas</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+         </b:Attribution>
+      </b:attribution>
+      <b:attribution>
+         <b:Attribution rdf:about="https://boamp.maudry.com/attributions/17-2599_15">
+            <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
+                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
+                  <b:siret>26830066200015</b:siret>
+                  <b:codePostal>83051</b:codePostal>
+                  <b:ville>Toulon</b:ville>
+                  <b:profilAcheteur rdf:resource="http://www.marches-publics.info/acheteur/ccas-toulon/"/>
+               </rdf:Description>
+            </b:acheteur>
+            <b:nbTitulaires rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbTitulaires>
+            <b:lot rdf:resource="https://boamp.maudry.com/appeloffres/16-107438_15"/>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Passion-Froid-Groupe-Pomona-13791">
+                  <rdfs:label>Passion Froid Groupe Pomona</rdfs:label>
+                  <b:codePostal>13791</b:codePostal>
+                  <b:ville>Aix En Provence cedex 3</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4500</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+         </b:Attribution>
+      </b:attribution>
+      <b:attribution>
+         <b:Attribution rdf:about="https://boamp.maudry.com/attributions/17-2599_16">
+            <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
+                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
+                  <b:siret>26830066200015</b:siret>
+                  <b:codePostal>83051</b:codePostal>
+                  <b:ville>Toulon</b:ville>
+                  <b:profilAcheteur rdf:resource="http://www.marches-publics.info/acheteur/ccas-toulon/"/>
+               </rdf:Description>
+            </b:acheteur>
+            <b:nbTitulaires rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbTitulaires>
+            <b:lot rdf:resource="https://boamp.maudry.com/appeloffres/16-107438_16"/>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Nectarys-Sarl-49610">
+                  <rdfs:label>Nectarys Sarl</rdfs:label>
+                  <b:codePostal>49610</b:codePostal>
+                  <b:ville>Juigne Sur Loire</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+         </b:Attribution>
+      </b:attribution>
+      <b:attribution>
+         <b:Attribution rdf:about="https://boamp.maudry.com/attributions/17-2599_17">
+            <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
+                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
+                  <b:siret>26830066200015</b:siret>
+                  <b:codePostal>83051</b:codePostal>
+                  <b:ville>Toulon</b:ville>
+                  <b:profilAcheteur rdf:resource="http://www.marches-publics.info/acheteur/ccas-toulon/"/>
+               </rdf:Description>
+            </b:acheteur>
+            <b:nbTitulaires rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbTitulaires>
+            <b:lot rdf:resource="https://boamp.maudry.com/appeloffres/16-107438_17"/>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/les-repas-sante-21200">
+                  <rdfs:label>les-repas-sante</rdfs:label>
+                  <b:codePostal>21200</b:codePostal>
+                  <b:ville>Beaune</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">20000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+         </b:Attribution>
+      </b:attribution>
+      <b:attribution>
+         <b:Attribution rdf:about="https://boamp.maudry.com/attributions/17-2599_18">
+            <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
+                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
+                  <b:siret>26830066200015</b:siret>
+                  <b:codePostal>83051</b:codePostal>
+                  <b:ville>Toulon</b:ville>
+                  <b:profilAcheteur rdf:resource="http://www.marches-publics.info/acheteur/ccas-toulon/"/>
+               </rdf:Description>
+            </b:acheteur>
+            <b:nbTitulaires rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbTitulaires>
+            <b:lot rdf:resource="https://boamp.maudry.com/appeloffres/16-107438_18"/>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/les-repas-sante-21200">
+                  <rdfs:label>les-repas-sante</rdfs:label>
+                  <b:codePostal>21200</b:codePostal>
+                  <b:ville>Beaune</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6500</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+         </b:Attribution>
+      </b:attribution>
+      <b:attribution>
+         <b:Attribution rdf:about="https://boamp.maudry.com/attributions/17-2599_19">
+            <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#NonAttribue"/>
+            <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
+                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
+                  <b:siret>26830066200015</b:siret>
+                  <b:codePostal>83051</b:codePostal>
+                  <b:ville>Toulon</b:ville>
+                  <b:profilAcheteur rdf:resource="http://www.marches-publics.info/acheteur/ccas-toulon/"/>
+               </rdf:Description>
+            </b:acheteur>
+            <b:nbTitulaires rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</b:nbTitulaires>
+            <b:lot rdf:resource="https://boamp.maudry.com/appeloffres/16-107438_19"/>
+      
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Brake-France-Service-34500">
+                  <rdfs:label>Brake France Service</rdfs:label>
+                  <b:codePostal>34500</b:codePostal>
+                  <b:ville>Béziers</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">130000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Brake-France-Service-34500">
+                  <rdfs:label>Brake France Service</rdfs:label>
+                  <b:codePostal>34500</b:codePostal>
+                  <b:ville>Béziers</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">60000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Brake-France-Service-34500">
+                  <rdfs:label>Brake France Service</rdfs:label>
+                  <b:codePostal>34500</b:codePostal>
+                  <b:ville>Béziers</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">15000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Société-de-Distribution-Avicole-Sda-44154">
+                  <rdfs:label>Société de Distribution Avicole Sda</rdfs:label>
+                  <b:codePostal>44154</b:codePostal>
+                  <b:ville>Ancenis Cedex</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">45000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Générale-Frigorifique-Distribution-Lerda-83490">
+                  <rdfs:label>Générale Frigorifique Distribution Lerda</rdfs:label>
+                  <b:codePostal>83490</b:codePostal>
+                  <b:ville>Le Muy</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">65000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Brake-France-Service-34500">
+                  <rdfs:label>Brake France Service</rdfs:label>
+                  <b:codePostal>34500</b:codePostal>
+                  <b:ville>Béziers</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Davigel-76200">
+                  <rdfs:label>Davigel</rdfs:label>
+                  <b:codePostal>76200</b:codePostal>
+                  <b:ville>Dieppe</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Terreazur-Pomona-83041">
+                  <rdfs:label>Terreazur Pomona</rdfs:label>
+                  <b:codePostal>83041</b:codePostal>
+                  <b:ville>Toulon</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+      
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Brake-France-Service-34500">
+                  <rdfs:label>Brake France Service</rdfs:label>
+                  <b:codePostal>34500</b:codePostal>
+                  <b:ville>Béziers</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">150000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Nectarys-Sarl-49610">
+                  <rdfs:label>Nectarys Sarl</rdfs:label>
+                  <b:codePostal>49610</b:codePostal>
+                  <b:ville>Juine Sur Loire</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">13000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Felix-Potin-Provence-83170">
+                  <rdfs:label>Felix Potin Provence</rdfs:label>
+                  <b:codePostal>83170</b:codePostal>
+                  <b:ville>Brignoles</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">65000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+      
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Pro-A-Pro-Distribution-Sud-13140">
+                  <rdfs:label>Pro A Pro Distribution Sud</rdfs:label>
+                  <b:codePostal>13140</b:codePostal>
+                  <b:ville>Miramas</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Passion-Froid-Groupe-Pomona-13791">
+                  <rdfs:label>Passion Froid Groupe Pomona</rdfs:label>
+                  <b:codePostal>13791</b:codePostal>
+                  <b:ville>Aix En Provence cedex 3</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4500</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Nectarys-Sarl-49610">
+                  <rdfs:label>Nectarys Sarl</rdfs:label>
+                  <b:codePostal>49610</b:codePostal>
+                  <b:ville>Juigne Sur Loire</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/les-repas-sante-21200">
+                  <rdfs:label>les-repas-sante</rdfs:label>
+                  <b:codePostal>21200</b:codePostal>
+                  <b:ville>Beaune</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">20000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/les-repas-sante-21200">
+                  <rdfs:label>les-repas-sante</rdfs:label>
+                  <b:codePostal>21200</b:codePostal>
+                  <b:ville>Beaune</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6500</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+      
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Paindor-Toulon-Sas-83190">
+                  <rdfs:label>Paindor Toulon Sas</rdfs:label>
+                  <b:codePostal>83190</b:codePostal>
+                  <b:ville>Ollioules</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">90000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Sarl-Boulangerie-Patisserie-Lapierre-83200">
+                  <rdfs:label>Sarl Boulangerie-Patisserie Lapierre</rdfs:label>
+                  <b:codePostal>83200</b:codePostal>
+                  <b:ville>Toulon</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4500</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+         </b:Attribution>
+      </b:attribution>
+      <b:attribution>
+         <b:Attribution rdf:about="https://boamp.maudry.com/attributions/17-2599_20">
+            <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
+                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
+                  <b:siret>26830066200015</b:siret>
+                  <b:codePostal>83051</b:codePostal>
+                  <b:ville>Toulon</b:ville>
+                  <b:profilAcheteur rdf:resource="http://www.marches-publics.info/acheteur/ccas-toulon/"/>
+               </rdf:Description>
+            </b:acheteur>
+            <b:nbTitulaires rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbTitulaires>
+            <b:lot rdf:resource="https://boamp.maudry.com/appeloffres/16-107438_20"/>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Paindor-Toulon-Sas-83190">
+                  <rdfs:label>Paindor Toulon Sas</rdfs:label>
+                  <b:codePostal>83190</b:codePostal>
+                  <b:ville>Ollioules</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">90000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+         </b:Attribution>
+      </b:attribution>
+      <b:attribution>
+         <b:Attribution rdf:about="https://boamp.maudry.com/attributions/17-2599_21">
+            <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
+                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
+                  <b:siret>26830066200015</b:siret>
+                  <b:codePostal>83051</b:codePostal>
+                  <b:ville>Toulon</b:ville>
+                  <b:profilAcheteur rdf:resource="http://www.marches-publics.info/acheteur/ccas-toulon/"/>
+               </rdf:Description>
+            </b:acheteur>
+            <b:nbTitulaires rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbTitulaires>
+            <b:lot rdf:resource="https://boamp.maudry.com/appeloffres/16-107438_21"/>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/Sarl-Boulangerie-Patisserie-Lapierre-83200">
+                  <rdfs:label>Sarl Boulangerie-Patisserie Lapierre</rdfs:label>
+                  <b:codePostal>83200</b:codePostal>
+                  <b:ville>Toulon</b:ville>
+                  <b:pme rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</b:pme>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-20</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4500</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+         </b:Attribution>
+      </b:attribution>
+   </b:Annonce>
+  
+</rdf:RDF>

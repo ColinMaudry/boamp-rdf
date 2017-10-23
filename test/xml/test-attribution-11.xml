@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNONCE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd">
+  <GESTION>
+    <REFERENCE>
+      <IDWEB>17-8864</IDWEB>
+      <TYPE_AVIS>
+        <FAMILLE>
+          <FNS/>
+        </FAMILLE>
+        <PERIMETRE>
+          <CMP-2006/>
+        </PERIMETRE>
+        <NATURE>
+          <ATTRIBUTION/>
+        </NATURE>
+        <STATUT>
+          <INITIAL/>
+        </STATUT>
+      </TYPE_AVIS>
+    </REFERENCE>
+    <MARCHE>
+      <ID_CONSULTATION>CONS-16-106898</ID_CONSULTATION>
+      <URL_CONSULTATION>https://www.boamp.fr/demat/consultation/CONS-17-8864</URL_CONSULTATION>
+      <ANNONCE_ANTERIEUR>
+        <REFERENCE>
+          <IDWEB>16-106898</IDWEB>
+          <TYPE_AVIS>
+            <FAMILLE>
+              <FNS/>
+            </FAMILLE>
+            <PERIMETRE>
+              <CMP-2006/>
+            </PERIMETRE>
+            <NATURE>
+              <APPEL_OFFRE/>
+            </NATURE>
+            <STATUT>
+              <INITIAL/>
+            </STATUT>
+          </TYPE_AVIS>
+        </REFERENCE>
+        <REFERENCE_PUBLICATION>
+          <PUBLICATION_ELECTRONIQUE>
+            <DATE_PUBLICATION>2016-07-27</DATE_PUBLICATION>
+            <DATE_FIN_DIFFUSION>2016-08-29</DATE_FIN_DIFFUSION>
+          </PUBLICATION_ELECTRONIQUE>
+        </REFERENCE_PUBLICATION>
+      </ANNONCE_ANTERIEUR>
+      <ANNONCE_ANTERIEUR>
+        <REFERENCE>
+          <IDWEB>16-114771</IDWEB>
+          <TYPE_AVIS>
+            <FAMILLE>
+              <FNS/>
+            </FAMILLE>
+            <PERIMETRE>
+              <CMP-2006/>
+            </PERIMETRE>
+            <NATURE>
+              <APPEL_OFFRE/>
+            </NATURE>
+            <STATUT>
+              <RECTIFICATIF/>
+            </STATUT>
+          </TYPE_AVIS>
+        </REFERENCE>
+        <REFERENCE_PUBLICATION>
+          <PUBLICATION_ELECTRONIQUE>
+            <DATE_PUBLICATION>2016-08-01</DATE_PUBLICATION>
+            <DATE_FIN_DIFFUSION>2016-08-29</DATE_FIN_DIFFUSION>
+          </PUBLICATION_ELECTRONIQUE>
+        </REFERENCE_PUBLICATION>
+      </ANNONCE_ANTERIEUR>
+    </MARCHE>
+    <NOM_HTML>17-8864.html</NOM_HTML>
+    <INDEXATION>
+      <DATE_PUBLICATION>2017-01-19</DATE_PUBLICATION>
+      <DATE_FIN_DIFFUSION>2017-02-19</DATE_FIN_DIFFUSION>
+      <DESCRIPTEURS>
+        <DESCRIPTEUR>
+          <CODE>274</CODE>
+          <LIBELLE>Prestations de services</LIBELLE>
+        </DESCRIPTEUR>
+        <DESCRIPTEUR>
+          <CODE>285</CODE>
+          <LIBELLE>Publicité, Communication</LIBELLE>
+        </DESCRIPTEUR>
+        <DESCRIPTEUR>
+          <CODE>312</CODE>
+          <LIBELLE>Routage</LIBELLE>
+        </DESCRIPTEUR>
+        <DESCRIPTEUR>
+          <CODE>445</CODE>
+          <LIBELLE>Evénementiel</LIBELLE>
+        </DESCRIPTEUR>
+        <DESCRIPTEUR>
+          <CODE>464</CODE>
+          <LIBELLE>Objet publicitaire</LIBELLE>
+        </DESCRIPTEUR>
+      </DESCRIPTEURS>
+      <DEP_PUBLICATION>84</DEP_PUBLICATION>
+      <RESUME_OBJET>programme de promotion des vins aoc de la vallée du Rhône Hong-kong 2017-2018</RESUME_OBJET>
+    </INDEXATION>
+  </GESTION>
+  <DONNEES>
+    <IDENTITE>
+      <DENOMINATION>Inter Rhône</DENOMINATION>
+      <CORRESPONDANT>troin amandine</CORRESPONDANT>
+      <ADRESSE>3 rue des trois faucons</ADRESSE>
+      <CP>84024</CP>
+      <VILLE>Avignon cedex 1</VILLE>
+      <TEL>04-90-27-24-50</TEL>
+      <MEL>atroin@inter-rhone.com</MEL>
+      <URL>http://www.vins-rhone.com</URL>
+      <URL_PROFIL_ACHETEUR>https://www.boamp.fr/demat/consultation/CONS-16-106898</URL_PROFIL_ACHETEUR>
+    </IDENTITE>
+    <TYPE_ORGANISME>
+      <AUTRE/>
+    </TYPE_ORGANISME>
+    <OBJET>
+      <OBJET_COMPLET>Programme de Promotion des vins AOC de la Vallée du Rhône HONG-KONG 2017-2018</OBJET_COMPLET>
+      <AMP_OUI/>
+    </OBJET>
+    <PROCEDURE>
+      <TYPE_PROCEDURE>
+        <OUVERT/>
+      </TYPE_PROCEDURE>
+      <CRITERES_ATTRIBUTION>
+        <CRITERES_CCTP/>
+      </CRITERES_ATTRIBUTION>
+    </PROCEDURE>
+    <ATTRIBUTION>
+      <ATTRIBUE_PAR_LOTS_MARCHES/>
+      <DECISION>
+        <ATTRIBUE/>
+        <DESCRIPTION>Programme de Promotion des vins AOC de la Vallée du Rhône HONG-KONG 2017-2018</DESCRIPTION>
+        <TITULAIRE>
+          <DENOMINATION>INS GLOBAL CONSULTING</DENOMINATION>
+          <ADRESSE>ROOM 302? BUILDING 2? LANE HAIFANG RD JINGAN</ADRESSE>
+          <CP>20004</CP>
+          <VILLE>SHANGHAI</VILLE>
+        </TITULAIRE>
+        <RENSEIGNEMENT>
+          <DATE_ATTRIBUTION>2016-12-19</DATE_ATTRIBUTION>
+        </RENSEIGNEMENT>
+        <TITULAIRE>
+          <DENOMINATION>SOPEXA HONG KONG</DENOMINATION>
+          <ADRESSE>ROOM 903 BANK OF EAST ASIA HARBOUR</ADRESSE>
+          <CP>20004</CP>
+          <VILLE>SHANGHAI</VILLE>
+        </TITULAIRE>
+        <RENSEIGNEMENT>
+          <DATE_ATTRIBUTION>2016-12-19</DATE_ATTRIBUTION>
+        </RENSEIGNEMENT>
+      </DECISION>
+    </ATTRIBUTION>
+  </DONNEES>
+</ANNONCE>

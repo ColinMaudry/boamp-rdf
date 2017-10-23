@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNONCE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd">
+  <GESTION>
+    <REFERENCE>
+      <IDWEB>17-4742</IDWEB>
+      <TYPE_AVIS>
+        <FAMILLE>
+          <FNS/>
+        </FAMILLE>
+        <PERIMETRE>
+          <CMP-2006/>
+        </PERIMETRE>
+        <NATURE>
+          <ATTRIBUTION/>
+        </NATURE>
+        <STATUT>
+          <INITIAL/>
+        </STATUT>
+      </TYPE_AVIS>
+    </REFERENCE>
+    <MARCHE>
+      <ANNONCE_ANTERIEUR>
+        <REFERENCE>
+          <IDWEB>16-652</IDWEB>
+          <TYPE_AVIS>
+            <FAMILLE>
+              <FNS/>
+            </FAMILLE>
+            <PERIMETRE>
+              <CMP-2006/>
+            </PERIMETRE>
+            <NATURE>
+              <APPEL_OFFRE/>
+            </NATURE>
+            <STATUT>
+              <INITIAL/>
+            </STATUT>
+          </TYPE_AVIS>
+        </REFERENCE>
+        <REFERENCE_PUBLICATION>
+          <PUBLICATION_ELECTRONIQUE>
+            <DATE_PUBLICATION>2016-01-05</DATE_PUBLICATION>
+            <DATE_FIN_DIFFUSION>2016-01-25</DATE_FIN_DIFFUSION>
+          </PUBLICATION_ELECTRONIQUE>
+        </REFERENCE_PUBLICATION>
+      </ANNONCE_ANTERIEUR>
+    </MARCHE>
+    <NOM_HTML>17-4742.html</NOM_HTML>
+    <INDEXATION>
+      <DATE_PUBLICATION>2017-01-11</DATE_PUBLICATION>
+      <DATE_FIN_DIFFUSION>2017-02-10</DATE_FIN_DIFFUSION>
+      <DESCRIPTEURS>
+        <DESCRIPTEUR>
+          <CODE>461</CODE>
+          <LIBELLE>Mise à disposition de personnel</LIBELLE>
+        </DESCRIPTEUR>
+      </DESCRIPTEURS>
+      <DEP_PUBLICATION>42</DEP_PUBLICATION>
+      <RESUME_OBJET>DAMR 2016/01 PRESTATION D'INTERIM MEDICAL EN ANESTHESIE-REANIMATION</RESUME_OBJET>
+    </INDEXATION>
+  </GESTION>
+  <DONNEES>
+    <IDENTITE>
+      <DENOMINATION>CHU St Etienne</DENOMINATION>
+      <CORRESPONDANT>Mlle Laurence Vétard, Responsable Marchés</CORRESPONDANT>
+      <ADRESSE>CHU de Saint-Etienne - Hopital Bellevue - Direction des Affaire Médicales et de la Reccherche - Boulevard Pasteur</ADRESSE>
+      <CP>42055</CP>
+      <VILLE>St etienne</VILLE>
+      <TEL>04-77-12-79-15</TEL>
+      <FAX>04-77-12-73-15</FAX>
+      <MEL>laurence.vetard@chu-st-etienne.fr</MEL>
+      <URL>http://www.chu-st-etienne.fr</URL>
+      <URL_PROFIL_ACHETEUR>http://www.achats-hopitaux.com</URL_PROFIL_ACHETEUR>
+    </IDENTITE>
+    <TYPE_ORGANISME>
+      <AUTRE/>
+    </TYPE_ORGANISME>
+    <ACTIVITE_PRINCIPALE>
+      <POUVOIR_ADJUDICATEUR>
+        <SANTE/>
+      </POUVOIR_ADJUDICATEUR>
+    </ACTIVITE_PRINCIPALE>
+    <OBJET>
+      <TYPE_MARCHE>
+        <SERVICE>27</SERVICE>
+      </TYPE_MARCHE>
+      <OBJET_COMPLET>DAMR 2016/01 PRESTATION D'INTERIM MEDICAL EN ANESTHESIE-REANIMATION</OBJET_COMPLET>
+      <CPV>
+        <PRINCIPAL>79625000</PRINCIPAL>
+      </CPV>
+      <LIEU_EXEC_LIVR>
+        <ADRESSE>Chu de St-Etienne</ADRESSE>
+        <CP>42055</CP>
+        <VILLE>Saint etienne cédex 2</VILLE>
+        <CODE_NUTS>FR715</CODE_NUTS>
+      </LIEU_EXEC_LIVR>
+      <AMP_OUI/>
+    </OBJET>
+    <PROCEDURE>
+      <TYPE_PROCEDURE>
+        <PROCEDURE_ADAPTE/>
+      </TYPE_PROCEDURE>
+      <ENCHERE_ELECTRONIQUE_NON/>
+      <CRITERES_ATTRIBUTION>
+        <CRITERES_PONDERES>
+          <CRITERE POIDS="60">Prix</CRITERE>
+          <CRITERE POIDS="40">Valeur technique : aptitude de la société à répondre aux besoins</CRITERE>
+        </CRITERES_PONDERES>
+      </CRITERES_ATTRIBUTION>
+    </PROCEDURE>
+    <ATTRIBUTION>
+      <ATTRIBUE_PAR_LOTS_MARCHES/>
+      <DECISION>
+        <ATTRIBUE/>
+        <DESCRIPTION>Prestation d'intérim médical en anesthésie réanimation pour le CHU de Saint-Etienne</DESCRIPTION>
+        <TITULAIRE>
+          <DENOMINATION>ARC INTERIM (Rang 1)</DENOMINATION>
+          <ADRESSE>2 rue A mille</ADRESSE>
+          <CP>75019</CP>
+          <VILLE>PARIS</VILLE>
+        </TITULAIRE>
+        <RENSEIGNEMENT>
+          <DATE_ATTRIBUTION>2016-02-02</DATE_ATTRIBUTION>
+        </RENSEIGNEMENT>
+        <TITULAIRE>
+          <DENOMINATION>PROMAN MEDICAL (Rang 2)</DENOMINATION>
+          <ADRESSE>1 rue du cardinal richaud</ADRESSE>
+          <CP>33000</CP>
+          <VILLE>Bordeaux</VILLE>
+        </TITULAIRE>
+        <RENSEIGNEMENT>
+          <DATE_ATTRIBUTION>2016-02-03</DATE_ATTRIBUTION>
+        </RENSEIGNEMENT>
+        <TITULAIRE>
+          <DENOMINATION>ADECCO MEDECINS (Rang 3)</DENOMINATION>
+          <ADRESSE>23 rue vacon</ADRESSE>
+          <CP>13001</CP>
+          <VILLE>Marseille</VILLE>
+        </TITULAIRE>
+        <RENSEIGNEMENT>
+          <DATE_ATTRIBUTION>2016-02-02</DATE_ATTRIBUTION>
+        </RENSEIGNEMENT>
+      </DECISION>
+    </ATTRIBUTION>
+    <RENSEIGNEMENTS_COMPLEMENTAIRES>
+      <ADRESSES_COMPLEMENTAIRES>
+        <ADRESSE>
+          <TYPE>
+            <INSTANCE_RECOURS/>
+          </TYPE>
+          <DENOMINATION>Tribunal administratif de Lyon</DENOMINATION>
+          <ADRESSE>184 rue duguesclin</ADRESSE>
+          <CP>69433</CP>
+          <VILLE>Lyon</VILLE>
+          <MEL>greffe-ta-lyon@juradm.fr</MEL>
+        </ADRESSE>
+        <ADRESSE>
+          <TYPE>
+            <RENS_RECOURS/>
+          </TYPE>
+          <DENOMINATION>Tribunal administratif de Lyon</DENOMINATION>
+          <ADRESSE>184 rue duguesclin</ADRESSE>
+          <CP>69433</CP>
+          <VILLE>Lyon</VILLE>
+          <MEL>greffe-ta-lyon@juradm.fr</MEL>
+        </ADRESSE>
+      </ADRESSES_COMPLEMENTAIRES>
+    </RENSEIGNEMENTS_COMPLEMENTAIRES>
+  </DONNEES>
+</ANNONCE>

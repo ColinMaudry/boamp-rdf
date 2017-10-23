@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNONCE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd">
+  <GESTION>
+    <REFERENCE>
+      <IDWEB>17-1515</IDWEB>
+      <TYPE_AVIS>
+        <FAMILLE>
+          <FNS/>
+        </FAMILLE>
+        <PERIMETRE>
+          <CMP-2006/>
+        </PERIMETRE>
+        <NATURE>
+          <ATTRIBUTION/>
+        </NATURE>
+        <STATUT>
+          <INITIAL/>
+        </STATUT>
+      </TYPE_AVIS>
+    </REFERENCE>
+    <MARCHE>
+      <ANNONCE_ANTERIEUR>
+        <REFERENCE>
+          <IDWEB>16-162580</IDWEB>
+          <TYPE_AVIS>
+            <FAMILLE>
+              <FNS/>
+            </FAMILLE>
+            <PERIMETRE>
+              <CMP-2006/>
+            </PERIMETRE>
+            <NATURE>
+              <APPEL_OFFRE/>
+            </NATURE>
+            <STATUT>
+              <INITIAL/>
+            </STATUT>
+          </TYPE_AVIS>
+        </REFERENCE>
+        <REFERENCE_PUBLICATION>
+          <PUBLICATION_ELECTRONIQUE>
+            <DATE_PUBLICATION>2016-11-09</DATE_PUBLICATION>
+            <DATE_FIN_DIFFUSION>2016-12-05</DATE_FIN_DIFFUSION>
+          </PUBLICATION_ELECTRONIQUE>
+        </REFERENCE_PUBLICATION>
+      </ANNONCE_ANTERIEUR>
+    </MARCHE>
+    <NOM_HTML>17-1515.html</NOM_HTML>
+    <INDEXATION>
+      <DATE_PUBLICATION>2017-01-04</DATE_PUBLICATION>
+      <DATE_FIN_DIFFUSION>2017-02-18</DATE_FIN_DIFFUSION>
+      <DESCRIPTEURS>
+        <DESCRIPTEUR>
+          <CODE>335</CODE>
+          <LIBELLE>Station d'épuration (exploitation)</LIBELLE>
+        </DESCRIPTEUR>
+      </DESCRIPTEURS>
+      <DEP_PUBLICATION>5</DEP_PUBLICATION>
+      <RESUME_OBJET>Fourniture de polymères pour la déshydratation des boues de la station d'épuration de Gap</RESUME_OBJET>
+    </INDEXATION>
+  </GESTION>
+  <DONNEES>
+    <IDENTITE>
+      <DENOMINATION>Communauté d'agglomérat. du gapençais</DENOMINATION>
+      <CORRESPONDANT> Communauté d'agglomération du gapençais</CORRESPONDANT>
+      <ADRESSE>3, Rue Colonel Roux</ADRESSE>
+      <CP>05000</CP>
+      <VILLE>GAP</VILLE>
+      <MEL>marches.publics@ville-gap.fr</MEL>
+      <URL>http://www.ville-gap.fr</URL>
+      <URL_PROFIL_ACHETEUR>http://www.ville-gap.fr/</URL_PROFIL_ACHETEUR>
+    </IDENTITE>
+    <TYPE_ORGANISME>
+      <AUTRE/>
+    </TYPE_ORGANISME>
+    <ACTIVITE_PRINCIPALE>
+      <ENTITE_ADJUDICATRICE>
+        <EAU/>
+        <SER_CHEMIN_FER_TRAM_BUS/>
+      </ENTITE_ADJUDICATRICE>
+    </ACTIVITE_PRINCIPALE>
+    <OBJET>
+      <OBJET_COMPLET>Fourniture de polymères pour la déshydratation des boues de la station d'épuration de Gap</OBJET_COMPLET>
+      <CPV>
+        <PRINCIPAL>24542000</PRINCIPAL>
+      </CPV>
+    </OBJET>
+    <PROCEDURE>
+      <TYPE_PROCEDURE>
+        <PROCEDURE_ADAPTE/>
+      </TYPE_PROCEDURE>
+    </PROCEDURE>
+    <ATTRIBUTION>
+      <ATTRIBUE_PAR_LOTS_MARCHES/>
+      <DECISION>
+        <ATTRIBUE/>
+        <DESCRIPTION>Fourniture de polymères pour la déshydratation des boues de la station d'épuration de Gap</DESCRIPTION>
+        <TITULAIRE>
+          <DENOMINATION>ADIPAP</DENOMINATION>
+          <ADRESSE>16 RUE CHAMP LAGARDE</ADRESSE>
+          <CP>78000</CP>
+          <VILLE>VERSAILLES</VILLE>
+        </TITULAIRE>
+        <RENSEIGNEMENT>
+          <DATE_ATTRIBUTION>2016-12-29</DATE_ATTRIBUTION>
+          <NB_OFFRE_RECU>6</NB_OFFRE_RECU>
+          <MONTANT_INDEFINI/>
+        </RENSEIGNEMENT>
+        <TITULAIRE>
+          <DENOMINATION>KEMIRA FRANCE SAS</DENOMINATION>
+          <ADRESSE>RTE DE MPTHERN</ADRESSE>
+          <CP>67630</CP>
+          <VILLE>LAUTERBOURG</VILLE>
+        </TITULAIRE>
+        <RENSEIGNEMENT>
+          <DATE_ATTRIBUTION>2016-12-29</DATE_ATTRIBUTION>
+          <NB_OFFRE_RECU>6</NB_OFFRE_RECU>
+          <MONTANT_INDEFINI/>
+        </RENSEIGNEMENT>
+        <TITULAIRE>
+          <DENOMINATION>OTV SUD AFRIQUE</DENOMINATION>
+          <ADRESSE>LES DOCKS ATRIUM 10.3 10 PLACE DE LA JOLIETTE</ADRESSE>
+          <CP>13567</CP>
+          <VILLE>MARSEILLE CEDEX 02</VILLE>
+        </TITULAIRE>
+        <RENSEIGNEMENT>
+          <DATE_ATTRIBUTION>2016-12-29</DATE_ATTRIBUTION>
+          <NB_OFFRE_RECU>6</NB_OFFRE_RECU>
+          <MONTANT_INDEFINI/>
+        </RENSEIGNEMENT>
+        <TITULAIRE>
+          <DENOMINATION>SAS SNF</DENOMINATION>
+          <ADRESSE>RUE ADRIENNE BOLLAND ZAC DE MILIEUX</ADRESSE>
+          <CP>42163</CP>
+          <VILLE>ANDREZIEUX CEDEX</VILLE>
+        </TITULAIRE>
+        <RENSEIGNEMENT>
+          <DATE_ATTRIBUTION>2016-12-29</DATE_ATTRIBUTION>
+          <NB_OFFRE_RECU>6</NB_OFFRE_RECU>
+          <MONTANT_INDEFINI/>
+        </RENSEIGNEMENT>
+        <TITULAIRE>
+          <DENOMINATION>DIAGONAL WATER TREATMENT</DENOMINATION>
+          <ADRESSE>490 RUE ANDRE BOULLE</ADRESSE>
+          <CP>30100</CP>
+          <VILLE>ALES</VILLE>
+        </TITULAIRE>
+        <RENSEIGNEMENT>
+          <DATE_ATTRIBUTION>2016-12-29</DATE_ATTRIBUTION>
+          <NB_OFFRE_RECU>6</NB_OFFRE_RECU>
+          <MONTANT_INDEFINI/>
+        </RENSEIGNEMENT>
+      </DECISION>
+    </ATTRIBUTION>
+    <RENSEIGNEMENTS_COMPLEMENTAIRES>
+      <ADRESSES_COMPLEMENTAIRES>
+        <ADRESSE>
+          <TYPE>
+            <INSTANCE_RECOURS/>
+          </TYPE>
+          <DENOMINATION>Tribunal administratif de Marseille</DENOMINATION>
+          <ADRESSE>22,24 rue Breteuil</ADRESSE>
+          <CP>13006</CP>
+          <VILLE>Marseille</VILLE>
+          <TEL>04-91-13-48-13</TEL>
+          <FAX>04-91-81-13-87</FAX>
+          <MEL>greffe.ta-marseille@juradm.fr</MEL>
+        </ADRESSE>
+      </ADRESSES_COMPLEMENTAIRES>
+    </RENSEIGNEMENTS_COMPLEMENTAIRES>
+  </DONNEES>
+</ANNONCE>

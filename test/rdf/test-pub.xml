@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:b="https://data.maudry.com/voc/boamp#"
+         xmlns:dct="http://purl.org/dc/terms/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:attributions="https://boamp.maudry.com/attributions/"
+         xmlns:appeloffres="https://boamp.maudry.com/appeloffres/"
+         xmlns:annonces="https://boamp.maudry.com/annonces/"
+         xmlns:acheteurs="https://boamp.maudry.com/acheteurs/"
+         xmlns:titulaires="https://boamp.maudry.com/titulaires/"
+         xmlns:descripteurs="https://boamp.maudry.com/descripteurs/"
+         xmlns:lots="https://boamp.maudry.com/lots/"
+         xmlns:cpv="https://boamp.maudry.com/cpv/">
+  <b:Annonce rdf:about="https://boamp.maudry.com/annonces/16-186394">
+      <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
+      <b:idweb>16-186394</b:idweb>
+      <b:nomHtml>16-186394.html</b:nomHtml>
+      <b:datePublication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-01-01</b:datePublication>
+      <b:dateFinDiffusion rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-02-07</b:dateFinDiffusion>
+      <b:descripteur rdf:resource="https://boamp.maudry.com/descripteurs/274"/>
+      <b:departementPublication>75</b:departementPublication>
+      <b:resumeObjet>2016 DFA 167 - Prestations de remorquage pour les véhicules de la ville de Paris</b:resumeObjet>
+      <b:appelOffres>
+         <b:AppelOffres rdf:about="https://boamp.maudry.com/appeloffres/16-186394">
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/Ville-de-Paris">
+                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdfs:label>Ville de Paris</rdfs:label>
+                  <b:codePostal>75639</b:codePostal>
+                  <b:ville>Paris cedex 13</b:ville>
+                  <b:profilAcheteur rdf:resource="https://marches.maximilien.fr"/>
+               </rdf:Description>
+            </b:acheteur>
+            <b:titreMarche>2016 DFA 167 - Prestations de remorquage pour les véhicules de la ville de Paris</b:titreMarche>
+            <b:refMarche>2016V12019350</b:refMarche>
+            <b:typeMarche>Service</b:typeMarche>
+            <b:objetComplet>Accords-cadres à bons de commande relatifs à des prestations de remorquage pour les véhicules de la ville de Paris, en deux lots séparés.</b:objetComplet>
+            <b:cpvPrincipal rdf:resource="https://boamp.maudry.com/cpv/50118110"/>
+            <b:lot>
+               <b:Lot rdf:about="https://boamp.maudry.com/lots/16-186394_1">
+                  <b:appelOffres rdf:resource="https://boamp.maudry.com/annonces/16-186394"/>
+                  <b:numeroLot>1</b:numeroLot>
+                  <b:intitule>Prestations de remorquage pour les véhicules légers de la ville de Paris</b:intitule>
+                  <b:description>Accord-cadre à bons de commande relatif à des prestations de remorquage pour les véhicules légers de la ville de Paris</b:description>
+                  <b:cpvPrincipal rdf:resource="https://boamp.maudry.com/cpv/50118110"/>
+               </b:Lot>
+            </b:lot>
+            <b:lot>
+               <b:Lot rdf:about="https://boamp.maudry.com/lots/16-186394_2">
+                  <b:appelOffres rdf:resource="https://boamp.maudry.com/annonces/16-186394"/>
+                  <b:numeroLot>2</b:numeroLot>
+                  <b:intitule>Prestations de remorquage pour les poids lourds de la ville de Paris</b:intitule>
+                  <b:description>Accord-cadre à bons de commande relatif à des prestations de remorquage pour les poids lourds de la ville de Paris</b:description>
+                  <b:cpvPrincipal rdf:resource="https://boamp.maudry.com/cpv/50118110"/>
+               </b:Lot>
+            </b:lot>
+            <b:typeProcedure>Ouvert</b:typeProcedure>
+            <b:eligibleMps rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:eligibleMps>
+         </b:AppelOffres>
+      </b:appelOffres>
+   </b:Annonce>
+  
+</rdf:RDF>

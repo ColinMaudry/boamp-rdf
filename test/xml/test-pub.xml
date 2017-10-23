@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNONCE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd">
+  <GESTION>
+    <REFERENCE>
+      <IDWEB>16-186394</IDWEB>
+      <TYPE_AVIS>
+        <FAMILLE>
+          <JOUE/>
+        </FAMILLE>
+        <PERIMETRE>
+          <DIRECTIVE-24/>
+        </PERIMETRE>
+        <NATURE>
+          <APPEL_OFFRE>
+            <STANDARD/>
+          </APPEL_OFFRE>
+        </NATURE>
+        <STATUT>
+          <INITIAL/>
+        </STATUT>
+      </TYPE_AVIS>
+    </REFERENCE>
+    <NOM_HTML>16-186394.html</NOM_HTML>
+    <INDEXATION>
+      <DATE_PUBLICATION>2017-01-01</DATE_PUBLICATION>
+      <DATE_FIN_DIFFUSION>2017-02-07</DATE_FIN_DIFFUSION>
+      <DESCRIPTEURS>
+        <DESCRIPTEUR>
+          <CODE>274</CODE>
+          <LIBELLE>Prestations de services</LIBELLE>
+        </DESCRIPTEUR>
+      </DESCRIPTEURS>
+      <CRITERES_SOCIAUX_ENV>
+        <ENVIRONNEMENTAUX/>
+      </CRITERES_SOCIAUX_ENV>
+      <DEP_PUBLICATION>75</DEP_PUBLICATION>
+      <RESUME_OBJET>2016 DFA 167 - Prestations de remorquage pour les véhicules de la ville de Paris</RESUME_OBJET>
+    </INDEXATION>
+  </GESTION>
+  <DONNEES>
+    <IDENTITE>
+      <DENOMINATION>Ville de Paris</DENOMINATION>
+      <ADJUDICATEUR_NUTS>FR101</ADJUDICATEUR_NUTS>
+      <ADRESSE>Direction des finances et des achats - Sous-direction des achats - CSP3 Fournitures et services - espace public (DPE et DILT) - 95 avenue de France</ADRESSE>
+      <CP>75639</CP>
+      <VILLE>Paris cedex 13</VILLE>
+      <MEL>dfa-bm3@paris.fr</MEL>
+      <URL>http://www.paris.fr</URL>
+      <URL_PROFIL_ACHETEUR>https://marches.maximilien.fr</URL_PROFIL_ACHETEUR>
+      <URL_DOCUMENT>https://marches.maximilien.fr</URL_DOCUMENT>
+      <AGIT_POUR_AUTRE_COMPTE_NON/>
+      <ORGANISME_ACHETEUR_CENTRAL_NON/>
+    </IDENTITE>
+    <TYPE_POUVOIR_ADJUDICATEUR>
+      <AUTOTRITE_REGIONAL/>
+    </TYPE_POUVOIR_ADJUDICATEUR>
+    <ACTIVITE_PRINCIPALE>
+      <POUVOIR_ADJUDICATEUR>
+        <ACT_SERV_ADM_PUB/>
+      </POUVOIR_ADJUDICATEUR>
+    </ACTIVITE_PRINCIPALE>
+    <OBJET>
+      <TITRE_MARCHE>2016 DFA 167 - Prestations de remorquage pour les véhicules de la ville de Paris</TITRE_MARCHE>
+      <REF_MARCHE>2016V12019350</REF_MARCHE>
+      <TYPE_MARCHE>
+        <SERVICE/>
+      </TYPE_MARCHE>
+      <OBJET_COMPLET>Accords-cadres à bons de commande relatifs à des prestations de remorquage pour les véhicules de la ville de Paris, en deux lots séparés.</OBJET_COMPLET>
+      <CPV>
+        <PRINCIPAL>50118110</PRINCIPAL>
+      </CPV>
+      <DIV_EN_LOTS>
+        <OUI/>
+        <OFFRE_TOUS/>
+      </DIV_EN_LOTS>
+      <LOTS_RESERVE_POUVOIR_ADJUDICATEUR>Néant.</LOTS_RESERVE_POUVOIR_ADJUDICATEUR>
+      <LOTS>
+        <LOT>
+          <NUM>1</NUM>
+          <INTITULE>Prestations de remorquage pour les véhicules légers de la ville de Paris</INTITULE>
+          <DESCRIPTION>Accord-cadre à bons de commande relatif à des prestations de remorquage pour les véhicules légers de la ville de Paris</DESCRIPTION>
+          <CPV>
+            <PRINCIPAL>50118110</PRINCIPAL>
+          </CPV>
+          <CODE_NUTS>FR10</CODE_NUTS>
+          <LIEU_PRINCIPAL>Paris ou proche banlieue</LIEU_PRINCIPAL>
+          <CRITERES_ATTRIBUTION>
+            <CRITERES_CCTP/>
+          </CRITERES_ATTRIBUTION>
+          <DUREE_MOIS>12</DUREE_MOIS>
+          <RENOUVELLEMENT_OUI/>
+          <RENOUVELLEMENT_DESCRIPTION>Le présent marché est reconductible tacitement dans les mêmes termes et pour une même durée dexécution, trois fois au maximum. Le titulaire ne peut refuser la reconduction.</RENOUVELLEMENT_DESCRIPTION>
+          <VARIANTES_NON/>
+          <OPTIONS_OUI/>
+          <OPTIONS_DESCRIPTION>Le pouvoir adjudicateur se réserve la possibilité de conclure ultérieurement, avec le titulaire de chaque marché, un marché ayant pour objet la réalisation de prestations similaires à celles confiées au titulaire dans le cadre de la présente consultation.</OPTIONS_DESCRIPTION>
+          <CATALOGUE_ELECTRONIQUE_NON/>
+          <FONDS_COMMUNAUTAIRES_NON/>
+          <INFO_COMPL>Montants du marché sur sa durée totale (reconductions comprises), soit 48 mois: 20 000 euros HT au minimum ; 100 000 euros HT au maximum.</INFO_COMPL>
+        </LOT>
+        <LOT>
+          <NUM>2</NUM>
+          <INTITULE>Prestations de remorquage pour les poids lourds de la ville de Paris</INTITULE>
+          <DESCRIPTION>Accord-cadre à bons de commande relatif à des prestations de remorquage pour les poids lourds de la ville de Paris</DESCRIPTION>
+          <CPV>
+            <PRINCIPAL>50118110</PRINCIPAL>
+          </CPV>
+          <CODE_NUTS>FR10</CODE_NUTS>
+          <LIEU_PRINCIPAL>Paris ou proche banlieue</LIEU_PRINCIPAL>
+          <CRITERES_ATTRIBUTION>
+            <CRITERES_PRIX/>
+          </CRITERES_ATTRIBUTION>
+          <DUREE_MOIS>12</DUREE_MOIS>
+          <RENOUVELLEMENT_OUI/>
+          <RENOUVELLEMENT_DESCRIPTION>Le présent marché est reconductible tacitement dans les mêmes termes et pour une même durée dexécution, trois fois au maximum. Le titulaire ne peut refuser la reconduction.</RENOUVELLEMENT_DESCRIPTION>
+          <VARIANTES_NON/>
+          <OPTIONS_OUI/>
+          <OPTIONS_DESCRIPTION>Le pouvoir adjudicateur se réserve la possibilité de conclure ultérieurement, avec le titulaire de chaque marché, un marché ayant pour objet la réalisation de prestations similaires à celles confiées au titulaire dans le cadre de la présente consultation.</OPTIONS_DESCRIPTION>
+          <CATALOGUE_ELECTRONIQUE_NON/>
+          <FONDS_COMMUNAUTAIRES_NON/>
+          <INFO_COMPL>Montants du marché sur sa durée totale (reconductions comprises), soit 48 mois: 140 000 euros HT au minimum ; 600 000 euros HT au maximum.</INFO_COMPL>
+        </LOT>
+      </LOTS>
+    </OBJET>
+    <PROCEDURE>
+      <TYPE_PROCEDURE>
+        <OUVERT/>
+      </TYPE_PROCEDURE>
+      <AVIS_IMPLIQUE>
+        <ACCORD_CADRE_OUI/>
+      </AVIS_IMPLIQUE>
+      <ACCORD_CADRE>
+        <UN_SEUL_OPERATEUR/>
+      </ACCORD_CADRE>
+      <ENCHERE_ELECTRONIQUE_NON/>
+      <AMP_OUI/>
+      <CRITERES_ATTRIBUTION>
+        <CRITERES_PRIX/>
+      </CRITERES_ATTRIBUTION>
+      <MARCHE_PERIODIQUE_NON/>
+    </PROCEDURE>
+    <CONDITION_DELAI>
+      <RECEPT_OFFRES>2017-02-07T12:00:00+01:00</RECEPT_OFFRES>
+      <VALIDITE_OFFRE>
+        <DUREE_MOIS>7</DUREE_MOIS>
+      </VALIDITE_OFFRE>
+    </CONDITION_DELAI>
+    <CONDITION_RELATIVE_MARCHE>
+      <PARTICIPATION_ELECTRONIQUE_NON/>
+      <LANGUES>
+        <LANGUE>fr</LANGUE>
+      </LANGUES>
+    </CONDITION_RELATIVE_MARCHE>
+    <CONDITION_PARTICIPATION>
+      <CAP_ECO_MARCHE_OUI/>
+      <CAP_TECH_OFFRE_OUI/>
+      <MARCHE_RESERVE_NON/>
+      <CONDITION_PARTICULIERE_EXECUTION>Les marchés comportent des dispositions à caractère environnementale décrites à l'article 1.5.2 du CCAP.</CONDITION_PARTICULIERE_EXECUTION>
+      <ELIGIBLE_MPS>
+        <non/>
+      </ELIGIBLE_MPS>
+    </CONDITION_PARTICIPATION>
+    <CONDITION_ADMINISTRATIVE>
+      <DATE_OUVERTURE_OFFRES>2017-02-09</DATE_OUVERTURE_OFFRES>
+      <ENVOI_ELECTRONIQUE_AVEC_OUTIL_NON/>
+    </CONDITION_ADMINISTRATIVE>
+    <RENSEIGNEMENTS_COMPLEMENTAIRES>
+      <RENS_COMPLEMENT>Le dossier de consultation des entreprises peut être consulté et téléchargé à l'adresse suivante :https://marches.maximilien.fr/. Les candidats sont invités à répondre par voie électronique à cette même adresse dans les conditions fixées dans le dossier de consultation des entreprises.La durée des marchés se définit comme suit : 12 mois à compter de la date d'attribution au sens européen du terme, c'est-à-dire à compter de la date de notification des marchés aux titulaires.. Date d'envoi du présent avis au JOUE et au BOAMP : 30 décembre 2016.</RENS_COMPLEMENT>
+      <PROCEDURES_RECOURS_PRECISIONS>Avant la conclusion des contrats, la présente consultation peut faire l'objet d'un référé précontractuel dans les conditions des articles L.551-1 et suivants du code de justice administrative. A compter de leur signature, la présente consultation peut faire l'objet d'un référé contractuel dans les conditions des articles L.551-13 et suivants du code de justice administrative ; le tribunal administratif peut en outre être saisi d'un recours en contestation de la validité des contrats dans un délai de deux mois à compter de l'accomplissement des mesures de publicité appropriées, dans des conditions définies par le Conseil d'État dans sa décision Département de Tarn-et-Garonne du 4 avril 2014 (no358994).</PROCEDURES_RECOURS_PRECISIONS>
+      <ADRESSES_COMPLEMENTAIRES>
+        <ADRESSE>
+          <TYPE>
+            <INSTANCE_RECOURS/>
+          </TYPE>
+          <DENOMINATION>Tribunal administratif de Paris</DENOMINATION>
+          <ADRESSE>7, rue de Jouy</ADRESSE>
+          <CP>75181</CP>
+          <VILLE>Paris cedex 04</VILLE>
+          <TEL>(+33) 1-44-59-44-00</TEL>
+          <FAX>(+33) 1-44-59-46-46</FAX>
+          <MEL>greffe.ta-paris@juradm.fr</MEL>
+        </ADRESSE>
+        <ADRESSE>
+          <TYPE>
+            <RENS_RECOURS/>
+          </TYPE>
+          <DENOMINATION>Tribunal administratif de Paris</DENOMINATION>
+          <ADRESSE>7, rue de Jouy</ADRESSE>
+          <CP>75181</CP>
+          <VILLE>Paris cedex 04</VILLE>
+          <TEL>(+33) 1-44-59-44-00</TEL>
+          <FAX>(+33) 1-44-59-46-46</FAX>
+          <MEL>greffe.ta-paris@juradm.fr</MEL>
+        </ADRESSE>
+        <ADRESSE>
+          <TYPE>
+            <RENSEIGNEMENTS/>
+          </TYPE>
+          <DENOMINATION>Ville de Paris - Direction des finances et des achats - Sous-direction des achats</DENOMINATION>
+          <CONTACT>Bureau des marchés - Équipe BM3</CONTACT>
+          <ADRESSE>17 boulevard Morland</ADRESSE>
+          <CP>75181</CP>
+          <VILLE>Paris cedex 04</VILLE>
+          <CODE_NUTS>FR101</CODE_NUTS>
+          <MEL>dfa-bm3@paris.fr</MEL>
+          <URL>http://www.paris.fr</URL>
+        </ADRESSE>
+        <ADRESSE>
+          <TYPE>
+            <ENVOYER_OFFRES/>
+          </TYPE>
+          <DENOMINATION>Ville de Paris - Direction des finances et des achats - Sous-direction des achats</DENOMINATION>
+          <CONTACT>Bureau des marchés - bureau no3094 (3e étage) - Horaires : du lundi au vendredi, de 9h30 à 12h00 et de 14h00 à 16h00</CONTACT>
+          <ADRESSE>17 boulevard Morland</ADRESSE>
+          <CP>75181</CP>
+          <VILLE>Paris cedex 04</VILLE>
+          <CODE_NUTS>FR101</CODE_NUTS>
+          <MEL>dfa-bm-transverse@paris.fr</MEL>
+          <URL>http://www.paris.fr</URL>
+        </ADRESSE>
+      </ADRESSES_COMPLEMENTAIRES>
+    </RENSEIGNEMENTS_COMPLEMENTAIRES>
+  </DONNEES>
+</ANNONCE>

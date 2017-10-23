@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:b="https://data.maudry.com/voc/boamp#"
+         xmlns:dct="http://purl.org/dc/terms/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:attributions="https://boamp.maudry.com/attributions/"
+         xmlns:appeloffres="https://boamp.maudry.com/appeloffres/"
+         xmlns:annonces="https://boamp.maudry.com/annonces/"
+         xmlns:acheteurs="https://boamp.maudry.com/acheteurs/"
+         xmlns:titulaires="https://boamp.maudry.com/titulaires/"
+         xmlns:descripteurs="https://boamp.maudry.com/descripteurs/"
+         xmlns:lots="https://boamp.maudry.com/lots/"
+         xmlns:cpv="https://boamp.maudry.com/cpv/">
+  <b:Annonce rdf:about="https://boamp.maudry.com/annonces/16-185754">
+      <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
+      <b:idweb>16-185754</b:idweb>
+      <b:annonceAnterieure>
+         <b:Annonce rdf:about="https://boamp.maudry.com/annonces/15-14160">
+            <b:idweb>15-14160</b:idweb>
+         </b:Annonce>
+      </b:annonceAnterieure>
+      <b:nomHtml>16-185754.html</b:nomHtml>
+      <b:datePublication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-01-13</b:datePublication>
+      <b:dateFinDiffusion rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-02-13</b:dateFinDiffusion>
+      <b:descripteur rdf:resource="https://boamp.maudry.com/descripteurs/342"/>
+      <b:departementPublication>76</b:departementPublication>
+      <b:resumeObjet>mise en oeuvre d'une aire de glisse (skatepark, roller, bmx et trottinette) sur le site de la mâture à fécamp</b:resumeObjet>
+      <b:attribution>
+         <b:Attribution rdf:about="https://boamp.maudry.com/attributions/16-185754_2016-52">
+            <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/15-14160"/>
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/ville-de-Fécamp">
+                  <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Commune"/>
+                  <rdfs:label>ville de Fécamp</rdfs:label>
+                  <b:codePostal>76404</b:codePostal>
+                  <b:ville>Fecamp cedex</b:ville>
+                  <b:profilAcheteur rdf:resource="http://marches-publics.sis-marches.com/fcmp/"/>
+               </rdf:Description>
+            </b:acheteur>
+            <b:nbTitulaires rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</b:nbTitulaires>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-26</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</b:nbOffresRecues>
+            <b:montant rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">348852</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:montant>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/CONCRETE-WAVES-SKATE-PARKS-Mandataire--40220">
+                  <rdfs:label>CONCRETE WAVES SKATE PARKS(Mandataire)</rdfs:label>
+                  <b:codePostal>40220</b:codePostal>
+                  <b:ville>TARNOS</b:ville>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/SPORT-DES-VILLES-co-traitant--14000">
+                  <rdfs:label>SPORT DES VILLES(co-traitant)</rdfs:label>
+                  <b:codePostal>14000</b:codePostal>
+                  <b:ville>CAEN</b:ville>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/LAURENCE-CREMEL-PAYSAGISTE-Co-traitant--75010">
+                  <rdfs:label>LAURENCE CREMEL PAYSAGISTE(Co-traitant)</rdfs:label>
+                  <b:codePostal>75010</b:codePostal>
+                  <b:ville>PARIS</b:ville>
+               </b:Titulaire>
+            </b:titulaire>
+         </b:Attribution>
+      </b:attribution>
+   </b:Annonce>
+  
+</rdf:RDF>

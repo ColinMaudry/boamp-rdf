@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:b="https://data.maudry.com/voc/boamp#"
+         xmlns:dct="http://purl.org/dc/terms/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:attributions="https://boamp.maudry.com/attributions/"
+         xmlns:appeloffres="https://boamp.maudry.com/appeloffres/"
+         xmlns:annonces="https://boamp.maudry.com/annonces/"
+         xmlns:acheteurs="https://boamp.maudry.com/acheteurs/"
+         xmlns:titulaires="https://boamp.maudry.com/titulaires/"
+         xmlns:descripteurs="https://boamp.maudry.com/descripteurs/"
+         xmlns:lots="https://boamp.maudry.com/lots/"
+         xmlns:cpv="https://boamp.maudry.com/cpv/">
+  <b:Annonce rdf:about="https://boamp.maudry.com/annonces/17-22464">
+      <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
+      <b:idweb>17-22464</b:idweb>
+      <b:nomHtml>17-22464.html</b:nomHtml>
+      <b:datePublication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-02-15</b:datePublication>
+      <b:dateFinDiffusion rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-03-09</b:dateFinDiffusion>
+      <b:descripteur rdf:resource="https://boamp.maudry.com/descripteurs/52"/>
+      <b:departementPublication>11</b:departementPublication>
+      <b:resumeObjet>CONTRAT DE CONCESSION - STATION SERVICE</b:resumeObjet>
+      <b:appelOffres>
+         <b:AppelOffres rdf:about="https://boamp.maudry.com/appeloffres/17-22464">
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/Cté-de-Cnes-Pyrénées-Audoises">
+                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdfs:label>Cté de Cnes Pyrénées Audoises</rdfs:label>
+                  <b:codePostal>11500</b:codePostal>
+                  <b:ville>Quillan</b:ville>
+                  <b:profilAcheteur rdf:resource="http://cc-pyreneesaudoises.e-marchespublics.com"/>
+               </rdf:Description>
+            </b:acheteur>
+            <b:titreMarche>CONTRAT DE CONCESSION - GESTION ET EXPLOITATION DE LA STATION SERVICE INTERCOMMUNALE</b:titreMarche>
+            <b:refMarche>17DSPAXAT</b:refMarche>
+            <b:typeMarche>Service</b:typeMarche>
+            <b:objetComplet>La présente consultation a pour objet la passation, pour une durée de 7 ans du contrat d'affermage du service public d'exploitation et de distribution de carburant en libre service sur la Commune d'Axat .La procédure est de type restreinte.Sur la base de l'ensemble des éléments du dossier de candidature remis, les candidats seront sélectionnés, conformément aux dispositions de l'article 45 de l'ordonnance du 29 janvier 2016 et de l'article L. 1411-5 CGCT, au regard de leurs garanties professionnelles et financières, de leur aptitude à assurer l'égalité des usagers devant le service public ainsi que la continuité de celui-ci et de leur respect de l'obligation d'emploi des travailleurs handicapés prévue aux articles L. 5212-1 à L. 5212-4 du code du travail.(2) Les candidats admis à présenter une offre seront sélectionnés par la commission de délégation de service public, désignée suivant les dispositions de l'article L. 1411-5 du CGCT.</b:objetComplet>
+            <b:cpvPrincipal rdf:resource="https://boamp.maudry.com/cpv/09000000"/>
+            <b:valeurTotale rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3113000</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:valeurTotale>
+            <b:lot>
+               <b:Lot rdf:about="https://boamp.maudry.com/lots/17-22464_">
+                  <b:appelOffres rdf:resource="https://boamp.maudry.com/annonces/17-22464"/>
+                  <b:description>Le contrat de concession de service public aura pour objet de :- confier au délégataire la gestion de la station-service d'AXAT- Entretenir l'ensemble des ouvrages et équipements destinés à l'exploitation du service public, - percevoir les recettes dues par les usagers.</b:description>
+                  <b:valeur rdf:parseType="Resource">
+                     <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3113000</b:montant>
+                     <b:devise>EUR</b:devise>
+                  </b:valeur>
+               </b:Lot>
+            </b:lot>
+            <b:eligibleMps rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</b:eligibleMps>
+         </b:AppelOffres>
+      </b:appelOffres>
+   </b:Annonce>
+  
+</rdf:RDF>

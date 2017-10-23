@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:b="https://data.maudry.com/voc/boamp#"
+         xmlns:dct="http://purl.org/dc/terms/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:attributions="https://boamp.maudry.com/attributions/"
+         xmlns:appeloffres="https://boamp.maudry.com/appeloffres/"
+         xmlns:annonces="https://boamp.maudry.com/annonces/"
+         xmlns:acheteurs="https://boamp.maudry.com/acheteurs/"
+         xmlns:titulaires="https://boamp.maudry.com/titulaires/"
+         xmlns:descripteurs="https://boamp.maudry.com/descripteurs/"
+         xmlns:lots="https://boamp.maudry.com/lots/"
+         xmlns:cpv="https://boamp.maudry.com/cpv/">
+  <b:Annonce rdf:about="https://boamp.maudry.com/annonces/17-1515">
+      <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
+      <b:idweb>17-1515</b:idweb>
+      <b:annonceAnterieure>
+         <b:Annonce rdf:about="https://boamp.maudry.com/annonces/16-162580">
+            <b:idweb>16-162580</b:idweb>
+         </b:Annonce>
+      </b:annonceAnterieure>
+      <b:nomHtml>17-1515.html</b:nomHtml>
+      <b:datePublication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-01-04</b:datePublication>
+      <b:dateFinDiffusion rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-02-18</b:dateFinDiffusion>
+      <b:descripteur rdf:resource="https://boamp.maudry.com/descripteurs/335"/>
+      <b:departementPublication>5</b:departementPublication>
+      <b:resumeObjet>Fourniture de polymères pour la déshydratation des boues de la station d'épuration de Gap</b:resumeObjet>
+      <b:attribution>
+         <b:Attribution rdf:about="https://boamp.maudry.com/attributions/17-1515">
+            <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-162580"/>
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/Communauté-d-agglomérat--du-gapençais">
+                  <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Autre"/>
+                  <rdfs:label>Communauté d'agglomérat. du gapençais</rdfs:label>
+                  <b:codePostal>05000</b:codePostal>
+                  <b:ville>GAP</b:ville>
+                  <b:profilAcheteur rdf:resource="http://www.ville-gap.fr/"/>
+               </rdf:Description>
+            </b:acheteur>
+            <b:nbTitulaires rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</b:nbTitulaires>
+            <b:dateAttribution rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-12-29</b:dateAttribution>
+            <b:nbOffresRecues rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</b:nbOffresRecues>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/ADIPAP-78000">
+                  <rdfs:label>ADIPAP</rdfs:label>
+                  <b:codePostal>78000</b:codePostal>
+                  <b:ville>VERSAILLES</b:ville>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/KEMIRA-FRANCE-SAS-67630">
+                  <rdfs:label>KEMIRA FRANCE SAS</rdfs:label>
+                  <b:codePostal>67630</b:codePostal>
+                  <b:ville>LAUTERBOURG</b:ville>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/OTV-SUD-AFRIQUE-13567">
+                  <rdfs:label>OTV SUD AFRIQUE</rdfs:label>
+                  <b:codePostal>13567</b:codePostal>
+                  <b:ville>MARSEILLE CEDEX 02</b:ville>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/SAS-SNF-42163">
+                  <rdfs:label>SAS SNF</rdfs:label>
+                  <b:codePostal>42163</b:codePostal>
+                  <b:ville>ANDREZIEUX CEDEX</b:ville>
+               </b:Titulaire>
+            </b:titulaire>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/DIAGONAL-WATER-TREATMENT-30100">
+                  <rdfs:label>DIAGONAL WATER TREATMENT</rdfs:label>
+                  <b:codePostal>30100</b:codePostal>
+                  <b:ville>ALES</b:ville>
+               </b:Titulaire>
+            </b:titulaire>
+         </b:Attribution>
+      </b:attribution>
+   </b:Annonce>
+  
+</rdf:RDF>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:b="https://data.maudry.com/voc/boamp#"
+         xmlns:dct="http://purl.org/dc/terms/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:attributions="https://boamp.maudry.com/attributions/"
+         xmlns:appeloffres="https://boamp.maudry.com/appeloffres/"
+         xmlns:annonces="https://boamp.maudry.com/annonces/"
+         xmlns:acheteurs="https://boamp.maudry.com/acheteurs/"
+         xmlns:titulaires="https://boamp.maudry.com/titulaires/"
+         xmlns:descripteurs="https://boamp.maudry.com/descripteurs/"
+         xmlns:lots="https://boamp.maudry.com/lots/"
+         xmlns:cpv="https://boamp.maudry.com/cpv/">
+  <b:Annonce rdf:about="https://boamp.maudry.com/annonces/16-138580">
+      <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
+      <b:idweb>16-138580</b:idweb>
+      <b:annonceAnterieure>
+         <b:Annonce rdf:about="https://boamp.maudry.com/annonces/16-119846">
+            <b:idweb>16-119846</b:idweb>
+         </b:Annonce>
+      </b:annonceAnterieure>
+      <b:nomHtml>16-138580.html</b:nomHtml>
+      <b:datePublication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-02-14</b:datePublication>
+      <b:dateFinDiffusion rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-04-15</b:dateFinDiffusion>
+      <b:descripteur rdf:resource="https://boamp.maudry.com/descripteurs/118"/>
+      <b:departementPublication>17</b:departementPublication>
+      <b:resumeObjet>etude prospective à la fois technique, financière et sociale d'optimisation du service politique des déchets</b:resumeObjet>
+      <b:attribution>
+         <b:Attribution rdf:about="https://boamp.maudry.com/attributions/16-138580">
+            <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-119846"/>
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/Communauté-d-Agglomération-de-Saintes">
+                  <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Ept"/>
+                  <rdfs:label>Communauté d'Agglomération de Saintes</rdfs:label>
+                  <b:codePostal>17100</b:codePostal>
+                  <b:ville>Saintes</b:ville>
+                  <b:profilAcheteur rdf:resource="http://www.agglo-saintes.fr"/>
+               </rdf:Description>
+            </b:acheteur>
+            <b:nbTitulaires rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</b:nbTitulaires>
+      
+            <b:valeurTotale rdf:parseType="Resource">
+               <b:montant rdf:datatype="http://www.w3.org/2001/XMLSchema#double">38820</b:montant>
+               <b:devise>EUR</b:devise>
+            </b:valeurTotale>
+            <b:dateDecision rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-02-06</b:dateDecision>
+            <b:titulaire>
+               <b:Titulaire rdf:about="https://boamp.maudry.com/titulaires/SARL-ENVIRONNEMENT---SOLUTIONS-44300">
+                  <rdfs:label>SARL ENVIRONNEMENT &amp; SOLUTIONS</rdfs:label>
+                  <b:codePostal>44300</b:codePostal>
+               </b:Titulaire>
+            </b:titulaire>
+         </b:Attribution>
+      </b:attribution>
+   </b:Annonce>
+  
+</rdf:RDF>

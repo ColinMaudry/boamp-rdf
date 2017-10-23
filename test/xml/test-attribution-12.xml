@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNONCE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd">
+  <GESTION>
+    <REFERENCE>
+      <IDWEB>17-2599</IDWEB>
+      <TYPE_AVIS>
+        <FAMILLE>
+          <JOUE/>
+        </FAMILLE>
+        <PERIMETRE>
+          <DIRECTIVE-24/>
+        </PERIMETRE>
+        <NATURE>
+          <ATTRIBUTION>
+            <STANDARD/>
+          </ATTRIBUTION>
+        </NATURE>
+        <STATUT>
+          <INITIAL/>
+        </STATUT>
+      </TYPE_AVIS>
+    </REFERENCE>
+    <MARCHE>
+      <ANNONCE_ANTERIEUR>
+        <REFERENCE>
+          <IDWEB>16-107438</IDWEB>
+          <TYPE_AVIS>
+            <FAMILLE>
+              <JOUE/>
+            </FAMILLE>
+            <PERIMETRE>
+              <DIRECTIVE-24/>
+            </PERIMETRE>
+            <NATURE>
+              <APPEL_OFFRE>
+                <STANDARD/>
+              </APPEL_OFFRE>
+            </NATURE>
+            <STATUT>
+              <INITIAL/>
+            </STATUT>
+          </TYPE_AVIS>
+          <DATE_ENVOI>2016-07-18</DATE_ENVOI>
+        </REFERENCE>
+        <REFERENCE_PUBLICATION>
+          <PUBLICATION_ELECTRONIQUE>
+            <DATE_PUBLICATION>2016-07-20</DATE_PUBLICATION>
+            <DATE_FIN_DIFFUSION>2016-08-31</DATE_FIN_DIFFUSION>
+          </PUBLICATION_ELECTRONIQUE>
+        </REFERENCE_PUBLICATION>
+        <REFERENCE_PUBLICATION>
+          <PUBLICATION_JOUE>
+            <ANNEE>2016</ANNEE>
+            <NUM_PARUTION>140</NUM_PARUTION>
+            <NUM_ANNONCE>252708</NUM_ANNONCE>
+            <DATE_PUBLICATION>2016-07-22</DATE_PUBLICATION>
+          </PUBLICATION_JOUE>
+        </REFERENCE_PUBLICATION>
+      </ANNONCE_ANTERIEUR>
+    </MARCHE>
+    <NOM_HTML>17-2599.html</NOM_HTML>
+    <INDEXATION>
+      <DATE_PUBLICATION>2017-01-08</DATE_PUBLICATION>
+      <DATE_FIN_DIFFUSION>2017-01-16</DATE_FIN_DIFFUSION>
+      <DESCRIPTEURS>
+        <DESCRIPTEUR>
+          <CODE>88</CODE>
+          <LIBELLE>Denrées alimentaires</LIBELLE>
+        </DESCRIPTEUR>
+      </DESCRIPTEURS>
+      <DEP_PUBLICATION>83</DEP_PUBLICATION>
+      <RESUME_OBJET>Fourniture de denrées alimentaires pour le Centre Communal d'Action Sociale de Toulon</RESUME_OBJET>
+    </INDEXATION>
+  </GESTION>
+  <DONNEES>
+    <IDENTITE>
+      <DENOMINATION>C.C.A.S. de Toulon</DENOMINATION>
+      <CODE_IDENT_NATIONAL>26830066200015</CODE_IDENT_NATIONAL>
+      <ADJUDICATEUR_NUTS>FR825</ADJUDICATEUR_NUTS>
+      <ADRESSE>Service des Marchés, 100 rue des Remparts, Cs 20813</ADRESSE>
+      <CP>83051</CP>
+      <VILLE>Toulon</VILLE>
+      <TEL>(+33) 4-94-24-65-00</TEL>
+      <MEL>s.marches@ccas-toulon.fr</MEL>
+      <URL>http://www.marches-publics.info/acheteur/ccas-toulon/</URL>
+      <URL_PROFIL_ACHETEUR>http://www.marches-publics.info/acheteur/ccas-toulon/</URL_PROFIL_ACHETEUR>
+      <AGIT_POUR_AUTRE_COMPTE_NON/>
+      <ORGANISME_ACHETEUR_CENTRAL_NON/>
+    </IDENTITE>
+    <TYPE_POUVOIR_ADJUDICATEUR>
+      <AUTOTRITE_REGIONAL/>
+    </TYPE_POUVOIR_ADJUDICATEUR>
+    <ACTIVITE_PRINCIPALE>
+      <POUVOIR_ADJUDICATEUR>
+        <ACT_SERV_ADM_PUB/>
+      </POUVOIR_ADJUDICATEUR>
+    </ACTIVITE_PRINCIPALE>
+    <OBJET>
+      <TITRE_MARCHE>Fourniture de denrées alimentaires pour le Centre Communal d'Action Sociale de Toulon</TITRE_MARCHE>
+      <REF_MARCHE>16ff-Mp-0383-G</REF_MARCHE>
+      <TYPE_MARCHE>
+        <FOURNITURES/>
+      </TYPE_MARCHE>
+      <OBJET_COMPLET>Le présent marché public a pour objet la fourniture de denrées alimentaires nécessaire à la confection d'environ 245 000 repas par an.6 sites de livraison sur la commune de Toulon sont concernés.Le marché public est un accord-cadre mono-attributaire à bons de commandes et à lots séparés</OBJET_COMPLET>
+      <CPV>
+        <PRINCIPAL>15890000</PRINCIPAL>
+      </CPV>
+      <CARACTERISTIQUES>
+        <VALEUR_MIN DEVISE="EUR">485650</VALEUR_MIN>
+        <VALEUR_MAX DEVISE="EUR">855500</VALEUR_MAX>
+      </CARACTERISTIQUES>
+      <DIV_EN_LOTS>
+        <OUI/>
+      </DIV_EN_LOTS>
+      <LOTS>
+        <LOT>
+          <NUM>1</NUM>
+          <INTITULE>surgelés viande poisson légumes</INTITULE>
+          <DESCRIPTION>surgelés viande poisson légumes</DESCRIPTION>
+          <CPV>
+            <PRINCIPAL>15896000</PRINCIPAL>
+          </CPV>
+          <CODE_NUTS>FR825</CODE_NUTS>
+          <CRITERES_ATTRIBUTION>
+            <CRITERES_QUALITE>
+              <CRITERE POIDS="30">Qualités organoleptiques des produits appréciées sur la base de la dégustation et/ou des fiches produits</CRITERE>
+              <CRITERE POIDS="20">Qualité de gestion et d'exécution des commandes et conditionnements proposés</CRITERE>
+              <CRITERE POIDS="10">Pertinence des produits proposés en s'appuyant sur les recommandations du Gemrcn et du Pnns appréciée au vu des fiches techniques demandées</CRITERE>
+            </CRITERES_QUALITE>
+            <CRITERES_PRIX>
+              <POIDS>40</POIDS>
+            </CRITERES_PRIX>
+          </CRITERES_ATTRIBUTION>
+          <OPTIONS_NON/>
+          <FONDS_COMMUNAUTAIRES_NON/>
+        </LOT>
+        <LOT>
+          <NUM>2</NUM>
+          <INTITULE>surgelés élaborés</INTITULE>
+          <DESCRIPTION>surgelés élaborés</DESCRIPTION>
+          <CPV>
+            <PRINCIPAL>15894300</PRINCIPAL>
+          </CPV>
+          <CODE_NUTS>FR825</CODE_NUTS>
+          <CRITERES_ATTRIBUTION>
+            <CRITERES_QUALITE>
+              <CRITERE POIDS="30">Qualités organoleptiques des produits appréciées sur la base de la dégustation et/ou des fiches produits</CRITERE>
+              <CRITERE POIDS="20">Qualité de gestion et d'exécution des commandes et conditionnements proposés</CRITERE>
+              <CRITERE POIDS="10">Pertinence des produits proposés en s'appuyant sur les recommandations du Gemrcn et du Pnns appréciée au vu des fiches techniques demandées</CRITERE>
+            </CRITERES_QUALITE>
+            <CRITERES_PRIX>
+              <POIDS>40</POIDS>
+            </CRITERES_PRIX>
+          </CRITERES_ATTRIBUTION>
+          <OPTIONS_NON/>
+          <FONDS_COMMUNAUTAIRES_NON/>
+        </LOT>
+        <LOT>
+          <NUM>3</NUM>
+          <INTITULE>pâtisseries surgelées</INTITULE>
+          <DESCRIPTION>pâtisseries surgelées</DESCRIPTION>
+          <CPV>
+            <PRINCIPAL>15812000</PRINCIPAL>
+          </CPV>
+          <CODE_NUTS>FR825</CODE_NUTS>
+          <CRITERES_ATTRIBUTION>
+            <CRITERES_QUALITE>
+              <CRITERE POIDS="30">Qualités organoleptiques des produits appréciées sur la base de la dégustation et/ou des fiches produits</CRITERE>
+              <CRITERE POIDS="20">Qualité de gestion et d'exécution des commandes et conditionnements proposés</CRITERE>
+              <CRITERE POIDS="10">Pertinence des produits proposés en s'appuyant sur les recommandations du Gemrcn et du Pnns appréciée au vu des fiches techniques demandées</CRITERE>
+            </CRITERES_QUALITE>
+            <CRITERES_PRIX>
+              <POIDS>40</POIDS>
+            </CRITERES_PRIX>
+          </CRITERES_ATTRIBUTION>
+          <OPTIONS_NON/>
+          <FONDS_COMMUNAUTAIRES_NON/>
+        </LOT>
+        <LOT>
+          <NUM>4</NUM>
+          <INTITULE>viande fraîche volaille et lapin</INTITULE>
+          <DESCRIPTION>viande fraîche volaille et lapin</DESCRIPTION>
+          <CPV>
+            <PRINCIPAL>15110000</PRINCIPAL>
+          </CPV>
+          <CODE_NUTS>FR825</CODE_NUTS>
+          <CRITERES_ATTRIBUTION>
+            <CRITERES_QUALITE>
+              <CRITERE POIDS="40">Pertinence des produits proposés en s'appuyant sur les recommandations du Gemrcn et du Pnns appréciée au vu des fiches techniques demandées</CRITERE>
+              <CRITERE POIDS="20">Qualité de gestion et d'exécution des commandes et conditionnements proposés</CRITERE>
+            </CRITERES_QUALITE>
+            <CRITERES_PRIX>
+              <POIDS>40</POIDS>
+            </CRITERES_PRIX>
+          </CRITERES_ATTRIBUTION>
+          <OPTIONS_NON/>
+          <FONDS_COMMUNAUTAIRES_NON/>
+        </LOT>
+        <LOT>
+          <NUM>5</NUM>
+          <INTITULE>viande fraîche porc boeuf veau agneau</INTITULE>
+          <DESCRIPTION>viande fraîche porc boeuf veau agneau</DESCRIPTION>
+          <CPV>
+            <PRINCIPAL>15110000</PRINCIPAL>
+          </CPV>
+          <CODE_NUTS>FR825</CODE_NUTS>
+          <CRITERES_ATTRIBUTION>
+            <CRITERES_QUALITE>
+              <CRITERE POIDS="30">Qualités organoleptiques des produits appréciées sur la base de la dégustation et/ou des fiches produits</CRITERE>
+              <CRITERE POIDS="20">Qualité de gestion et d'exécution des commandes et conditionnements proposés</CRITERE>
+              <CRITERE POIDS="10">Pertinence des produits proposés en s'appuyant sur les recommandations du Gemrcn et du Pnns appréciée au vu des fiches techniques demandées</CRITERE>
+            </CRITERES_QUALITE>
+            <CRITERES_PRIX>
+              <POIDS>40</POIDS>
+            </CRITERES_PRIX>
+          </CRITERES_ATTRIBUTION>
+          <OPTIONS_NON/>
+          <FONDS_COMMUNAUTAIRES_NON/>
+        </LOT>
+        <LOT>
+          <NUM>6</NUM>
+          <INTITULE>charcuterie et rôti cuit (autres que surgelés ou en conserve appertisée)</INTITULE>
+          <DESCRIPTION>charcuterie et rôti cuit (autres que surgelés ou en conserve appertisée)</DESCRIPTION>
+          <CPV>
+            <PRINCIPAL>15131120</PRINCIPAL>
+          </CPV>
+          <CODE_NUTS>FR825</CODE_NUTS>
+          <CRITERES_ATTRIBUTION>
+            <CRITERES_QUALITE>
+              <CRITERE POIDS="30">Qualités organoleptiques des produits appréciées sur la base de la dégustation et/ou des fiches produits</CRITERE>
+              <CRITERE POIDS="20">Qualité de gestion et d'exécution des commandes et conditionnements proposés</CRITERE>
+              <CRITERE POIDS="10">Pertinence des produits proposés en s'appuyant sur les recommandations du Gemrcn et du Pnns appréciée au vu des fiches techniques demandées</CRITERE>
+            </CRITERES_QUALITE>
+            <CRITERES_PRIX>
+              <POIDS>40</POIDS>
+            </CRITERES_PRIX>
+          </CRITERES_ATTRIBUTION>
+          <OPTIONS_NON/>
+          <FONDS_COMMUNAUTAIRES_NON/>
+        </LOT>
+        <LOT>
+          <NUM>7</NUM>
+          <INTITULE>produits de la mer ou d'eau douce (autres que surgelés ou en conserve appertisée)</INTITULE>
+          <DESCRIPTION>produits de la mer ou d'eau douce (autres que surgelés ou en conserve appertisée)</DESCRIPTION>
+          <CPV>
+            <PRINCIPAL>15200000</PRINCIPAL>
+          </CPV>
+          <CODE_NUTS>FR825</CODE_NUTS>
+          <CRITERES_ATTRIBUTION>
+            <CRITERES_QUALITE>
+              <CRITERE POIDS="40">Pertinence des produits proposés en s'appuyant sur les recommandations du Gemrcn et du Pnns appréciée au vu des fiches techniques demandées</CRITERE>
+              <CRITERE POIDS="20">Qualité de gestion et d'exécution des commandes et conditionnements proposés</CRITERE>
+            </CRITERES_QUALITE>
+            <CRITERES_PRIX>
+              <POIDS>40</POIDS>
+            </CRITERES_PRIX>
+          </CRITERES_ATTRIBUTION>
+          <OPTIONS_NON/>
+          <FONDS_COMMUNAUTAIRES_NON/>
+        </LOT>
+        <LOT>
+          <NUM>8</NUM>
+          <INTITULE>fruits et légumes crus et préparés 4e et 5e gamme (préparés et réfrigérés)</INTITULE>
+          <DESCRIPTION>fruits et légumes crus et préparés 4e et 5e gamme (préparés et réfrigérés)</DESCRIPTION>
+          <CPV>
+            <PRINCIPAL>15300000</PRINCIPAL>
+          </CPV>
+          <CODE_NUTS>FR825</CODE_NUTS>
+          <CRITERES_ATTRIBUTION>
+            <CRITERES_QUALITE>
+              <CRITERE POIDS="40">Pertinence des produits proposés en s'appuyant sur les recommandations du Gemrcn et du Pnns appréciée au vu des fiches techniques demandées</CRITERE>
+              <CRITERE POIDS="20">Qualité de gestion et d'exécution des commandes et conditionnements proposés</CRITERE>
+            </CRITERES_QUALITE>
+            <CRITERES_PRIX>
+              <POIDS>40</POIDS>
+            </CRITERES_PRIX>
+          </CRITERES_ATTRIBUTION>
+          <OPTIONS_NON/>
+          <FONDS_COMMUNAUTAIRES_NON/>
+        </LOT>
+        <LOT>
+          <NUM>9</NUM>
+          <INTITULE>boissons</INTITULE>
+          <DESCRIPTION>boissons</DESCRIPTION>
+          <CPV>
+            <PRINCIPAL>15900000</PRINCIPAL>
+          </CPV>
+          <CODE_NUTS>FR825</CODE_NUTS>
+          <CRITERES_ATTRIBUTION>
+            <CRITERES_QUALITE>
+              <CRITERE POIDS="40">Pertinence des produits proposés en s'appuyant sur les recommandations du Gemrcn et du Pnns appréciée au vu des fiches techniques demandées</CRITERE>
+              <CRITERE POIDS="20">Qualité de gestion et d'exécution des commandes et conditionnements proposés</CRITERE>
+            </CRITERES_QUALITE>
+            <CRITERES_PRIX>
+              <POIDS>40</POIDS>
+            </CRITERES_PRIX>
+          </CRITERES_ATTRIBUTION>
+          <OPTIONS_NON/>
+          <FONDS_COMMUNAUTAIRES_NON/>
+        </LOT>
+        <LOT>
+          <NUM>10</NUM>
+          <INTITULE>produits laitiers et avicoles (autres que surgelés)</INTITULE>
+          <DESCRIPTION>produits laitiers et avicoles (autres que surgelés)</DESCRIPTION>
+          <CPV>
+            <PRINCIPAL>15500000</PRINCIPAL>
+          </CPV>
+          <CODE_NUTS>FR825</CODE_NUTS>
+          <CRITERES_ATTRIBUTION>
+            <CRITERES_QUALITE>
+              <CRITERE POIDS="30">Qualités organoleptiques des produits appréciées sur la base de la dégustation et/ou des fiches produits</CRITERE>
+              <CRITERE POIDS="20">Qualité de gestion et d'exécution des commandes et conditionnements proposés</CRITERE>
+              <CRITERE POIDS="10">Pertinence des produits proposés en s'appuyant sur les recommandations du Gemrcn et du Pnns appréciée au vu des fiches techniques demandées</CRITERE>
+            </CRITERES_QUALITE>
+            <CRITERES_PRIX>
+              <POIDS>40</POIDS>
+            </CRITERES_PRIX>
+          </CRITERES_ATTRIBUTION>
+          <OPTIONS_NON/>
+          <FONDS_COMMUNAUTAIRES_NON/>
+        </LOT>
+        <LOT>
+          <NUM>11</NUM>
+          <INTITULE>épicerie : fonds</INTITULE>
+          <DESCRIPTION>épicerie : fonds</DESCRIPTION>
+          <CPV>
+            <PRINCIPAL>15891600</PRINCIPAL>
+          </CPV>
+          <CODE_NUTS>FR825</CODE_NUTS>
+          <CRITERES_ATTRIBUTION>
+            <CRITERES_QUALITE>
+              <CRITERE POIDS="30">Qualités organoleptiques des produits appréciées sur la base de la dégustation et/ou des fiches produits</CRITERE>
+              <CRITERE POIDS="20">Qualité de gestion et d'exécution des commandes et conditionnements proposés</CRITERE>
+              <CRITERE POIDS="10">Pertinence des produits proposés en s'appuyant sur les recommandations du Gemrcn et du Pnns appréciée au vu des fiches techniques demandées</CRITERE>
+            </CRITERES_QUALITE>
+            <CRITERES_PRIX>
+              <POIDS>40</POIDS>
+            </CRITERES_PRIX>
+          </CRITERES_ATTRIBUTION>
+          <OPTIONS_NON/>
+          <FONDS_COMMUNAUTAIRES_NON/>
+        </LOT>
+        <LOT>
+          <NUM>12</NUM>
+          <INTITULE>épicerie</INTITULE>
+          <DESCRIPTION>épicerie</DESCRIPTION>
+          <CPV>
+            <PRINCIPAL>15800000</PRINCIPAL>
+          </CPV>
+          <CODE_NUTS>FR825</CODE_NUTS>
+          <CRITERES_ATTRIBUTION>
+            <CRITERES_QUALITE>
+              <CRITERE POIDS="30">Qualités organoleptiques des produits appréciées sur la base de la dégustation et/ou des fiches produits</CRITERE>
+              <CRITERE POIDS="20">Qualité de gestion et d'exécution des commandes et conditionnements proposés</CRITERE>
+              <CRITERE POIDS="10">Pertinence des produits proposés en s'appuyant sur les recommandations du Gemrcn et du Pnns appréciée au vu des fiches techniques demandées</CRITERE>
+            </CRITERES_QUALITE>
+            <CRITERES_PRIX>
+              <POIDS>40</POIDS>
+            </CRITERES_PRIX>
+          </CRITERES_ATTRIBUTION>
+          <OPTIONS_NON/>
+          <FONDS_COMMUNAUTAIRES_NON/>
+        </LOT>
+        <LOT>
+          <NUM>13</NUM>
+          <INTITULE>épicerie - compotes, fruits au sirop, biscuits, desserts</INTITULE>
+          <DESCRIPTION>épicerie - compotes, fruits au sirop, biscuits, desserts</DESCRIPTION>
+          <CPV>
+            <PRINCIPAL>15833100</PRINCIPAL>
+          </CPV>
+          <CODE_NUTS>FR825</CODE_NUTS>
+          <CRITERES_ATTRIBUTION>
+            <CRITERES_QUALITE>
+              <CRITERE POIDS="30">Qualités organoleptiques des produits appréciées sur la base de la dégustation et/ou des fiches produits</CRITERE>
+              <CRITERE POIDS="20">Qualité de gestion et d'exécution des commandes et conditionnements proposés</CRITERE>
+              <CRITERE POIDS="10">Pertinence des produits proposés en s'appuyant sur les recommandations du Gemrcn et du Pnns appréciée au vu des fiches techniques demandées</CRITERE>
+            </CRITERES_QUALITE>
+            <CRITERES_PRIX>
+              <POIDS>40</POIDS>
+            </CRITERES_PRIX>
+          </CRITERES_ATTRIBUTION>
+          <OPTIONS_NON/>
+          <FONDS_COMMUNAUTAIRES_NON/>
+        </LOT>
+        <LOT>
+          <NUM>14</NUM>
+          <INTITULE>épicerie - petits déjeuners</INTITULE>
+          <DESCRIPTION>épicerie - petits déjeuners</DESCRIPTION>
+          <CPV>
+            <PRINCIPAL>15813000</PRINCIPAL>
+          </CPV>
+          <CODE_NUTS>FR825</CODE_NUTS>
+          <CRITERES_ATTRIBUTION>
+            <CRITERES_QUALITE>
+              <CRITERE POIDS="40">Pertinence des produits proposés en s'appuyant sur les recommandations du Gemrcn et du Pnns appréciée au vu des fiches techniques demandées</CRITERE>
+              <CRITERE POIDS="20">Qualité de gestion et d'exécution des commandes et conditionnements proposés</CRITERE>
+            </CRITERES_QUALITE>
+            <CRITERES_PRIX>
+              <POIDS>40</POIDS>
+            </CRITERES_PRIX>
+          </CRITERES_ATTRIBUTION>
+          <OPTIONS_NON/>
+          <FONDS_COMMUNAUTAIRES_NON/>
+        </LOT>
+        <LOT>
+          <NUM>15</NUM>
+          <INTITULE>produits laitiers bio</INTITULE>
+          <DESCRIPTION>produits laitiers bio</DESCRIPTION>
+          <CPV>
+            <PRINCIPAL>15500000</PRINCIPAL>
+          </CPV>
+          <CODE_NUTS>FR825</CODE_NUTS>
+          <CRITERES_ATTRIBUTION>
+            <CRITERES_QUALITE>
+              <CRITERE POIDS="40">Pertinence des produits proposés en s'appuyant sur les recommandations du Gemrcn et du Pnns appréciée au vu des fiches techniques demandées</CRITERE>
+              <CRITERE POIDS="20">Qualité de gestion et d'exécution des commandes et conditionnements proposés</CRITERE>
+            </CRITERES_QUALITE>
+            <CRITERES_PRIX>
+              <POIDS>40</POIDS>
+            </CRITERES_PRIX>
+          </CRITERES_ATTRIBUTION>
+          <OPTIONS_NON/>
+          <FONDS_COMMUNAUTAIRES_NON/>
+        </LOT>
+        <LOT>
+          <NUM>16</NUM>
+          <INTITULE>eau gélifiée lyophilisée</INTITULE>
+          <DESCRIPTION>eau gélifiée lyophilisée</DESCRIPTION>
+          <CPV>
+            <PRINCIPAL>15880000</PRINCIPAL>
+          </CPV>
+          <CODE_NUTS>FR825</CODE_NUTS>
+          <CRITERES_ATTRIBUTION>
+            <CRITERES_QUALITE>
+              <CRITERE POIDS="30">Qualités organoleptiques des produits appréciées sur la base de la dégustation et/ou des fiches produits</CRITERE>
+              <CRITERE POIDS="20">Qualité de gestion et d'exécution des commandes et conditionnements proposés</CRITERE>
+              <CRITERE POIDS="10">Pertinence des produits proposés en s'appuyant sur les recommandations du Gemrcn et du Pnns appréciée au vu des fiches techniques demandées</CRITERE>
+            </CRITERES_QUALITE>
+            <CRITERES_PRIX>
+              <POIDS>40</POIDS>
+            </CRITERES_PRIX>
+          </CRITERES_ATTRIBUTION>
+          <OPTIONS_NON/>
+          <FONDS_COMMUNAUTAIRES_NON/>
+        </LOT>
+        <LOT>
+          <NUM>17</NUM>
+          <INTITULE>entrées et plats mixés en frais</INTITULE>
+          <DESCRIPTION>entrées et plats mixés en frais</DESCRIPTION>
+          <CPV>
+            <PRINCIPAL>15880000</PRINCIPAL>
+          </CPV>
+          <CODE_NUTS>FR825</CODE_NUTS>
+          <CRITERES_ATTRIBUTION>
+            <CRITERES_QUALITE>
+              <CRITERE POIDS="30">Qualités organoleptiques des produits appréciées sur la base de la dégustation et/ou des fiches produits</CRITERE>
+              <CRITERE POIDS="20">Qualité de gestion et d'exécution des commandes et conditionnements proposés</CRITERE>
+              <CRITERE POIDS="10">Pertinence des produits proposés en s'appuyant sur les recommandations du Gemrcn et du Pnns appréciée au vu des fiches techniques demandées</CRITERE>
+            </CRITERES_QUALITE>
+            <CRITERES_PRIX>
+              <POIDS>40</POIDS>
+            </CRITERES_PRIX>
+          </CRITERES_ATTRIBUTION>
+          <OPTIONS_NON/>
+          <FONDS_COMMUNAUTAIRES_NON/>
+        </LOT>
+        <LOT>
+          <NUM>18</NUM>
+          <INTITULE>nutriments pour supplémentation orale</INTITULE>
+          <DESCRIPTION>nutriments pour supplémentation orale</DESCRIPTION>
+          <CPV>
+            <PRINCIPAL>15880000</PRINCIPAL>
+          </CPV>
+          <CODE_NUTS>FR825</CODE_NUTS>
+          <CRITERES_ATTRIBUTION>
+            <CRITERES_QUALITE>
+              <CRITERE POIDS="40">Pertinence des produits proposés en s'appuyant sur les recommandations du Gemrcn et du Pnns appréciée au vu des fiches techniques demandées</CRITERE>
+              <CRITERE POIDS="20">Qualité de gestion et d'exécution des commandes et conditionnements proposés</CRITERE>
+            </CRITERES_QUALITE>
+            <CRITERES_PRIX>
+              <POIDS>40</POIDS>
+            </CRITERES_PRIX>
+          </CRITERES_ATTRIBUTION>
+          <OPTIONS_NON/>
+          <FONDS_COMMUNAUTAIRES_NON/>
+        </LOT>
+        <LOT>
+          <NUM>19</NUM>
+          <INTITULE>viande et volaille bio (frais)</INTITULE>
+          <DESCRIPTION>viande et volaille bio (frais)</DESCRIPTION>
+          <CPV>
+            <PRINCIPAL>15110000</PRINCIPAL>
+          </CPV>
+          <CODE_NUTS>FR825</CODE_NUTS>
+          <CRITERES_ATTRIBUTION>
+            <CRITERES_QUALITE>
+              <CRITERE POIDS="40">Pertinence des produits proposés en s'appuyant sur les recommandations du Gemrcn et du Pnns appréciée au vu des fiches techniques demandées</CRITERE>
+              <CRITERE POIDS="20">Qualité de gestion et d'exécution des commandes et conditionnements proposés</CRITERE>
+            </CRITERES_QUALITE>
+            <CRITERES_PRIX>
+              <POIDS>40</POIDS>
+            </CRITERES_PRIX>
+          </CRITERES_ATTRIBUTION>
+          <OPTIONS_NON/>
+          <FONDS_COMMUNAUTAIRES_NON/>
+        </LOT>
+        <LOT>
+          <NUM>20</NUM>
+          <INTITULE>pains et viennoiseries</INTITULE>
+          <DESCRIPTION>pains et viennoiseries</DESCRIPTION>
+          <CPV>
+            <PRINCIPAL>15811000</PRINCIPAL>
+          </CPV>
+          <CODE_NUTS>FR825</CODE_NUTS>
+          <CRITERES_ATTRIBUTION>
+            <CRITERES_QUALITE>
+              <CRITERE POIDS="30">Qualités organoleptiques des produits appréciées sur la base de la dégustation et/ou des fiches produits</CRITERE>
+              <CRITERE POIDS="20">Qualité de gestion et d'exécution des commandes et conditionnements proposés</CRITERE>
+              <CRITERE POIDS="10">Pertinence des produits proposés en s'appuyant sur les recommandations du Gemrcn et du Pnns appréciée au vu des fiches techniques demandées</CRITERE>
+            </CRITERES_QUALITE>
+            <CRITERES_PRIX>
+              <POIDS>40</POIDS>
+            </CRITERES_PRIX>
+          </CRITERES_ATTRIBUTION>
+          <OPTIONS_NON/>
+          <FONDS_COMMUNAUTAIRES_NON/>
+        </LOT>
+        <LOT>
+          <NUM>21</NUM>
+          <INTITULE>pâtisserie fraîche sucrée ou salée</INTITULE>
+          <DESCRIPTION>pâtisserie fraîche sucrée ou salée</DESCRIPTION>
+          <CPV>
+            <PRINCIPAL>15812100</PRINCIPAL>
+          </CPV>
+          <CODE_NUTS>FR825</CODE_NUTS>
+          <CRITERES_ATTRIBUTION>
+            <CRITERES_QUALITE>
+              <CRITERE POIDS="30">Qualités organoleptiques des produits appréciées sur la base de la dégustation et/ou des fiches produits</CRITERE>
+              <CRITERE POIDS="20">Qualité de gestion et d'exécution des commandes et conditionnements proposés</CRITERE>
+              <CRITERE POIDS="10">Pertinence des produits proposés en s'appuyant sur les recommandations du Gemrcn et du Pnns appréciée au vu des fiches techniques demandées</CRITERE>
+            </CRITERES_QUALITE>
+            <CRITERES_PRIX>
+              <POIDS>40</POIDS>
+            </CRITERES_PRIX>
+          </CRITERES_ATTRIBUTION>
+          <OPTIONS_NON/>
+          <FONDS_COMMUNAUTAIRES_NON/>
+        </LOT>
+      </LOTS>
+    </OBJET>
+    <PROCEDURE>
+      <TYPE_PROCEDURE>
+        <OUVERT/>
+      </TYPE_PROCEDURE>
+      <ENCHERE_ELECTRONIQUE_NON/>
+      <AMP_OUI/>
+      <CRITERES_ATTRIBUTION>
+        <CRITERES_PRIX/>
+      </CRITERES_ATTRIBUTION>
+    </PROCEDURE>
+    <PUBLICATION_ANTERIEURE>
+      <OUI/>
+      <REFERENCE_PUBLICATION>
+        <PUBLICATION_JOUE>
+          <ANNEE>2016</ANNEE>
+          <NUM_PARUTION>140</NUM_PARUTION>
+          <NUM_ANNONCE>252708</NUM_ANNONCE>
+        </PUBLICATION_JOUE>
+      </REFERENCE_PUBLICATION>
+    </PUBLICATION_ANTERIEURE>
+    <ATTRIBUTION>
+      <ATTRIBUE_PAR_LOTS_MARCHES/>
+      <DECISION>
+        <ATTRIBUE/>
+        <NUM_LOT>1</NUM_LOT>
+        <INTITULE>surgelés viande poisson légumes</INTITULE>
+        <TITULAIRE>
+          <DENOMINATION>Brake France Service</DENOMINATION>
+          <ADRESSE>1, rue Jean Baptiste Perrin cs 60706</ADRESSE>
+          <CP>34500</CP>
+          <VILLE>Béziers</VILLE>
+          <CODE_NUTS>FR813</CODE_NUTS>
+          <PME_NON/>
+        </TITULAIRE>
+        <RENSEIGNEMENT>
+          <DATE_ATTRIBUTION>2016-10-20</DATE_ATTRIBUTION>
+          <NB_OFFRE_RECU>3</NB_OFFRE_RECU>
+          <MONTANT DEVISE="EUR">130000</MONTANT>
+          <SOUSTRAITANCE_NON/>
+        </RENSEIGNEMENT>
+      </DECISION>
+      <DECISION>
+        <ATTRIBUE/>
+        <NUM_LOT>2</NUM_LOT>
+        <INTITULE>surgelés élaborés</INTITULE>
+        <TITULAIRE>
+          <DENOMINATION>Brake France Service</DENOMINATION>
+          <ADRESSE>1, rue Jean Baptiste Perrin cs 60706</ADRESSE>
+          <CP>34500</CP>
+          <VILLE>Béziers</VILLE>
+          <CODE_NUTS>FR813</CODE_NUTS>
+          <PME_NON/>
+        </TITULAIRE>
+        <RENSEIGNEMENT>
+          <DATE_ATTRIBUTION>2016-10-20</DATE_ATTRIBUTION>
+          <NB_OFFRE_RECU>4</NB_OFFRE_RECU>
+          <MONTANT DEVISE="EUR">60000</MONTANT>
+          <SOUSTRAITANCE_NON/>
+        </RENSEIGNEMENT>
+      </DECISION>
+      <DECISION>
+        <ATTRIBUE/>
+        <NUM_LOT>3</NUM_LOT>
+        <INTITULE>pâtisseries surgelées</INTITULE>
+        <TITULAIRE>
+          <DENOMINATION>Brake France Service</DENOMINATION>
+          <ADRESSE>1, rue Jean Baptiste Perrin cs 60706</ADRESSE>
+          <CP>34500</CP>
+          <VILLE>Béziers</VILLE>
+          <CODE_NUTS>FR813</CODE_NUTS>
+          <PME_NON/>
+        </TITULAIRE>
+        <RENSEIGNEMENT>
+          <DATE_ATTRIBUTION>2016-10-20</DATE_ATTRIBUTION>
+          <NB_OFFRE_RECU>4</NB_OFFRE_RECU>
+          <MONTANT DEVISE="EUR">15000</MONTANT>
+          <SOUSTRAITANCE_NON/>
+        </RENSEIGNEMENT>
+      </DECISION>
+      <DECISION>
+        <ATTRIBUE/>
+        <NUM_LOT>4</NUM_LOT>
+        <INTITULE>viande fraîche volaille et lapin</INTITULE>
+        <TITULAIRE>
+          <DENOMINATION>Société de Distribution Avicole Sda</DENOMINATION>
+          <ADRESSE>Zi de l hermitage</ADRESSE>
+          <CP>44154</CP>
+          <VILLE>Ancenis Cedex</VILLE>
+          <CODE_NUTS>FR511</CODE_NUTS>
+          <PME_OUI/>
+        </TITULAIRE>
+        <RENSEIGNEMENT>
+          <DATE_ATTRIBUTION>2016-10-20</DATE_ATTRIBUTION>
+          <NB_OFFRE_RECU>5</NB_OFFRE_RECU>
+          <MONTANT DEVISE="EUR">45000</MONTANT>
+          <SOUSTRAITANCE_NON/>
+        </RENSEIGNEMENT>
+      </DECISION>
+      <DECISION>
+        <ATTRIBUE/>
+        <NUM_LOT>5</NUM_LOT>
+        <INTITULE>viande fraîche porc boeuf veau agneau</INTITULE>
+        <TITULAIRE>
+          <DENOMINATION>Générale Frigorifique Distribution Lerda</DENOMINATION>
+          <ADRESSE>R. N. 7</ADRESSE>
+          <CP>83490</CP>
+          <VILLE>Le Muy</VILLE>
+          <CODE_NUTS>FR825</CODE_NUTS>
+          <PME_OUI/>
+        </TITULAIRE>
+        <RENSEIGNEMENT>
+          <DATE_ATTRIBUTION>2016-10-20</DATE_ATTRIBUTION>
+          <NB_OFFRE_RECU>2</NB_OFFRE_RECU>
+          <MONTANT DEVISE="EUR">65000</MONTANT>
+          <SOUSTRAITANCE_NON/>
+        </RENSEIGNEMENT>
+      </DECISION>
+      <DECISION>
+        <ATTRIBUE/>
+        <NUM_LOT>6</NUM_LOT>
+        <INTITULE>charcuterie et rôti cuit (autres que surgelés ou en conserve appertisée)</INTITULE>
+        <TITULAIRE>
+          <DENOMINATION>Brake France Service</DENOMINATION>
+          <ADRESSE>1, rue Jean Baptiste Perrin cs 60706</ADRESSE>
+          <CP>34500</CP>
+          <VILLE>Béziers</VILLE>
+          <CODE_NUTS>FR813</CODE_NUTS>
+          <PME_NON/>
+        </TITULAIRE>
+        <RENSEIGNEMENT>
+          <DATE_ATTRIBUTION>2016-10-20</DATE_ATTRIBUTION>
+          <NB_OFFRE_RECU>3</NB_OFFRE_RECU>
+          <MONTANT DEVISE="EUR">40000</MONTANT>
+          <SOUSTRAITANCE_NON/>
+        </RENSEIGNEMENT>
+      </DECISION>
+      <DECISION>
+        <ATTRIBUE/>
+        <NUM_LOT>7</NUM_LOT>
+        <INTITULE>produits de la mer ou d'eau douce (autres que surgelés ou en conserve appertisée)</INTITULE>
+        <TITULAIRE>
+          <DENOMINATION>Davigel</DENOMINATION>
+          <ADRESSE>bp 41 zone industrielle</ADRESSE>
+          <CP>76200</CP>
+          <VILLE>Dieppe</VILLE>
+          <CODE_NUTS>FR232</CODE_NUTS>
+          <PME_NON/>
+        </TITULAIRE>
+        <RENSEIGNEMENT>
+          <DATE_ATTRIBUTION>2016-10-20</DATE_ATTRIBUTION>
+          <NB_OFFRE_RECU>6</NB_OFFRE_RECU>
+          <MONTANT DEVISE="EUR">10000</MONTANT>
+          <SOUSTRAITANCE_NON/>
+        </RENSEIGNEMENT>
+      </DECISION>
+      <DECISION>
+        <ATTRIBUE/>
+        <NUM_LOT>8</NUM_LOT>
+        <INTITULE>fruits et légumes crus et préparés 4e et 5e gamme (préparés et réfrigérés)</INTITULE>
+        <TITULAIRE>
+          <DENOMINATION>Terreazur Pomona</DENOMINATION>
+          <ADRESSE>Bp 90532</ADRESSE>
+          <CP>83041</CP>
+          <VILLE>Toulon</VILLE>
+          <CODE_NUTS>FR825</CODE_NUTS>
+          <PME_OUI/>
+        </TITULAIRE>
+        <RENSEIGNEMENT>
+          <DATE_ATTRIBUTION>2016-10-20</DATE_ATTRIBUTION>
+          <NB_OFFRE_RECU>1</NB_OFFRE_RECU>
+          <MONTANT DEVISE="EUR">30000</MONTANT>
+          <SOUSTRAITANCE_NON/>
+        </RENSEIGNEMENT>
+      </DECISION>
+      <DECISION>
+        <INFRUCTUEUX/>
+        <NUM_LOT>9</NUM_LOT>
+        <INTITULE>boissons</INTITULE>
+      </DECISION>
+      <DECISION>
+        <ATTRIBUE/>
+        <NUM_LOT>10</NUM_LOT>
+        <INTITULE>produits laitiers et avicoles (autres que surgelés)</INTITULE>
+        <TITULAIRE>
+          <DENOMINATION>Brake France Service</DENOMINATION>
+          <ADRESSE>1, rue Jean Baptiste Perrin cs 60706</ADRESSE>
+          <CP>34500</CP>
+          <VILLE>Béziers</VILLE>
+          <CODE_NUTS>FR813</CODE_NUTS>
+          <PME_NON/>
+        </TITULAIRE>
+        <RENSEIGNEMENT>
+          <DATE_ATTRIBUTION>2016-10-20</DATE_ATTRIBUTION>
+          <NB_OFFRE_RECU>5</NB_OFFRE_RECU>
+          <MONTANT DEVISE="EUR">150000</MONTANT>
+          <SOUSTRAITANCE_NON/>
+        </RENSEIGNEMENT>
+      </DECISION>
+      <DECISION>
+        <ATTRIBUE/>
+        <NUM_LOT>11</NUM_LOT>
+        <INTITULE>épicerie : fonds</INTITULE>
+        <TITULAIRE>
+          <DENOMINATION>Nectarys Sarl</DENOMINATION>
+          <ADRESSE>Parc d'activité ed Lanserre</ADRESSE>
+          <CP>49610</CP>
+          <VILLE>Juine Sur Loire</VILLE>
+          <CODE_NUTS>FR512</CODE_NUTS>
+          <PME_OUI/>
+        </TITULAIRE>
+        <RENSEIGNEMENT>
+          <DATE_ATTRIBUTION>2016-10-20</DATE_ATTRIBUTION>
+          <NB_OFFRE_RECU>4</NB_OFFRE_RECU>
+          <MONTANT DEVISE="EUR">13000</MONTANT>
+          <SOUSTRAITANCE_NON/>
+        </RENSEIGNEMENT>
+      </DECISION>
+      <DECISION>
+        <ATTRIBUE/>
+        <NUM_LOT>12</NUM_LOT>
+        <INTITULE>épicerie</INTITULE>
+        <TITULAIRE>
+          <DENOMINATION>Felix Potin Provence</DENOMINATION>
+          <ADRESSE>Zone Artisanale Nicopolis</ADRESSE>
+          <CP>83170</CP>
+          <VILLE>Brignoles</VILLE>
+          <CODE_NUTS>FR825</CODE_NUTS>
+          <PME_OUI/>
+        </TITULAIRE>
+        <RENSEIGNEMENT>
+          <DATE_ATTRIBUTION>2016-10-20</DATE_ATTRIBUTION>
+          <NB_OFFRE_RECU>1</NB_OFFRE_RECU>
+          <MONTANT DEVISE="EUR">65000</MONTANT>
+          <SOUSTRAITANCE_NON/>
+        </RENSEIGNEMENT>
+      </DECISION>
+      <DECISION>
+        <INFRUCTUEUX/>
+        <NUM_LOT>13</NUM_LOT>
+        <INTITULE>épicerie - compotes, fruits au sirop, biscuits, desserts</INTITULE>
+      </DECISION>
+      <DECISION>
+        <ATTRIBUE/>
+        <NUM_LOT>14</NUM_LOT>
+        <INTITULE>épicerie - petits déjeuners</INTITULE>
+        <TITULAIRE>
+          <DENOMINATION>Pro A Pro Distribution Sud</DENOMINATION>
+          <ADRESSE>Z.A Clésud - Rue du Comte de la Pérouse - Bp 49</ADRESSE>
+          <CP>13140</CP>
+          <VILLE>Miramas</VILLE>
+          <CODE_NUTS>FR824</CODE_NUTS>
+          <PME_NON/>
+        </TITULAIRE>
+        <RENSEIGNEMENT>
+          <DATE_ATTRIBUTION>2016-10-20</DATE_ATTRIBUTION>
+          <NB_OFFRE_RECU>3</NB_OFFRE_RECU>
+          <MONTANT DEVISE="EUR">40000</MONTANT>
+          <SOUSTRAITANCE_NON/>
+        </RENSEIGNEMENT>
+      </DECISION>
+      <DECISION>
+        <ATTRIBUE/>
+        <NUM_LOT>15</NUM_LOT>
+        <INTITULE>produits laitiers bio</INTITULE>
+        <TITULAIRE>
+          <DENOMINATION>Passion Froid Groupe Pomona</DENOMINATION>
+          <ADRESSE>Rue de la Famille Laurens</ADRESSE>
+          <CP>13791</CP>
+          <VILLE>Aix En Provence cedex 3</VILLE>
+          <CODE_NUTS>FR824</CODE_NUTS>
+          <PME_NON/>
+        </TITULAIRE>
+        <RENSEIGNEMENT>
+          <DATE_ATTRIBUTION>2016-10-20</DATE_ATTRIBUTION>
+          <NB_OFFRE_RECU>2</NB_OFFRE_RECU>
+          <MONTANT DEVISE="EUR">4500</MONTANT>
+          <SOUSTRAITANCE_NON/>
+        </RENSEIGNEMENT>
+      </DECISION>
+      <DECISION>
+        <ATTRIBUE/>
+        <NUM_LOT>16</NUM_LOT>
+        <INTITULE>eau gélifiée lyophilisée</INTITULE>
+        <TITULAIRE>
+          <DENOMINATION>Nectarys Sarl</DENOMINATION>
+          <ADRESSE>Parc d'activité ed Lanserre</ADRESSE>
+          <CP>49610</CP>
+          <VILLE>Juigne Sur Loire</VILLE>
+          <CODE_NUTS>FR512</CODE_NUTS>
+          <PME_OUI/>
+        </TITULAIRE>
+        <RENSEIGNEMENT>
+          <DATE_ATTRIBUTION>2016-10-20</DATE_ATTRIBUTION>
+          <NB_OFFRE_RECU>4</NB_OFFRE_RECU>
+          <MONTANT DEVISE="EUR">3000</MONTANT>
+          <SOUSTRAITANCE_NON/>
+        </RENSEIGNEMENT>
+      </DECISION>
+      <DECISION>
+        <ATTRIBUE/>
+        <NUM_LOT>17</NUM_LOT>
+        <INTITULE>entrées et plats mixés en frais</INTITULE>
+        <TITULAIRE>
+          <DENOMINATION>les-repas-sante</DENOMINATION>
+          <ADRESSE>rue Y.B Burgalat -</ADRESSE>
+          <CP>21200</CP>
+          <VILLE>Beaune</VILLE>
+          <CODE_NUTS>FR261</CODE_NUTS>
+          <PME_OUI/>
+        </TITULAIRE>
+        <RENSEIGNEMENT>
+          <DATE_ATTRIBUTION>2016-10-20</DATE_ATTRIBUTION>
+          <NB_OFFRE_RECU>1</NB_OFFRE_RECU>
+          <MONTANT DEVISE="EUR">20000</MONTANT>
+          <SOUSTRAITANCE_NON/>
+        </RENSEIGNEMENT>
+      </DECISION>
+      <DECISION>
+        <ATTRIBUE/>
+        <NUM_LOT>18</NUM_LOT>
+        <INTITULE>nutriments pour supplémentation orale</INTITULE>
+        <TITULAIRE>
+          <DENOMINATION>les-repas-sante</DENOMINATION>
+          <ADRESSE>rue Y.B Burgalat -</ADRESSE>
+          <CP>21200</CP>
+          <VILLE>Beaune</VILLE>
+          <CODE_NUTS>FR261</CODE_NUTS>
+          <PME_OUI/>
+        </TITULAIRE>
+        <RENSEIGNEMENT>
+          <DATE_ATTRIBUTION>2016-10-20</DATE_ATTRIBUTION>
+          <NB_OFFRE_RECU>2</NB_OFFRE_RECU>
+          <MONTANT DEVISE="EUR">6500</MONTANT>
+          <SOUSTRAITANCE_NON/>
+        </RENSEIGNEMENT>
+      </DECISION>
+      <DECISION>
+        <INFRUCTUEUX/>
+        <NUM_LOT>19</NUM_LOT>
+        <INTITULE>viande et volaille bio (frais)</INTITULE>
+      </DECISION>
+      <DECISION>
+        <ATTRIBUE/>
+        <NUM_LOT>20</NUM_LOT>
+        <INTITULE>pains et viennoiseries</INTITULE>
+        <TITULAIRE>
+          <DENOMINATION>Paindor Toulon Sas</DENOMINATION>
+          <ADRESSE>230 avenue Jean Monnet</ADRESSE>
+          <CP>83190</CP>
+          <VILLE>Ollioules</VILLE>
+          <CODE_NUTS>FR825</CODE_NUTS>
+          <PME_OUI/>
+        </TITULAIRE>
+        <RENSEIGNEMENT>
+          <DATE_ATTRIBUTION>2016-10-20</DATE_ATTRIBUTION>
+          <NB_OFFRE_RECU>2</NB_OFFRE_RECU>
+          <MONTANT DEVISE="EUR">90000</MONTANT>
+          <SOUSTRAITANCE_NON/>
+        </RENSEIGNEMENT>
+      </DECISION>
+      <DECISION>
+        <ATTRIBUE/>
+        <NUM_LOT>21</NUM_LOT>
+        <INTITULE>pâtisserie fraîche sucrée ou salée</INTITULE>
+        <TITULAIRE>
+          <DENOMINATION>Sarl Boulangerie-Patisserie Lapierre</DENOMINATION>
+          <ADRESSE>1 Place Jean Mace</ADRESSE>
+          <CP>83200</CP>
+          <VILLE>Toulon</VILLE>
+          <CODE_NUTS>FR825</CODE_NUTS>
+          <PME_OUI/>
+        </TITULAIRE>
+        <RENSEIGNEMENT>
+          <DATE_ATTRIBUTION>2016-10-20</DATE_ATTRIBUTION>
+          <NB_OFFRE_RECU>1</NB_OFFRE_RECU>
+          <MONTANT DEVISE="EUR">4500</MONTANT>
+          <SOUSTRAITANCE_NON/>
+        </RENSEIGNEMENT>
+      </DECISION>
+    </ATTRIBUTION>
+    <CONDITION_ADMINISTRATIVE>
+      <ENVOI_ELECTRONIQUE_AVEC_OUTIL_NON/>
+    </CONDITION_ADMINISTRATIVE>
+    <RENSEIGNEMENTS_COMPLEMENTAIRES>
+      <RENS_COMPLEMENT>Le dossier est consultable selon les modalités de l'arrêt Société Tropic Travaux Signalisation (Ce Ass 16/07/2007 no 29545) et de l'arrêt Tarn et Garonne (Ce Ass 4/4/2014 no358994), après rendez-vous pris par écrit, auprès du service des marchés uniquement, et sous réserve que cette consultation s'effectue dans le respect de l'article 104 du décret 2016-360 du 25 mars 2016 relatif aux marchés publics.Les marchés ont été signés le : 12/12/2016, et notifié le :- Lots 1, 2, 3, 6, 10 : 21/12/2016- Lot 4 :22/12/2016- Lot 5 : 21/12/2016- Lot 7 : 22/12/2016- Lot 8 : 21/12/2016- Lots 11 et 16 : 22/12/2016- Lot 12 : 21/12/2016- Lot 14 : 21/12/2016- Lot 15 : 21/12/2016- Lots 17 et 18 : 22/12/2016- Lot 20 : 21/12/2016- Lot 21 : 21/12/2016.Références des autres publications : Boamp ou autres. Date d'envoi du présent avis au JOUE et au BOAMP : 6 janvier 2017.</RENS_COMPLEMENT>
+      <ADRESSES_COMPLEMENTAIRES>
+        <ADRESSE>
+          <TYPE>
+            <INSTANCE_RECOURS/>
+          </TYPE>
+          <DENOMINATION>Tribunal administratif de Toulon</DENOMINATION>
+          <ADRESSE>5 rue Racine</ADRESSE>
+          <CP>83041</CP>
+          <VILLE>Toulon</VILLE>
+          <TEL>(+33) 4-94-42-79-30</TEL>
+          <FAX>(+33) 4-94-42-79-89</FAX>
+          <MEL>greffe.ta-toulon@juradm.fr</MEL>
+          <URL>http://toulon.tribunal-administratif.fr/</URL>
+        </ADRESSE>
+        <ADRESSE>
+          <TYPE>
+            <ORGANE_MEDIATION/>
+          </TYPE>
+          <DENOMINATION>Comité Consultatif Interrégional de règlement amiable des différends ou litiges relatifs aux marchés publics de Marseille, secrétariat général pour les Affaires régionales, Cciral : Préfecture de la région Provence - Alpes - Côte d'Azur</DENOMINATION>
+          <ADRESSE>Place Félix-Baret, Cs 80001</ADRESSE>
+          <CP>13282</CP>
+          <VILLE>Marseille</VILLE>
+          <TEL>(+33) 4-84-35-45-54</TEL>
+          <FAX>(+33) 4-84-35-44-60</FAX>
+          <MEL>catherine.pietri@paca.pref.gouv.fr</MEL>
+          <URL>http://www.economie.gouv.fr/daj/reglement-amiable-des-litiges</URL>
+        </ADRESSE>
+      </ADRESSES_COMPLEMENTAIRES>
+    </RENSEIGNEMENTS_COMPLEMENTAIRES>
+    <ANNEXE_D1/>
+  </DONNEES>
+</ANNONCE>

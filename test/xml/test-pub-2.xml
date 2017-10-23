@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNONCE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd">
+  <GESTION>
+    <REFERENCE>
+      <IDWEB>16-181902</IDWEB>
+      <TYPE_AVIS>
+        <FAMILLE>
+          <JOUE/>
+        </FAMILLE>
+        <PERIMETRE>
+          <DIRECTIVE-25/>
+        </PERIMETRE>
+        <NATURE>
+          <APPEL_OFFRE>
+            <STANDARD/>
+          </APPEL_OFFRE>
+        </NATURE>
+        <STATUT>
+          <INITIAL/>
+        </STATUT>
+      </TYPE_AVIS>
+    </REFERENCE>
+    <NOM_HTML>16-181902.html</NOM_HTML>
+    <INDEXATION>
+      <DATE_PUBLICATION>2017-01-01</DATE_PUBLICATION>
+      <DATE_FIN_DIFFUSION>2017-01-30</DATE_FIN_DIFFUSION>
+      <DESCRIPTEURS>
+        <DESCRIPTEUR>
+          <CODE>118</CODE>
+          <LIBELLE>Etude</LIBELLE>
+        </DESCRIPTEUR>
+        <DESCRIPTEUR>
+          <CODE>197</CODE>
+          <LIBELLE>Maîtrise d'oeuvre</LIBELLE>
+        </DESCRIPTEUR>
+      </DESCRIPTEURS>
+      <DEP_PUBLICATION>13</DEP_PUBLICATION>
+      <RESUME_OBJET>mission de maîtrise d'oeuvre pour la conception d'un ouvrage d'art - complexe international Cap Janet.</RESUME_OBJET>
+    </INDEXATION>
+  </GESTION>
+  <DONNEES>
+    <IDENTITE>
+      <DENOMINATION>Grand Port Maritime de Marseille</DENOMINATION>
+      <CONTACT>à l'attention de Mme la Directrice Générale du Grand Port Maritime de Marseille</CONTACT>
+      <ADJUDICATEUR_NUTS>FR824</ADJUDICATEUR_NUTS>
+      <ADRESSE>23, place de la JolietteCS 81965</ADRESSE>
+      <CP>13226</CP>
+      <VILLE>MARSEILLE Cedex 02</VILLE>
+      <TEL>(+33) 4-91-39-49-33</TEL>
+      <FAX>(+33) 4-91-39-40-33</FAX>
+      <MEL>marches-gmm@marseille-port.fr</MEL>
+      <URL>http://www.marseille-port.fr</URL>
+      <URL_PROFIL_ACHETEUR>http://www.marseille-publics.gouv.fr</URL_PROFIL_ACHETEUR>
+      <URL_DOCUMENT>http://www.marches-publics.gouv.fr</URL_DOCUMENT>
+      <AGIT_POUR_AUTRE_COMPTE_NON/>
+      <ORGANISME_ACHETEUR_CENTRAL_NON/>
+    </IDENTITE>
+    <ACTIVITE_PRINCIPALE>
+      <ENTITE_ADJUDICATRICE>
+        <AUTRE>activites portuaires</AUTRE>
+      </ENTITE_ADJUDICATRICE>
+    </ACTIVITE_PRINCIPALE>
+    <OBJET>
+      <TITRE_MARCHE>Mission de maîtrise d'oeuvre pour la conception d'un ouvrage d'art - Port de Marseille - complexe international Cap Janet</TITRE_MARCHE>
+      <REF_MARCHE>201611004</REF_MARCHE>
+      <TYPE_MARCHE>
+        <SERVICE/>
+      </TYPE_MARCHE>
+      <OBJET_COMPLET>La présente mission de maîtrise d'oeuvre prévoit la poursuite des études de conception déjà entamées par le découpage suivant et la réalisation :En tranche ferme du dossier PRO et du DCE de l'ouvrage de franchissement en même temps que l'intégration des études géotechniques confiées à un autre prestataire. -	en tranches optionnelles de la mission ACT (TO1) et du visa (TO2) en DET, toujours avec la nécessité de gestion de linterface avec le prestataire géotechnique.Le coût prévisionnel des travaux est fixé à 1 000 000,00 Euros H.T. pour la solution hors étude des voies sous ouvrages et à 1 200 000,00 Euros H.T. pour la solution avec étude des voies sous ouvrages.</OBJET_COMPLET>
+      <CPV>
+        <PRINCIPAL>71240000</PRINCIPAL>
+      </CPV>
+      <DIV_EN_LOTS>
+        <NON/>
+      </DIV_EN_LOTS>
+      <LOTS>
+        <LOT>
+          <DESCRIPTION>Le marché de maîtrise d'oeuvre est décomposé en une tranche ferme et 2 tranches optionnelles (avec intégration des études géotechniques confiées à un autre prestataire). La conception portera notamment sur les parties suivantes de louvrage de franchissement : Murs en terre armée (et ses fondations). équipements de chaussée (bordures, signalisation horizontale et verticale, dispositifs de retenu, joint de chaussée, étanchéité etc). La chaussée et larase supérieure des terrassements. Louvrage de franchissement (culées et murs associés, tablier, appuis de pont, etc.) et les " structures " de transition. La problématique du renforcement des sols dassise des rampes ne fait pas partie de la mission. De la même manière, les fondations profondes sur lesquelles seront assises les culées seront principalement traitées par le prestataire géotechnique même si elles doivent rester sous le contrôle du prestataire du présent marché. </DESCRIPTION>
+          <CPV>
+            <PRINCIPAL>71240000</PRINCIPAL>
+          </CPV>
+          <CPV>
+            <PRINCIPAL>79311000</PRINCIPAL>
+          </CPV>
+          <CPV>
+            <PRINCIPAL>71335000</PRINCIPAL>
+          </CPV>
+          <CODE_NUTS>FR824</CODE_NUTS>
+          <LIEU_PRINCIPAL>Bassins est du GPMM</LIEU_PRINCIPAL>
+          <CRITERES_ATTRIBUTION>
+            <CRITERES_QUALITE>
+              <CRITERE POIDS="50">Valeur technique appréciée suivant le mémoire technique</CRITERE>
+            </CRITERES_QUALITE>
+            <CRITERES_PRIX>
+              <POIDS>50</POIDS>
+            </CRITERES_PRIX>
+          </CRITERES_ATTRIBUTION>
+          <VALEUR DEVISE="EUR">50000</VALEUR>
+          <DUREE_MOIS>24</DUREE_MOIS>
+          <RENOUVELLEMENT_NON/>
+          <VARIANTES_OUI/>
+          <OPTIONS_OUI/>
+          <OPTIONS_DESCRIPTION>- Tranche ferme : PRO/DCE - Tranche optionnelle 1 : ACT - Tranche optionnelle 2 : VISA.- Chacune des 3 tranches peut être dotée dune PSE concernant létude des voies sous ouvrages. La pse concerne létude du tracé en long et en travers des voies dembarquement, ainsi que de leur structure, en fonction notamment des notes de sol quaura fourni le prestataire géotechnique. </OPTIONS_DESCRIPTION>
+          <CATALOGUE_ELECTRONIQUE_NON/>
+          <FONDS_COMMUNAUTAIRES_NON/>
+        </LOT>
+      </LOTS>
+    </OBJET>
+    <PROCEDURE>
+      <TYPE_PROCEDURE>
+        <OUVERT/>
+      </TYPE_PROCEDURE>
+      <NB_CANDIDATS>
+        <REDUCTION_PROGRESSIVE_NON/>
+      </NB_CANDIDATS>
+      <AVIS_IMPLIQUE>
+        <ACCORD_CADRE_NON/>
+        <SAD_NON/>
+        <SAD_AUTRES_ACHETEURS_NON/>
+      </AVIS_IMPLIQUE>
+      <ACCORD_CADRE>
+        <UN_SEUL_OPERATEUR/>
+      </ACCORD_CADRE>
+      <ENCHERE_ELECTRONIQUE_NON/>
+      <AMP_OUI/>
+      <MARCHE_PERIODIQUE_NON/>
+    </PROCEDURE>
+    <CONDITION_DELAI>
+      <RECEPT_OFFRES>2017-01-30T16:00:00+01:00</RECEPT_OFFRES>
+      <VALIDITE_OFFRE>
+        <DUREE_MOIS>4</DUREE_MOIS>
+      </VALIDITE_OFFRE>
+    </CONDITION_DELAI>
+    <CONDITION_RELATIVE_MARCHE>
+      <FORME_JURIDIQUE>En cas de groupement, la forme souhaitée par lentité adjudicatrice est un groupement conjoint avec mandataire solidaire. Si le groupement attributaire du marché est dune forme différente, il pourra se voir contraint dassurer sa transformation pour se conformer au souhait de lentité adjudicatrice tel quil est indiqué ci-dessus.Il est interdit aux candidats de présenter plusieurs offres en agissant à la fois :- En qualité de candidats individuels et de membres dun ou plusieurs groupements ; - En qualité de membres de plusieurs groupements.</FORME_JURIDIQUE>
+      <PARTICIPATION_ELECTRONIQUE_NON/>
+      <LANGUES>
+        <LANGUE>fr</LANGUE>
+      </LANGUES>
+    </CONDITION_RELATIVE_MARCHE>
+    <CONDITION_PARTICIPATION>
+      <SITUATION_JURIDIQUE>- Le formulaire DC 1; - Le formulaire DC 2; - Les pouvoirs du signataire à engager le candidat ou le groupement.- Déclaration sur lhonneur pour justifier que le candidat nentre dans aucun des cas des interdictions de soumissionner, et notamment quil est en règle au regard des articles L. 5212-1 à L. 5212-11 du code du travail concernant lemploi des travailleurs handicapés</SITUATION_JURIDIQUE>
+      <CAP_ECO_MARCHE_NON/>
+      <CAP_ECO>- Déclaration appropriée de banques ou, le cas échéant, preuve dune assurance pour les risques professionnels ;- Déclaration concernant le chiffre daffaires global et, le cas échéant, le chiffre daffaires concernant les services objet du contrat, portant au maximum sur les trois derniers exercices disponibles en fonction de la date de création de lentreprise ou du début dactivité de lopérateur économique, dans la mesure où les informations sur ces chiffres daffaires sont disponibles</CAP_ECO>
+      <CAP_TECH_OFFRE_NON/>
+      <CAP_TECH>- Déclaration indiquant les effectifs moyens annuels du candidat et limportance du personnel dencadrement pour chacune des trois dernières années ;- Liste des principaux services effectués au cours des trois dernières années, indiquant le montant, la date et le destinataire public ou privé. Les prestations de services sont prouvées par des attestations du destinataire ou, à défaut, par une déclaration de lopérateur économique ;- Indication des titres détudes et professionnels de lopérateur économique et/ou des cadres de lentreprise, et notamment des responsables de prestation de services ou de conduite des travaux de même nature que celle du contrat ;- Description de léquipement technique, des mesures employées par lopérateur économique pour sassurer de la qualité et des moyens détude et de recherche de son entreprise</CAP_TECH>
+      <MARCHE_RESERVE_NON/>
+      <PRESTATION_RESERVEE_NON/>
+      <INDICATION_OBLIGATOIRE_NOM_QUALIFICATIONS_NON/>
+      <ELIGIBLE_MPS>
+        <non/>
+      </ELIGIBLE_MPS>
+    </CONDITION_PARTICIPATION>
+    <CONDITION_ADMINISTRATIVE>
+      <PERS_OUVERTURE_OFFRES_OUI>La date et l'heure indiquées au IV.2.7 sont données à titre indicatif. La séance d'ouverture des plis n'est pas publique.</PERS_OUVERTURE_OFFRES_OUI>
+      <DATE_OUVERTURE_OFFRES>2017-01-31</DATE_OUVERTURE_OFFRES>
+      <ENVOI_ELECTRONIQUE_AVEC_OUTIL_NON/>
+    </CONDITION_ADMINISTRATIVE>
+    <RENSEIGNEMENTS_COMPLEMENTAIRES>
+      <COMMANDE_ELECTRONIQUE_NON/>
+      <FACTURATION_ELECTRONIQUE_NON/>
+      <PAIEMENT_ELECTRONIQUE_NON/>
+      <RENS_COMPLEMENT>IMPORTANT : Lentité adjudicatrice précise que le candidat ayant été désigné titulaire du présent marché ne pourra réaliser les études de prix et dexécution du marché de travaux à venir, objet de leur mission dans le cadre du présent marché. Cette interdiction porte uniquement dans le cas de laffermissement des tranches optionnelles et elle est justifiée par lobjet du marché. Elle sera appliquée aux sous-traitants envisagés au stade de la remise de loffre et à ceux proposés en cours dexécution de la prestation. - la mission de maîtrise d'uvre est établie conformément à : - la loi nº 85-704 du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'uvre privée ; - le décret nº 93-1268 du 29 novembre 1993 relatif aux missions de maîtrise d'uvre confiées par des maîtres d'ouvrage publics à des prestataires de droit privé ; - l'arrêté du 21 décembre 1993 relatif aux modalités techniques d'exécution des éléments de mission de maîtrise d'uvre confiés par des maîtres d'ouvrages publics à des prestataires de droit privé.- lordonnance no2004-566 du 17 juin 2004 portant modification de la loi no 85-704 du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'uvre privée. - critères de sélection des candidats : capacités techniques et professionnelles.Pour justifier des capacités professionnelles, techniques et financières dautres opérateurs économiques sur lesquels il sappuie pour présenter sa candidature, le candidat produit les mêmes documents concernant cet opérateur économique que ceux qui lui sont exigés par lentité adjudicatrice. En outre, pour justifier quil dispose des capacités de cet opérateur économique pour lexécution des prestations, le candidat produit un engagement écrit de lopérateur économique.- les candidatures seront entièrement rédigées en langue française. Si elles sont rédigées dans une autre langue, elles doivent être accompagnées dune traduction en français; cette traduction doit concerner lensemble des documents remis dans loffre.- avant de procéder à lexamen des candidatures, si lon constate que des pièces visées ci-dessus sont manquantes ou incomplètes, lentité adjudicatrice peut décider de demander à tous les candidats concernés de produire ou compléter ces pièces dans un délai de 10 jours.- conditions de remise des offres: les plis peuvent être déposés par voie électronique à l'adresse suivante :http://www.marches-publics.gouv.fr ou être envoyés par courrier recommandé avec avis de réception à l'adresse suivante : Grand Port Maritime de Marseille Activité marchés publics Cs 81965 13226 Marseille Cedex 02 ou déposés en main propre contre récépissé à l'adresse suivante : Grand Port Maritime de Marseille Activité marchés publics 23 place de la joliette - bat b rdc 13002 Marseille Du lundi au vendredi de 9 heures à 12 heures et de 14 heures à 17 heures. Le pli devra porter la mention : offre pour l'affaire 201611004, objet du marché...- le service d'assistance technique du profil d'acheteur est joignable par téléphone au 01.76.64.74.07. Les frais d'accès au réseau et de recours à la signature électronique sont à la charge de chaque candidat.. Date d'envoi du présent avis au JOUE et au BOAMP : 30 décembre 2016.</RENS_COMPLEMENT>
+      <PROCEDURES_RECOURS_PRECISIONS>Référé précontractuel prévu aux articles L.551-1 à L.551-12 du Code de justice administrative (CJA), et pouvant être exercé avant la signature du contrat, devant le Tribunal Administratif de Marseille 22-24 rue Breteuil 13281 Marseille Cedex 06</PROCEDURES_RECOURS_PRECISIONS>
+      <ADRESSES_COMPLEMENTAIRES>
+        <ADRESSE>
+          <TYPE>
+            <INSTANCE_RECOURS/>
+          </TYPE>
+          <DENOMINATION>Tribunal Administratif de Marseille</DENOMINATION>
+          <ADRESSE>22-24 rue de Breteuil</ADRESSE>
+          <CP>13006</CP>
+          <VILLE>MARSEILLE</VILLE>
+          <TEL>(+33) 4-91-13-48-13</TEL>
+          <FAX>(+33) 4-91-81-13-87</FAX>
+          <MEL>greffe.ta-greffe@juradm.fr</MEL>
+          <URL>http://www.marseille.tribunal-administratif.fr</URL>
+        </ADRESSE>
+        <ADRESSE>
+          <TYPE>
+            <RENS_RECOURS/>
+          </TYPE>
+          <DENOMINATION>Tribunal administratif de Marseille</DENOMINATION>
+          <ADRESSE>22-24 rue Breteuil</ADRESSE>
+          <CP>13006</CP>
+          <VILLE>MARSEILLE </VILLE>
+          <TEL>(+33) 4-91-13-48-13</TEL>
+          <FAX>(+33) 4-91-81-13-87</FAX>
+          <MEL>greffe.ta-greffe@juradm.fr</MEL>
+          <URL>http://www.marseille.tribunal-administratif.fr</URL>
+        </ADRESSE>
+      </ADRESSES_COMPLEMENTAIRES>
+    </RENSEIGNEMENTS_COMPLEMENTAIRES>
+  </DONNEES>
+</ANNONCE>

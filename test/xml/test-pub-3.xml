@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNONCE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd">
+  <GESTION>
+    <REFERENCE>
+      <IDWEB>16-186063</IDWEB>
+      <TYPE_AVIS>
+        <FAMILLE>
+          <JOUE/>
+        </FAMILLE>
+        <PERIMETRE>
+          <DIRECTIVE-24/>
+        </PERIMETRE>
+        <NATURE>
+          <APPEL_OFFRE>
+            <CONCOURS/>
+          </APPEL_OFFRE>
+        </NATURE>
+        <STATUT>
+          <INITIAL/>
+        </STATUT>
+      </TYPE_AVIS>
+    </REFERENCE>
+    <NOM_HTML>16-186063.html</NOM_HTML>
+    <INDEXATION>
+      <DATE_PUBLICATION>2017-01-01</DATE_PUBLICATION>
+      <DATE_FIN_DIFFUSION>2017-02-10</DATE_FIN_DIFFUSION>
+      <DESCRIPTEURS>
+        <DESCRIPTEUR>
+          <CODE>197</CODE>
+          <LIBELLE>Maîtrise d'oeuvre</LIBELLE>
+        </DESCRIPTEUR>
+      </DESCRIPTEURS>
+      <DEP_PUBLICATION>77</DEP_PUBLICATION>
+      <RESUME_OBJET>Concours de maîtrise d'oeuvre pour la construction de 63 logements sociaux dans la zac de maurepas à mitry-mory</RESUME_OBJET>
+    </INDEXATION>
+  </GESTION>
+  <DONNEES>
+    <IDENTITE>
+      <DENOMINATION>SEMMY</DENOMINATION>
+      <CONTACT>SEMMY-1 rue Maurice Thorez-77290 MITRY-MORY</CONTACT>
+      <ADJUDICATEUR_NUTS>FR102</ADJUDICATEUR_NUTS>
+      <ADRESSE>1 rue Maurice Thorez</ADRESSE>
+      <CP>77290</CP>
+      <VILLE>MITRY-MORY</VILLE>
+      <TEL>(+33) 1-64-67-19-30</TEL>
+      <FAX>(+33) 1-64-67-73-46</FAX>
+      <MEL>opération@semmy.fr</MEL>
+      <URL>http://www.semmy.fr</URL>
+      <URL_DOCUMENT>http://www.semmy.fr</URL_DOCUMENT>
+      <AGIT_POUR_AUTRE_COMPTE_NON/>
+      <ORGANISME_ACHETEUR_CENTRAL_NON/>
+    </IDENTITE>
+    <TYPE_POUVOIR_ADJUDICATEUR>
+      <AUTRE>Société d'économie mixte</AUTRE>
+    </TYPE_POUVOIR_ADJUDICATEUR>
+    <ACTIVITE_PRINCIPALE>
+      <POUVOIR_ADJUDICATEUR>
+        <LOG_DEV_COL/>
+      </POUVOIR_ADJUDICATEUR>
+    </ACTIVITE_PRINCIPALE>
+    <OBJET>
+      <TITRE_MARCHE>Concours de maîtrise d'oeuvre pour la construction de 63 logements sociaux dans la ZAC de Maurepas à Mitry-Mory</TITRE_MARCHE>
+      <CPV>
+        <PRINCIPAL>45211000</PRINCIPAL>
+      </CPV>
+      <LOTS>
+        <LOT>
+          <DESCRIPTION>Appel à candidatures pour une mission de maîtrise d'oeuvre complète au sens de la loi MOP et du décret 93-1268 du 29 novembre 1993. Cette mission sera confiée à l'équipe lauréate du concours organisé par la SEMMY.Niveau de rendu de concours prévu : "esquisse"Il est prévu la construction de trois ou quatre bâtiments (hauteur maximale R+3) dans lesquels seront réalisés les 63 logements.Le coût estimatif des travaux s'élève à  6 300 000 euro HT.La surface utile cumulée au sein des bâtiments devra s'élever à 4300 mètres carrés, en intégrant les terrasses et balcons éventuels.La surface de plancher totale prévue pour les logements est de 4350 mètres carrés.La programmation des logements est définie comme suit : -26 appartements type T2-15 appartements type T3-15 appartements type T4-5 appartements type T5-2 appartements type T6</DESCRIPTION>
+          <CPV>
+            <PRINCIPAL>45211000</PRINCIPAL>
+          </CPV>
+          <FONDS_COMMUNAUTAIRES_NON/>
+        </LOT>
+      </LOTS>
+    </OBJET>
+    <PROCEDURE>
+      <TYPE_PROCEDURE>
+        <RESTREINT/>
+      </TYPE_PROCEDURE>
+      <NB_CANDIDATS>
+        <NB_OFFRE>3</NB_OFFRE>
+      </NB_CANDIDATS>
+      <CRITERES_ATTRIBUTION>
+        <CRITERES_LIBRE>-Respect du programme-Pertinence architecturale-Economie du projet (en investissement et en entretien-maintenance)-Qualité environnementale (en investissement et en entretien-maintenance)-Proposition d'honoraires</CRITERES_LIBRE>
+      </CRITERES_ATTRIBUTION>
+      <LAUREAT_ATTRIBUTAIRE_OUI/>
+      <DECISION_JURY_CONTRAIGNANTE_NON/>
+    </PROCEDURE>
+    <CONDITION_DELAI>
+      <RECEPT_OFFRES>2017-02-10T15:00:00+01:00</RECEPT_OFFRES>
+    </CONDITION_DELAI>
+    <CONDITION_RELATIVE_MARCHE>
+      <PARTICIPATION_ELECTRONIQUE_NON/>
+      <LANGUES>
+        <LANGUE>fr</LANGUE>
+      </LANGUES>
+    </CONDITION_RELATIVE_MARCHE>
+    <CONDITION_PARTICIPATION>
+      <CRITERE_SELECTION>Les participants seront sélectionnés d'après les critères suivants:-Qualifications, moyens et compétences de l'équipe candidate nécessaires à l'opération telle qu'envisagée-Qualité des références fournies et du dossier de candidatureEléments à remettre dans le dossier de candidature:-Déclaration concernant le chiffre d'affaires global du candidat et le chiffre d'affaires relatif à la construction de logements sociaux portant sur les trois derniers exercices-Preuve d'une assurance des risques professionnels pertinents-Bilans (ou extraits de bilan) concernant les trois dernières années-Liste des principales livraisons effectuées ou des principaux services fournis au cours des trois dernières années, indiquant le montant, la date et les destinataire public ou privé. Les livraisons seront prouvées par des attestations du  destinataire.Chaque équipe soumissionnaire devra choisir trois références qu'elle mettra en avant en vue de la sélection des participants.L'adéquation des références avec l'opération sera appréciée.-Déclaration indiquant les effectifs moyens annuels du candidat et l'importance du personnel d'encadrement au cours des trois dernières années -Titres d'études et titres professionnels de chaque membre de groupement, et tout certificat de qualification professionnelle pertinent-Description du matériel et de l'équipement technique dont le candidat disposera pour la réalisation du marché publicL'ensemble des documents devra être transmis en version papier et en version numérique.La SEMMY sélectionnera des groupements disposant de compétences dans les domaines suivants : Architecture/Structure/Fluides/Réseaux/Thermique/Electricité/Acoustique/Economie de la construction/Développement durable/BIM; Le paysagisme sera considéré comme un atout supplémentaire.Chaque architecte, bureau d'études ou autre professionnel ne pourra être membre que d'un seul groupement.Le groupement sera conjoint et le mandataire de ce groupement est solidaire, pour l'exécution du marché, de chacun des membres du groupement pour ses obligations contractuelles à l'égard du pouvoir adjudicateur.Si le groupement est d'une forme différente, il se verra contraint d'assurer sa transformation pour se conformer au souhait du pouvoir adjudicateur.</CRITERE_SELECTION>
+      <MARCHE_RESERVE_NON/>
+      <PRESTATION_RESERVEE_OUI>Architecte</PRESTATION_RESERVEE_OUI>
+    </CONDITION_PARTICIPATION>
+    <CONDITION_ADMINISTRATIVE>
+      <RECOMPENSES_LAUREAT_OUI/>
+      <RECOMPENSES_LAUREAT>Prime d'un montant maximal de 30000 euro TTC à chaque groupement ayant remis des prestations écrites et graphiques conformes au réglement du concours.L'indemnité du lauréat sera considérée comme une avance sur les honoraires de maîtrise d'oeuvre.</RECOMPENSES_LAUREAT>
+      <ENVOI_ELECTRONIQUE_AVEC_OUTIL_NON/>
+    </CONDITION_ADMINISTRATIVE>
+    <RENSEIGNEMENTS_COMPLEMENTAIRES>
+      <RENS_COMPLEMENT>La construction des 63 logements se fera sur un des lots de la ZAC de Maurepas, secteur d'environ 5 hectares destiné à répondre aux besoins de logements des mitryens et à renforcer l'offre d'activités commerciales.La mission de maîtrise d'oeuvre intégrera, en plus des logements, la réalisation de 63 places de stationnement (+ un certain nombre de places visiteurs clairement prévus à cet effet), ainsi que les ouvrages de VRD et les espaces verts à l'échelle du lot.La fiche de lot relative à cette opération sera intégrée dans le dossier de concours.. Date d'envoi du présent avis au JOUE et au BOAMP : 30 décembre 2016.</RENS_COMPLEMENT>
+      <ADRESSES_COMPLEMENTAIRES>
+        <ADRESSE>
+          <TYPE>
+            <INSTANCE_RECOURS/>
+          </TYPE>
+          <DENOMINATION>SEMMY</DENOMINATION>
+          <ADRESSE>1 rue Maurice Thorez</ADRESSE>
+          <CP>77290</CP>
+          <VILLE>Mitry-Mory</VILLE>
+          <TEL>(+33) 1-64-67-19-30</TEL>
+          <FAX>(+33) 1-64-67-73-46</FAX>
+          <MEL>semmy@semmy.fr</MEL>
+          <URL>http://www.semmy.fr</URL>
+        </ADRESSE>
+      </ADRESSES_COMPLEMENTAIRES>
+    </RENSEIGNEMENTS_COMPLEMENTAIRES>
+  </DONNEES>
+</ANNONCE>

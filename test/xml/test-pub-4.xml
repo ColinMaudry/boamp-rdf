@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNONCE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd">
+  <GESTION>
+    <REFERENCE>
+      <IDWEB>16-186173</IDWEB>
+      <TYPE_AVIS>
+        <FAMILLE>
+          <JOUE/>
+        </FAMILLE>
+        <PERIMETRE>
+          <DIRECTIVE-23/>
+        </PERIMETRE>
+        <NATURE>
+          <APPEL_OFFRE>
+            <CONCESSION/>
+          </APPEL_OFFRE>
+        </NATURE>
+        <STATUT>
+          <INITIAL/>
+        </STATUT>
+      </TYPE_AVIS>
+    </REFERENCE>
+    <NOM_HTML>16-186173.html</NOM_HTML>
+    <INDEXATION>
+      <DATE_PUBLICATION>2017-01-01</DATE_PUBLICATION>
+      <DATE_FIN_DIFFUSION>2017-02-28</DATE_FIN_DIFFUSION>
+      <DESCRIPTEURS>
+        <DESCRIPTEUR>
+          <CODE>406</CODE>
+          <LIBELLE>Délégation de service public</LIBELLE>
+        </DESCRIPTEUR>
+      </DESCRIPTEURS>
+      <DEP_PUBLICATION>27</DEP_PUBLICATION>
+      <RESUME_OBJET>Ville des andelys</RESUME_OBJET>
+    </INDEXATION>
+  </GESTION>
+  <DONNEES>
+    <IDENTITE>
+      <DENOMINATION>COMMUNE DE LES ANDELYS</DENOMINATION>
+      <ADJUDICATEUR_NUTS>FR231</ADJUDICATEUR_NUTS>
+      <ADRESSE>Hôtel de Ville</ADRESSE>
+      <CP>27705</CP>
+      <VILLE>Andelys</VILLE>
+      <TEL>(+33) 2-32-54-04-16</TEL>
+      <MEL>marie-therese.beziel@ville-andelys.fr</MEL>
+      <URL>http://www.ville-andelys.fr</URL>
+      <URL_PARTICIPATION>https://www.e-marchespublics.com</URL_PARTICIPATION>
+      <URL_DOCUMENT>https://www.marchesonline.com</URL_DOCUMENT>
+      <AGIT_POUR_AUTRE_COMPTE_NON/>
+      <ORGANISME_ACHETEUR_CENTRAL_NON/>
+    </IDENTITE>
+    <TYPE_POUVOIR_ADJUDICATEUR>
+      <AUTRE>Commune</AUTRE>
+    </TYPE_POUVOIR_ADJUDICATEUR>
+    <ACTIVITE_PRINCIPALE>
+      <POUVOIR_ADJUDICATEUR>
+        <AUTRE>eau</AUTRE>
+      </POUVOIR_ADJUDICATEUR>
+    </ACTIVITE_PRINCIPALE>
+    <OBJET>
+      <TITRE_MARCHE>Ville des andelys</TITRE_MARCHE>
+      <TYPE_MARCHE>
+        <SERVICE/>
+      </TYPE_MARCHE>
+      <OBJET_COMPLET>: Volume produit : 535 878 m3, volume consommé autorisé : 303 754 m3, nombre d'installations de production : 2, capacité totale de production 1680 m3/j, nombre de réservoirs : 3 , capacité totale des réservoirs 1 900 m3, longueur de réseau 60 k m, longueur des canalisations de distribution : 45 km, nombre de branchement : 2 289, nombre de compteurs : 3266</OBJET_COMPLET>
+      <CPV>
+        <PRINCIPAL>65110000</PRINCIPAL>
+      </CPV>
+      <DIV_EN_LOTS>
+        <NON/>
+      </DIV_EN_LOTS>
+      <LOTS>
+        <LOT>
+          <DESCRIPTION>le droit exclusif pour le fermier, d'assurer auprès des usagers la gestion du service d'eau potable dans le périmètre d'affermage.la production et la distribution d'eau nécessaire à l'alimentation des abonnés de la Collectivité en conformité avec la réglementation.Obligation pour le Concessionnaire, d'assurer la surveillance, le fonctionnement, l'entretien et la réparation des canalisations et ouvrages destinés à la production et la distribution d'eau potable à l'intérieur du périmètre d'affermage. Obligation d'assurer l'entretien, les réparations et le contrôle de la conformité des branchements au réseau public, de détecter et corriger, les fuites, les anomalies des réseaux, les dysfonctionnements localisés du service délégué. obligation de maintenir une veille sur le niveau de ses performances, notamment le taux de rendement du réseau et l'indice linéaire de perte.</DESCRIPTION>
+          <CPV>
+            <PRINCIPAL>65110000</PRINCIPAL>
+          </CPV>
+          <CPV>
+            <PRINCIPAL>65100000</PRINCIPAL>
+          </CPV>
+          <CODE_NUTS>FR231</CODE_NUTS>
+          <LIEU_PRINCIPAL>Ville des andelys</LIEU_PRINCIPAL>
+          <CRITERES_ATTRIBUTION>
+            <CRITERES_CCTP/>
+          </CRITERES_ATTRIBUTION>
+          <DUREE_MOIS>120</DUREE_MOIS>
+          <FONDS_COMMUNAUTAIRES_NON/>
+          <INFO_COMPL>La concession comprend la réalisation des travaux définis par le présent contrat, la conduite des relations avec les usagers du service, le droit de percevoir sur les usagers une redevance en rémunération du service rendu. Cette gestion du service dans le périmètre d'affermage est assurée aux risques et périls du Concessionnaire</INFO_COMPL>
+        </LOT>
+      </LOTS>
+    </OBJET>
+    <PROCEDURE>
+      <MARCHE_PERIODIQUE_NON/>
+    </PROCEDURE>
+    <CONDITION_DELAI>
+      <RECEPT_OFFRES>2017-02-28T12:00:00+01:00</RECEPT_OFFRES>
+    </CONDITION_DELAI>
+    <CONDITION_RELATIVE_MARCHE>
+      <PARTICIPATION_ELECTRONIQUE_OUI/>
+      <LANGUES>
+        <LANGUE>fr</LANGUE>
+      </LANGUES>
+    </CONDITION_RELATIVE_MARCHE>
+    <CONDITION_PARTICIPATION>
+      <SITUATION_JURIDIQUE>Lettre de candidature précisant l'identité du candidat ou du mandataire du groupement signée par un représentant du candidat habilité à ce titre (utilisation DC1 possible)Justificatif de moins de trois mois de l'inscription du candidat au registre du commerce et des sociétés ou tout document équivalent (Kbis) Pouvoirs de la personne habilitée pour engager le candidat. Attestation sur l'honneur d'être en règle au regard de l'obligation d'emploi des travailleurs handicapés.Attestations sur l'honneur visées dans le DC2- (voir - (reglement de consultation)</SITUATION_JURIDIQUE>
+      <CAP_ECO_MARCHE_OUI/>
+      <CAP_TECH_OFFRE_OUI/>
+      <MARCHE_RESERVE_NON/>
+      <ELIGIBLE_MPS>
+        <non/>
+      </ELIGIBLE_MPS>
+    </CONDITION_PARTICIPATION>
+    <CONDITION_ADMINISTRATIVE>
+      <ENVOI_ELECTRONIQUE_AVEC_OUTIL_NON/>
+    </CONDITION_ADMINISTRATIVE>
+    <RENSEIGNEMENTS_COMPLEMENTAIRES>
+      <RENS_COMPLEMENT>Consultation en mode ouvert Option 1 : durée de la concession 15 ansOption 2 : TélérelèveOption 3 radio-relèveOption 4 : travaux à réaliser par le concessionnaire pour le compte de la Collectivité. Date d'envoi du présent avis au JOUE et au BOAMP : 30 décembre 2016.</RENS_COMPLEMENT>
+      <ADRESSES_COMPLEMENTAIRES>
+        <ADRESSE>
+          <TYPE>
+            <INSTANCE_RECOURS/>
+          </TYPE>
+          <DENOMINATION>Tribunal administratif de Rouen</DENOMINATION>
+          <ADRESSE>53 Avenue Gustave Flaubert</ADRESSE>
+          <CP>76000</CP>
+          <VILLE>Rouen</VILLE>
+          <TEL>(+33) 2-32-08-12-70</TEL>
+          <FAX>(+33) 2-32-08-12-71</FAX>
+        </ADRESSE>
+        <ADRESSE>
+          <TYPE>
+            <RENS_RECOURS/>
+          </TYPE>
+          <DENOMINATION>Tribunal administratif de Rouen</DENOMINATION>
+          <ADRESSE>53 Avenue Gustave Flaubert</ADRESSE>
+          <CP>76000</CP>
+          <VILLE>Rouen</VILLE>
+          <TEL>(+33) 2-32-08-12-70</TEL>
+          <FAX>(+33) 2-32-08-12-71</FAX>
+        </ADRESSE>
+      </ADRESSES_COMPLEMENTAIRES>
+    </RENSEIGNEMENTS_COMPLEMENTAIRES>
+  </DONNEES>
+</ANNONCE>

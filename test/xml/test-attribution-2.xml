@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNONCE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd">
+  <GESTION>
+    <REFERENCE>
+      <IDWEB>16-138580</IDWEB>
+      <TYPE_AVIS>
+        <FAMILLE>
+          <MAPA/>
+        </FAMILLE>
+        <PERIMETRE>
+          <CMP-2006/>
+        </PERIMETRE>
+        <NATURE>
+          <ATTRIBUTION/>
+        </NATURE>
+        <STATUT>
+          <INITIAL/>
+        </STATUT>
+      </TYPE_AVIS>
+    </REFERENCE>
+    <MARCHE>
+      <ANNONCE_ANTERIEUR>
+        <REFERENCE>
+          <IDWEB>16-119846</IDWEB>
+          <TYPE_AVIS>
+            <FAMILLE>
+              <MAPA/>
+            </FAMILLE>
+            <PERIMETRE>
+              <CMP-2006/>
+            </PERIMETRE>
+            <NATURE>
+              <APPEL_OFFRE/>
+            </NATURE>
+            <STATUT>
+              <INITIAL/>
+            </STATUT>
+          </TYPE_AVIS>
+        </REFERENCE>
+        <REFERENCE_PUBLICATION>
+          <PUBLICATION_ELECTRONIQUE>
+            <DATE_PUBLICATION>2016-08-10</DATE_PUBLICATION>
+            <DATE_FIN_DIFFUSION>2016-09-16</DATE_FIN_DIFFUSION>
+          </PUBLICATION_ELECTRONIQUE>
+        </REFERENCE_PUBLICATION>
+      </ANNONCE_ANTERIEUR>
+    </MARCHE>
+    <NOM_HTML>16-138580.html</NOM_HTML>
+    <INDEXATION>
+      <DATE_PUBLICATION>2017-02-14</DATE_PUBLICATION>
+      <DATE_FIN_DIFFUSION>2017-04-15</DATE_FIN_DIFFUSION>
+      <DESCRIPTEURS>
+        <DESCRIPTEUR>
+          <CODE>118</CODE>
+          <LIBELLE>Etude</LIBELLE>
+        </DESCRIPTEUR>
+      </DESCRIPTEURS>
+      <DEP_PUBLICATION>17</DEP_PUBLICATION>
+      <RESUME_OBJET>etude prospective à la fois technique, financière et sociale d'optimisation du service politique des déchets</RESUME_OBJET>
+    </INDEXATION>
+  </GESTION>
+  <DONNEES>
+    <IDENTITE>
+      <DENOMINATION>Communauté d'Agglomération de Saintes</DENOMINATION>
+      <CORRESPONDANT>M. le président de la Communauté d'Agglomération de Saintes Jean-Claude CLASSIQUE</CORRESPONDANT>
+      <ADRESSE>4 avenue de Tombouctou</ADRESSE>
+      <CP>17100</CP>
+      <VILLE>Saintes</VILLE>
+      <TEL>05-46-98-24-64</TEL>
+      <FAX>05-46-92-35-97</FAX>
+      <MEL>marches-publics@ville-saintes.fr</MEL>
+      <URL>http://www.agglo-saintes.fr</URL>
+      <URL_PROFIL_ACHETEUR>http://www.agglo-saintes.fr</URL_PROFIL_ACHETEUR>
+    </IDENTITE>
+    <TYPE_ORGANISME>
+      <EPT/>
+    </TYPE_ORGANISME>
+    <OBJET>
+      <TYPE_MARCHE>
+        <SERVICE/>
+      </TYPE_MARCHE>
+      <OBJET_COMPLET>Etude prospective à la fois technique, financière et sociale d'optimisation du service politique des déchets</OBJET_COMPLET>
+    </OBJET>
+    <PROCEDURE>
+      <TYPE_PROCEDURE>
+        <PROCEDURE_ADAPTE/>
+      </TYPE_PROCEDURE>
+      <CRITERES_ATTRIBUTION>
+        <CRITERES_PONDERES>
+          <CRITERE POIDS="60">valeur technique et qualitative de l'étude</CRITERE>
+          <CRITERE POIDS="30">prix</CRITERE>
+          <CRITERE POIDS="10">Expérience et références de l'équipe dédiée</CRITERE>
+        </CRITERES_PONDERES>
+      </CRITERES_ATTRIBUTION>
+    </PROCEDURE>
+    <ATTRIBUTION>
+      <ATTRIBUE_PAR_LOTS_MARCHES/>
+      <VALEUR_TOTALE DEVISE="EUR">38820</VALEUR_TOTALE>
+      <DATE_DECISION>2017-02-06</DATE_DECISION>
+      <DECISION>
+        <TITULAIRE>
+          <DENOMINATION>SARL ENVIRONNEMENT &amp; SOLUTIONS</DENOMINATION>
+          <CP>44300</CP>
+        </TITULAIRE>
+      </DECISION>
+    </ATTRIBUTION>
+  </DONNEES>
+</ANNONCE>

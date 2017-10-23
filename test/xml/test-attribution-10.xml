@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNONCE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schemas.journal-officiel.gouv.fr/schemabook/boamp/Boamp_v230.xsd">
+  <GESTION>
+    <REFERENCE>
+      <IDWEB>16-185754</IDWEB>
+      <TYPE_AVIS>
+        <FAMILLE>
+          <FNS/>
+        </FAMILLE>
+        <PERIMETRE>
+          <CMP-2006/>
+        </PERIMETRE>
+        <NATURE>
+          <ATTRIBUTION/>
+        </NATURE>
+        <STATUT>
+          <INITIAL/>
+        </STATUT>
+      </TYPE_AVIS>
+    </REFERENCE>
+    <MARCHE>
+      <ANNONCE_ANTERIEUR>
+        <REFERENCE>
+          <IDWEB>15-14160</IDWEB>
+          <TYPE_AVIS>
+            <FAMILLE>
+              <FNS/>
+            </FAMILLE>
+            <PERIMETRE>
+              <CMP-2006/>
+            </PERIMETRE>
+            <NATURE>
+              <APPEL_OFFRE/>
+            </NATURE>
+            <STATUT>
+              <INITIAL/>
+            </STATUT>
+          </TYPE_AVIS>
+        </REFERENCE>
+        <REFERENCE_PUBLICATION>
+          <PUBLICATION_PAPIER>
+            <TYPE_EDITION>A</TYPE_EDITION>
+            <NUM_PARUTION>26</NUM_PARUTION>
+            <NUM_ANNONCE>83</NUM_ANNONCE>
+            <DATE_PUBLICATION>2015-02-06</DATE_PUBLICATION>
+          </PUBLICATION_PAPIER>
+        </REFERENCE_PUBLICATION>
+      </ANNONCE_ANTERIEUR>
+    </MARCHE>
+    <NOM_HTML>16-185754.html</NOM_HTML>
+    <INDEXATION>
+      <DATE_PUBLICATION>2017-01-13</DATE_PUBLICATION>
+      <DATE_FIN_DIFFUSION>2017-02-13</DATE_FIN_DIFFUSION>
+      <DESCRIPTEURS>
+        <DESCRIPTEUR>
+          <CODE>342</CODE>
+          <LIBELLE>Terrain de sport</LIBELLE>
+        </DESCRIPTEUR>
+      </DESCRIPTEURS>
+      <DEP_PUBLICATION>76</DEP_PUBLICATION>
+      <DEP_PRESTATION>76</DEP_PRESTATION>
+      <RESUME_OBJET>mise en oeuvre d'une aire de glisse (skatepark, roller, bmx et trottinette) sur le site de la mâture à fécamp</RESUME_OBJET>
+    </INDEXATION>
+  </GESTION>
+  <DONNEES>
+    <IDENTITE>
+      <DENOMINATION>ville de Fécamp</DENOMINATION>
+      <CORRESPONDANT>Mme le Maire</CORRESPONDANT>
+      <ADRESSE>1 place du Général LeclercB.P. 178</ADRESSE>
+      <CP>76404</CP>
+      <VILLE>Fecamp cedex</VILLE>
+      <TEL>02-35-10-60-00</TEL>
+      <FAX>02-35-29-57-68</FAX>
+      <URL>http://www.ville-fecamp.fr</URL>
+      <URL_PROFIL_ACHETEUR>http://marches-publics.sis-marches.com/fcmp/</URL_PROFIL_ACHETEUR>
+    </IDENTITE>
+    <TYPE_ORGANISME>
+      <COMMUNE/>
+    </TYPE_ORGANISME>
+    <ACTIVITE_PRINCIPALE>
+      <POUVOIR_ADJUDICATEUR>
+        <ACT_SERV_ADM_PUB/>
+      </POUVOIR_ADJUDICATEUR>
+    </ACTIVITE_PRINCIPALE>
+    <OBJET>
+      <OBJET_COMPLET>Mise en oeuvre d'une aire de glisse (skatepark, roller, BMX et trottinette) sur le site de la Mâture à Fécamp.Dialogue compétitif en application des articles 36 et 67 du Code des marchés publics. Cette procédure a pour objet l'instauration d'un dialogue entre les candidats sélectionnés et la Ville de Fécamp. Ce dialogue établi sur la base du projet partiellement défini devra aboutir à une solution pour la réalisation d'une aire de glisse. A l'issue du dialogue, le candidat dont l'offre finale sera retenue assurera l'exécution des travaux.</OBJET_COMPLET>
+      <CPV>
+        <PRINCIPAL>45212100</PRINCIPAL>
+      </CPV>
+      <LIEU_EXEC_LIVR>
+        <CODE_NUTS>FR232</CODE_NUTS>
+      </LIEU_EXEC_LIVR>
+    </OBJET>
+    <PROCEDURE>
+      <TYPE_PROCEDURE>
+        <DIALOGUE_COMPETITIF/>
+      </TYPE_PROCEDURE>
+      <NB_CANDIDATS>
+        <LIMITATION_CANDIDATS>Le jugement des candidatures sera effectué au moyen des critères suivants classés par ordre décroissant d'importance :1 - Nature et montant des références produites ;2 - Aptitude à réaliser les prestations proposées au regard des moyens humains et techniques de la candidature ;3 - Capacités financières des candidats.</LIMITATION_CANDIDATS>
+      </NB_CANDIDATS>
+      <CRITERES_ATTRIBUTION>
+        <CRITERES_PONDERES>
+          <CRITERE POIDS="60">Valeur technique</CRITERE>
+          <CRITERE POIDS="40">Prix des travaux</CRITERE>
+        </CRITERES_PONDERES>
+      </CRITERES_ATTRIBUTION>
+    </PROCEDURE>
+    <ATTRIBUTION>
+      <ATTRIBUE_PAR_LOTS_MARCHES/>
+      <DECISION>
+        <ATTRIBUE/>
+        <NUM_LOT>2016-52</NUM_LOT>
+        <DESCRIPTION>Mise en oeuvre d'une aire de glisse (skatepark, roller, BMX et trottinette) sur le site de la Mâture à Fécamp.Dialogue compétitif en application des articles 36 et 67 du Code des marchés publics. Cette procédure a pour objet l'instauration d'un dialogue entre les candidats sélectionnés et la Ville de Fécamp. Ce dialogue établi sur la base du projet partiellement défini devra aboutir à une solution pour la réalisation d'une aire de glisse. A l'issue du dialogue, le candidat dont l'offre finale sera retenue assurera l'exécution des travaux.</DESCRIPTION>
+        <TITULAIRE>
+          <DENOMINATION>CONCRETE WAVES SKATE PARKS(Mandataire)</DENOMINATION>
+          <ADRESSE>148 avenue Jean Jaurès</ADRESSE>
+          <CP>40220</CP>
+          <VILLE>TARNOS</VILLE>
+          <TEL>(+33) 6-09-65-69-36</TEL>
+        </TITULAIRE>
+        <RENSEIGNEMENT>
+          <DATE_ATTRIBUTION>2016-12-26</DATE_ATTRIBUTION>
+          <NB_OFFRE_RECU>3</NB_OFFRE_RECU>
+          <MONTANT DEVISE="EUR">348852</MONTANT>
+        </RENSEIGNEMENT>
+        <TITULAIRE>
+          <DENOMINATION>SPORT DES VILLES(co-traitant)</DENOMINATION>
+          <ADRESSE>6 Chemin des Côteaux</ADRESSE>
+          <CP>14000</CP>
+          <VILLE>CAEN</VILLE>
+        </TITULAIRE>
+        <RENSEIGNEMENT>
+          <DATE_ATTRIBUTION>2016-12-26</DATE_ATTRIBUTION>
+        </RENSEIGNEMENT>
+        <TITULAIRE>
+          <DENOMINATION>LAURENCE CREMEL PAYSAGISTE(Co-traitant)</DENOMINATION>
+          <ADRESSE>39 rue de la Grange aux Belles</ADRESSE>
+          <CP>75010</CP>
+          <VILLE>PARIS</VILLE>
+        </TITULAIRE>
+        <RENSEIGNEMENT>
+          <DATE_ATTRIBUTION>2016-12-26</DATE_ATTRIBUTION>
+        </RENSEIGNEMENT>
+      </DECISION>
+    </ATTRIBUTION>
+    <RENSEIGNEMENTS_COMPLEMENTAIRES>
+      <PROCEDURES_RECOURS_PRECISIONS>- Le recours gracieux : 2 mois à compter de la publication ou de la notification de la décision attaquée.  Ce recours proroge le délai de recours contentieux.Le recours gracieux est instruit par Madame le Maire de la Ville de Fécamp.Les recours contentieux :- Le référé pré-contractuel : à compter de l'avis d'appel public à la concurrence jusqu'à la signature du marché (articles L 551-1 et R 551-1 et suivants du Code de justice administrative) ;- Le référé contractuel : il peut être formé au plus tard le trente et unième jour suivant la publication d'un avis d'attribution du contrat ou, pour les marchés fondés sur un accord-cadre ou un système d'acquisition dynamique, suivant la notification de la conclusion du contrat. En l'absence de la publication d'avis ou de la notification mentionnées à l'alinéa qui précède, la juridiction peut être saisie jusqu'à l'expiration d'un délai de six mois à compter du lendemain du jour de la conclusion du contrat (articles L. 551-13 et suivants et R. 551-7 et suivants du Code de justice administrative) ;- Le recours pour excès de pouvoir : 2 mois à compter de la publication ou de la notification de la décision attaquée ;- Le recours de pleine juridiction : 2 mois à compter de la publication ou de la notification de la décision attaquée.  Les recours contentieux sont formés devant le Tribunal Administratif de Rouen sis 53 avenue Flaubert 76000 ROUEN. Tél : 02.32.08.12.70 - Fax : 02.32.08.12.71</PROCEDURES_RECOURS_PRECISIONS>
+    </RENSEIGNEMENTS_COMPLEMENTAIRES>
+  </DONNEES>
+</ANNONCE>
