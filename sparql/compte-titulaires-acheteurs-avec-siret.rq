@@ -1,0 +1,15 @@
+prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+prefix boamp: <https://data.maudry.com/voc/boamp#>
+
+#Nombre de d'achteurs et de titulaires qui ont un numéro de SIRET dans le BOAMP
+
+select (count(distinct ?acheteur) as ?compteAcheteurs) (count(distinct ?titulaire) as ?compteTitulaires) where {
+
+    ?thing boamp:acheteur ?acheteur .
+    ?acheteur boamp:siret ?siret1 .
+
+    ?titulaire a boamp:Titulaire ;
+    boamp:siret ?siret2 .
+}
