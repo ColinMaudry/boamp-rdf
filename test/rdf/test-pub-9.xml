@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:b="https://data.maudry.com/voc/boamp#"
+         xmlns:dct="http://purl.org/dc/terms/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:attributions="https://boamp.maudry.com/attributions/"
+         xmlns:appeloffres="https://boamp.maudry.com/appeloffres/"
+         xmlns:annonces="https://boamp.maudry.com/annonces/"
+         xmlns:acheteurs="https://boamp.maudry.com/acheteurs/"
+         xmlns:titulaires="https://boamp.maudry.com/titulaires/"
+         xmlns:descripteurs="https://boamp.maudry.com/descripteurs/"
+         xmlns:lots="https://boamp.maudry.com/lots/"
+         xmlns:cpv="https://boamp.maudry.com/cpv/">
+  <b:Annonce rdf:about="https://boamp.maudry.com/annonces/16-652">
+      <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
+      <b:idweb>16-652</b:idweb>
+      <b:nomHtml>16-652.html</b:nomHtml>
+      <b:datePublication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-05</b:datePublication>
+      <b:dateFinDiffusion rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-01-25</b:dateFinDiffusion>
+      <b:descripteur rdf:resource="https://boamp.maudry.com/descripteurs/274"/>
+      <b:departementPublication>42</b:departementPublication>
+      <b:resumeObjet>prestation d'interim médical en anesthesie-réanimation, CHU, à Saint-Etienne</b:resumeObjet>
+      <b:appelOffres>
+         <b:AppelOffres rdf:about="https://boamp.maudry.com/appeloffres/16-652">
+            <b:acheteur>
+               <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/CHU-St-Etienne">
+                  <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Autre"/>
+                  <rdfs:label>CHU St Etienne</rdfs:label>
+                  <b:codePostal>42055</b:codePostal>
+                  <b:ville>St etienne</b:ville>
+                  <b:profilAcheteur rdf:resource="http://www.achats-hopitaux.com"/>
+               </rdf:Description>
+            </b:acheteur>
+            <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Autre"/>
+            <b:typeMarche>Service</b:typeMarche>
+            <b:objetComplet>DAMR 2016/01 PRESTATION D'INTERIM MEDICAL EN ANESTHESIE-REANIMATION</b:objetComplet>
+            <b:cpvPrincipal rdf:resource="https://boamp.maudry.com/cpv/79625000"/>
+            <b:codePostal>42055</b:codePostal>
+            <b:ville>Saint etienne cédex 2</b:ville>
+            <b:typeProcedure>Procedure adapte</b:typeProcedure>
+         </b:AppelOffres>
+      </b:appelOffres>
+   </b:Annonce>
+  
+</rdf:RDF>

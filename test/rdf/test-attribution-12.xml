@@ -13,7 +13,7 @@
          xmlns:lots="https://boamp.maudry.com/lots/"
          xmlns:cpv="https://boamp.maudry.com/cpv/">
   <b:Annonce rdf:about="https://boamp.maudry.com/annonces/17-2599">
-      <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
+      <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
       <b:idweb>17-2599</b:idweb>
       <b:annonceAnterieure>
          <b:Annonce rdf:about="https://boamp.maudry.com/annonces/16-107438">
@@ -31,7 +31,7 @@
             <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
             <b:acheteur>
                <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
-                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
                   <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
                   <b:siret>26830066200015</b:siret>
                   <b:codePostal>83051</b:codePostal>
@@ -62,7 +62,7 @@
             <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
             <b:acheteur>
                <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
-                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
                   <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
                   <b:siret>26830066200015</b:siret>
                   <b:codePostal>83051</b:codePostal>
@@ -93,7 +93,7 @@
             <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
             <b:acheteur>
                <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
-                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
                   <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
                   <b:siret>26830066200015</b:siret>
                   <b:codePostal>83051</b:codePostal>
@@ -124,7 +124,7 @@
             <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
             <b:acheteur>
                <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
-                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
                   <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
                   <b:siret>26830066200015</b:siret>
                   <b:codePostal>83051</b:codePostal>
@@ -155,7 +155,7 @@
             <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
             <b:acheteur>
                <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
-                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
                   <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
                   <b:siret>26830066200015</b:siret>
                   <b:codePostal>83051</b:codePostal>
@@ -186,7 +186,7 @@
             <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
             <b:acheteur>
                <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
-                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
                   <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
                   <b:siret>26830066200015</b:siret>
                   <b:codePostal>83051</b:codePostal>
@@ -217,7 +217,7 @@
             <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
             <b:acheteur>
                <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
-                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
                   <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
                   <b:siret>26830066200015</b:siret>
                   <b:codePostal>83051</b:codePostal>
@@ -248,7 +248,7 @@
             <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
             <b:acheteur>
                <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
-                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
                   <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
                   <b:siret>26830066200015</b:siret>
                   <b:codePostal>83051</b:codePostal>
@@ -276,11 +276,11 @@
       </b:attribution>
       <b:attribution>
          <b:Attribution rdf:about="https://boamp.maudry.com/attributions/17-2599_9">
-            <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#NonAttribue"/>
+            <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#NonAttribue"/>
             <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
             <b:acheteur>
                <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
-                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
                   <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
                   <b:siret>26830066200015</b:siret>
                   <b:codePostal>83051</b:codePostal>
@@ -553,7 +553,7 @@
             <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
             <b:acheteur>
                <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
-                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
                   <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
                   <b:siret>26830066200015</b:siret>
                   <b:codePostal>83051</b:codePostal>
@@ -584,7 +584,7 @@
             <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
             <b:acheteur>
                <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
-                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
                   <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
                   <b:siret>26830066200015</b:siret>
                   <b:codePostal>83051</b:codePostal>
@@ -615,7 +615,7 @@
             <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
             <b:acheteur>
                <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
-                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
                   <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
                   <b:siret>26830066200015</b:siret>
                   <b:codePostal>83051</b:codePostal>
@@ -643,11 +643,11 @@
       </b:attribution>
       <b:attribution>
          <b:Attribution rdf:about="https://boamp.maudry.com/attributions/17-2599_13">
-            <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#NonAttribue"/>
+            <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#NonAttribue"/>
             <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
             <b:acheteur>
                <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
-                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
                   <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
                   <b:siret>26830066200015</b:siret>
                   <b:codePostal>83051</b:codePostal>
@@ -920,7 +920,7 @@
             <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
             <b:acheteur>
                <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
-                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
                   <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
                   <b:siret>26830066200015</b:siret>
                   <b:codePostal>83051</b:codePostal>
@@ -951,7 +951,7 @@
             <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
             <b:acheteur>
                <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
-                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
                   <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
                   <b:siret>26830066200015</b:siret>
                   <b:codePostal>83051</b:codePostal>
@@ -982,7 +982,7 @@
             <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
             <b:acheteur>
                <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
-                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
                   <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
                   <b:siret>26830066200015</b:siret>
                   <b:codePostal>83051</b:codePostal>
@@ -1013,7 +1013,7 @@
             <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
             <b:acheteur>
                <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
-                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
                   <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
                   <b:siret>26830066200015</b:siret>
                   <b:codePostal>83051</b:codePostal>
@@ -1044,7 +1044,7 @@
             <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
             <b:acheteur>
                <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
-                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
                   <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
                   <b:siret>26830066200015</b:siret>
                   <b:codePostal>83051</b:codePostal>
@@ -1072,11 +1072,11 @@
       </b:attribution>
       <b:attribution>
          <b:Attribution rdf:about="https://boamp.maudry.com/attributions/17-2599_19">
-            <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#NonAttribue"/>
+            <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#NonAttribue"/>
             <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
             <b:acheteur>
                <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
-                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
                   <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
                   <b:siret>26830066200015</b:siret>
                   <b:codePostal>83051</b:codePostal>
@@ -1349,7 +1349,7 @@
             <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
             <b:acheteur>
                <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
-                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
                   <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
                   <b:siret>26830066200015</b:siret>
                   <b:codePostal>83051</b:codePostal>
@@ -1380,7 +1380,7 @@
             <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-107438"/>
             <b:acheteur>
                <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/C-C-A-S--de-Toulon">
-                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
                   <rdfs:label>C.C.A.S. de Toulon</rdfs:label>
                   <b:siret>26830066200015</b:siret>
                   <b:codePostal>83051</b:codePostal>

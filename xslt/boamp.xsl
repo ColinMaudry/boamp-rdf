@@ -112,7 +112,7 @@
     
     <xsl:template match="GESTION" mode="premierePasse">
         <b:Annonce rdf:about="&annonces;{$idweb}">
-            <rdfs:type rdf:resource="&boamp;Annonce"/>
+            <rdf:type rdf:resource="&boamp;Annonce"/>
             <xsl:apply-templates/>
             <xsl:apply-templates select="../DONNEES" mode="#default"/>
         </b:Annonce>
@@ -173,7 +173,7 @@
                         <xsl:apply-templates select="../TYPE_ORGANISME/*"/>
                     </xsl:when>
                     <xsl:otherwise>
-                        <rdfs:type rdf:resource="&boamp;Acheteur"/>
+                        <rdf:type rdf:resource="&boamp;Acheteur"/>
                     </xsl:otherwise>
                 </xsl:choose>
                 <xsl:apply-templates/>
@@ -183,7 +183,7 @@
     
     <xsl:template match="TYPE_ORGANISME/*">
         <xsl:variable name="typeAcheteur" select="b:upperFirst(replace(local-name(),'\W','-'))"/>
-        <rdfs:type rdf:resource="&boamp;{$typeAcheteur}"/>
+        <rdf:type rdf:resource="&boamp;{$typeAcheteur}"/>
     </xsl:template>
     
     <xsl:template match="URL_PROFIL_ACHETEUR">

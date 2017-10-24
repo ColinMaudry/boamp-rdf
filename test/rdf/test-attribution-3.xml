@@ -13,7 +13,7 @@
          xmlns:lots="https://boamp.maudry.com/lots/"
          xmlns:cpv="https://boamp.maudry.com/cpv/">
   <b:Annonce rdf:about="https://boamp.maudry.com/annonces/16-178891">
-      <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
+      <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
       <b:idweb>16-178891</b:idweb>
       <b:annonceAnterieure>
          <b:Annonce rdf:about="https://boamp.maudry.com/annonces/16-139506">
@@ -32,7 +32,7 @@
             <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-139506"/>
             <b:acheteur>
                <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/Université-paris-Sud">
-                  <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Etat"/>
+                  <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Etat"/>
                   <rdfs:label>Université paris Sud</rdfs:label>
                   <b:codePostal>91405</b:codePostal>
                   <b:ville>Orsay Cedex</b:ville>

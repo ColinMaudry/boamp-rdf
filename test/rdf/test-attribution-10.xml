@@ -13,7 +13,7 @@
          xmlns:lots="https://boamp.maudry.com/lots/"
          xmlns:cpv="https://boamp.maudry.com/cpv/">
   <b:Annonce rdf:about="https://boamp.maudry.com/annonces/16-185754">
-      <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
+      <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
       <b:idweb>16-185754</b:idweb>
       <b:annonceAnterieure>
          <b:Annonce rdf:about="https://boamp.maudry.com/annonces/15-14160">
@@ -31,7 +31,7 @@
             <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/15-14160"/>
             <b:acheteur>
                <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/ville-de-Fécamp">
-                  <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Commune"/>
+                  <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Commune"/>
                   <rdfs:label>ville de Fécamp</rdfs:label>
                   <b:codePostal>76404</b:codePostal>
                   <b:ville>Fecamp cedex</b:ville>

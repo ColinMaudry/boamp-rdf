@@ -13,7 +13,7 @@
          xmlns:lots="https://boamp.maudry.com/lots/"
          xmlns:cpv="https://boamp.maudry.com/cpv/">
   <b:Annonce rdf:about="https://boamp.maudry.com/annonces/16-183123">
-      <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
+      <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
       <b:idweb>16-183123</b:idweb>
       <b:annonceAnterieure>
          <b:Annonce rdf:about="https://boamp.maudry.com/annonces/16-155545">
@@ -33,11 +33,11 @@
       <b:resumeObjet>réalisation, fabrication, impression et diffusion de catalogues pour le compte de la ville de troyes</b:resumeObjet>
       <b:attribution>
          <b:Attribution rdf:about="https://boamp.maudry.com/attributions/16-183123_1">
-            <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#NonAttribue"/>
+            <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#NonAttribue"/>
             <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-15554516-159242"/>
             <b:acheteur>
                <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/Ville-de-Troyes">
-                  <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Commune"/>
+                  <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Commune"/>
                   <rdfs:label>Ville de Troyes</rdfs:label>
                   <b:codePostal>10026</b:codePostal>
                   <b:ville>Troyes cedex</b:ville>
@@ -58,11 +58,11 @@
       </b:attribution>
       <b:attribution>
          <b:Attribution rdf:about="https://boamp.maudry.com/attributions/16-183123_2">
-            <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#NonAttribue"/>
+            <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#NonAttribue"/>
             <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-15554516-159242"/>
             <b:acheteur>
                <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/Ville-de-Troyes">
-                  <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Commune"/>
+                  <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Commune"/>
                   <rdfs:label>Ville de Troyes</rdfs:label>
                   <b:codePostal>10026</b:codePostal>
                   <b:ville>Troyes cedex</b:ville>
@@ -83,11 +83,11 @@
       </b:attribution>
       <b:attribution>
          <b:Attribution rdf:about="https://boamp.maudry.com/attributions/16-183123_3">
-            <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#NonAttribue"/>
+            <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#NonAttribue"/>
             <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-15554516-159242"/>
             <b:acheteur>
                <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/Ville-de-Troyes">
-                  <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Commune"/>
+                  <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Commune"/>
                   <rdfs:label>Ville de Troyes</rdfs:label>
                   <b:codePostal>10026</b:codePostal>
                   <b:ville>Troyes cedex</b:ville>

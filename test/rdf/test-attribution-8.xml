@@ -13,7 +13,7 @@
          xmlns:lots="https://boamp.maudry.com/lots/"
          xmlns:cpv="https://boamp.maudry.com/cpv/">
   <b:Annonce rdf:about="https://boamp.maudry.com/annonces/17-4742">
-      <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
+      <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
       <b:idweb>17-4742</b:idweb>
       <b:annonceAnterieure>
          <b:Annonce rdf:about="https://boamp.maudry.com/annonces/16-652">
@@ -31,7 +31,7 @@
             <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-652"/>
             <b:acheteur>
                <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/CHU-St-Etienne">
-                  <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Autre"/>
+                  <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Autre"/>
                   <rdfs:label>CHU St Etienne</rdfs:label>
                   <b:codePostal>42055</b:codePostal>
                   <b:ville>St etienne</b:ville>

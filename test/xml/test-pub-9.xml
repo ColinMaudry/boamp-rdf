@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNONCE>
+  <GESTION>
+    <REFERENCE>
+      <IDWEB>16-652</IDWEB>
+      <TYPE_AVIS>
+        <FAMILLE>
+          <FNS/>
+        </FAMILLE>
+        <PERIMETRE>
+          <CMP-2006/>
+        </PERIMETRE>
+        <NATURE>
+          <APPEL_OFFRE/>
+        </NATURE>
+        <STATUT>
+          <INITIAL/>
+        </STATUT>
+      </TYPE_AVIS>
+    </REFERENCE>
+    <NOM_HTML>16-652.html</NOM_HTML>
+    <INDEXATION>
+      <DATE_PUBLICATION>2016-01-05</DATE_PUBLICATION>
+      <DATE_LIMITE_REPONSE>2016-01-25T16:00:00+01:00</DATE_LIMITE_REPONSE>
+      <DATE_FIN_DIFFUSION>2016-01-25</DATE_FIN_DIFFUSION>
+      <CLASSES>
+        <CLASSE>
+          <CODE>74</CODE>
+          <LIBELLE>Services fournis principalement aux entreprises</LIBELLE>
+        </CLASSE>
+        <CLASSE>
+          <CODE>85</CODE>
+          <LIBELLE>Services de santé et d'action sociale</LIBELLE>
+        </CLASSE>
+      </CLASSES>
+      <DESCRIPTEURS>
+        <DESCRIPTEUR>
+          <CODE>274</CODE>
+          <LIBELLE>Prestations de services</LIBELLE>
+        </DESCRIPTEUR>
+      </DESCRIPTEURS>
+      <DEP_PUBLICATION>42</DEP_PUBLICATION>
+      <DEP_PRESTATION>42</DEP_PRESTATION>
+      <RESUME_OBJET>prestation d'interim médical en anesthesie-réanimation, CHU, à Saint-Etienne</RESUME_OBJET>
+    </INDEXATION>
+  </GESTION>
+  <DONNEES>
+    <IDENTITE>
+      <DENOMINATION>CHU St Etienne</DENOMINATION>
+      <CORRESPONDANT>Mlle Laurence Vétard, Responsable Marchés</CORRESPONDANT>
+      <ADRESSE>CHU de Saint-Etienne - Hopital Bellevue - Direction des Affaire Médicales et de la Reccherche - Boulevard Pasteur</ADRESSE>
+      <CP>42055</CP>
+      <VILLE>St etienne</VILLE>
+      <TEL>04-77-12-79-15</TEL>
+      <FAX>04-77-12-73-15</FAX>
+      <MEL>laurence.vetard@chu-st-etienne.fr</MEL>
+      <URL>http://www.chu-st-etienne.fr</URL>
+      <URL_PROFIL_ACHETEUR>http://www.achats-hopitaux.com</URL_PROFIL_ACHETEUR>
+    </IDENTITE>
+    <TYPE_ORGANISME>
+      <AUTRE/>
+    </TYPE_ORGANISME>
+    <ACTIVITE_PRINCIPALE>
+      <POUVOIR_ADJUDICATEUR>
+        <SANTE/>
+      </POUVOIR_ADJUDICATEUR>
+    </ACTIVITE_PRINCIPALE>
+    <OBJET>
+      <TYPE_MARCHE>
+        <SERVICE>27</SERVICE>
+      </TYPE_MARCHE>
+      <OBJET_COMPLET>DAMR 2016/01 PRESTATION D'INTERIM MEDICAL EN ANESTHESIE-REANIMATION</OBJET_COMPLET>
+      <CPV>
+        <PRINCIPAL>79625000</PRINCIPAL>
+      </CPV>
+      <LIEU_EXEC_LIVR>
+        <ADRESSE>Chu de St-Etienne</ADRESSE>
+        <CP>42055</CP>
+        <VILLE>Saint etienne cédex 2</VILLE>
+        <CODE_NUTS>FR715</CODE_NUTS>
+      </LIEU_EXEC_LIVR>
+      <AMP_OUI/>
+      <AVIS_CORRESPOND>
+        <AVIS_PERIODIQUE_INDICATIF/>
+      </AVIS_CORRESPOND>
+      <AVIS_IMPLIQUE>
+        <MARCHE_PUBLIC/>
+      </AVIS_IMPLIQUE>
+      <VARIANTES_NON/>
+      <CARACTERISTIQUES>
+        <PRINCIPALES>DAMR 2016/01 PRESTATION D'INTERIM MEDICAL EN ANESTHESIE-REANIMATIONMarché à bon de commande -durée du marché de la date de notification au 31/12/2016 reconductible 2 fois par période de 12 mois. Prix ajustables.</PRINCIPALES>
+      </CARACTERISTIQUES>
+      <DUREE_DELAI>
+        <DUREE_MOIS>34</DUREE_MOIS>
+      </DUREE_DELAI>
+      <DIV_EN_LOTS>
+        <NON/>
+      </DIV_EN_LOTS>
+    </OBJET>
+    <PROCEDURE>
+      <TYPE_PROCEDURE>
+        <PROCEDURE_ADAPTE/>
+      </TYPE_PROCEDURE>
+      <ENCHERE_ELECTRONIQUE_NON/>
+      <CRITERES_ATTRIBUTION>
+        <CRITERES_PONDERES>
+          <CRITERE POIDS="60">Prix</CRITERE>
+          <CRITERE POIDS="40">Valeur technique : aptitude de la société à répondre aux besoins</CRITERE>
+        </CRITERES_PONDERES>
+      </CRITERES_ATTRIBUTION>
+    </PROCEDURE>
+    <CONDITION_DELAI>
+      <RECEPT_OFFRES>2016-01-25T16:00:00+01:00</RECEPT_OFFRES>
+      <VALIDITE_OFFRE>
+        <DUREE_JOUR>120</DUREE_JOUR>
+      </VALIDITE_OFFRE>
+    </CONDITION_DELAI>
+    <CONDITION_RELATIVE_MARCHE>
+      <FINANCEMENT>Financement par le budget de l'établissement - paiements à 50 jours par mandats administratifs suivis d'un virement</FINANCEMENT>
+      <AUTRES_CONDITIONS_PART_NON/>
+      <UNITE_MONETAIRE_EUR/>
+      <LANGUES>
+        <LANGUE>fr</LANGUE>
+      </LANGUES>
+    </CONDITION_RELATIVE_MARCHE>
+    <CONDITION_PARTICIPATION>
+      <JUSTIFICATIFS_CANDIDAT>
+        <P>Documents à produire obligatoirement par le candidat, à l'appui de sa candidature</P>
+        <P>Copie du ou des jugements prononcés, si le candidat est en redressement judiciaire</P>
+        <P>Déclaration sur l'honneur du candidat justifiant qu'il n'entre dans aucun des cas mentionnés à l'article 43 du code des marchés publics, concernant les interdictions de soumissionner</P>
+        <P>Documents à produire à l'appui des candidatures par le candidat, au choix de l'acheteur public</P>
+        <P>Déclaration concernant le chiffre d'affaires global et le chiffre d'affaires concernant les fournitures, services ou travaux objet du marché, réalisés au cours des trois derniers exercices disponibles</P>
+        <P>Présentation d'une liste des principales fournitures ou des principaux services effectués au cours des trois dernières années, indiquant le montant, la date et le destinataire public ou privé. Les livraisons et les prestations de services sont prouvées par des attestations du destinataire ou, à défaut, par une déclaration de l'opérateur économique</P>
+        <P>Indication des titres d'études et professionnels des cadres de l'entreprise et notamment des responsables de prestation de services ou de conduite des travaux de même nature que celle du marché</P>
+        <P>Déclaration indiquant l'outillage, le matériel et l'équipement technique dont le candidat dispose pour la réalisation de marchés de même nature</P>
+        <P>Formulaire DC1, Lettre de candidature - Habilitation du mandataire par ses co-traitants (disponible à l'adresse suivante : http://www.economie.gouv.fr/directions_services/daj/marches_publics/formulaires/DC/daj_dc.htm)</P>
+        <P>Formulaire DC2, Déclaration du candidat individuel ou du membre du groupement (disponible à l'adresse suivante : http://www.economie.gouv.fr/directions_services/daj/marches_publics/formulaires/DC/daj_dc.htm)</P>
+        <P>Formulaire DC3, Acte d'engagement (disponible à l'adresse suivante : http://www.economie.gouv.fr/directions_services/daj/marches_publics/formulaires/DC/daj_dc.htm)</P>
+        <P>Formulaire DC4, Déclaration de sous-traitance (disponible à l'adresse suivante : http://www.economie.gouv.fr/directions_services/daj/marches_publics/formulaires/DC/daj_dc.htm)</P>
+        <P>Si l'attributaire est établi en France, les attestations et certificats délivrés par les administrations et organismes compétents prouvant qu'il a satisfait à ses obligations fiscales et sociales ou un état annuel des certificats reçus</P>
+      </JUSTIFICATIFS_CANDIDAT>
+    </CONDITION_PARTICIPATION>
+    <CONDITION_ADMINISTRATIVE>
+      <REFERENCE_MARCHE>DAMR 2016/01</REFERENCE_MARCHE>
+      <CONDITIONS_ET_MODE_PAIEMENT_OBTENIR_DOCUMENTS>Dossier téléchargeable sur le site www.achats-hopitaux.com</CONDITIONS_ET_MODE_PAIEMENT_OBTENIR_DOCUMENTS>
+    </CONDITION_ADMINISTRATIVE>
+    <RENSEIGNEMENTS_COMPLEMENTAIRES>
+      <ADRESSES_COMPLEMENTAIRES>
+        <ADRESSE>
+          <TYPE>
+            <INSTANCE_RECOURS/>
+          </TYPE>
+          <DENOMINATION>Tribunal administratif de Lyon</DENOMINATION>
+          <ADRESSE>184 rue duguesclin</ADRESSE>
+          <CP>69433</CP>
+          <VILLE>Lyon</VILLE>
+          <MEL>greffe-ta-lyon@juradm.fr</MEL>
+        </ADRESSE>
+        <ADRESSE>
+          <TYPE>
+            <RENS_RECOURS/>
+          </TYPE>
+          <DENOMINATION>Tribunal administratif de Lyon</DENOMINATION>
+          <ADRESSE>184 rue duguesclin</ADRESSE>
+          <CP>69433</CP>
+          <VILLE>Lyon</VILLE>
+          <MEL>greffe-ta-lyon@juradm.fr</MEL>
+        </ADRESSE>
+        <ADRESSE>
+          <TYPE>
+            <DOCUMENTS/>
+          </TYPE>
+          <URL>https://www.achats-hopitaux.com/sdm/ent/gen/ent_detail.do?PCSLID=CSL_2016_lXSMZ9P7PH</URL>
+        </ADRESSE>
+      </ADRESSES_COMPLEMENTAIRES>
+    </RENSEIGNEMENTS_COMPLEMENTAIRES>
+  </DONNEES>
+</ANNONCE>

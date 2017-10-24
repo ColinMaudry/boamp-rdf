@@ -13,7 +13,7 @@
          xmlns:lots="https://boamp.maudry.com/lots/"
          xmlns:cpv="https://boamp.maudry.com/cpv/">
   <b:Annonce rdf:about="https://boamp.maudry.com/annonces/17-5219">
-      <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
+      <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
       <b:idweb>17-5219</b:idweb>
       <b:annonceAnterieure>
          <b:Annonce rdf:about="https://boamp.maudry.com/annonces/16-105311">
@@ -32,7 +32,7 @@
             <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-105311"/>
             <b:acheteur>
                <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/DEPARTEMENT-DES-HAUTES-ALPES">
-                  <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Departement"/>
+                  <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Departement"/>
                   <rdfs:label>DEPARTEMENT DES HAUTES-ALPES</rdfs:label>
                   <b:codePostal>05008</b:codePostal>
                   <b:ville>GAP</b:ville>

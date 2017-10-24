@@ -13,7 +13,7 @@
          xmlns:lots="https://boamp.maudry.com/lots/"
          xmlns:cpv="https://boamp.maudry.com/cpv/">
   <b:Annonce rdf:about="https://boamp.maudry.com/annonces/17-1028">
-      <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
+      <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
       <b:idweb>17-1028</b:idweb>
       <b:annonceAnterieure>
          <b:Annonce rdf:about="https://boamp.maudry.com/annonces/16-36319">
@@ -31,7 +31,7 @@
             <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-36319"/>
             <b:acheteur>
                <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/Bordeaux-Métropole">
-                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
                   <rdfs:label>Bordeaux Métropole</rdfs:label>
                   <b:codePostal>33076</b:codePostal>
                   <b:ville>Bordeaux Cedex</b:ville>

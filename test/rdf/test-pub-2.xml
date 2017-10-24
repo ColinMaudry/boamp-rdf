@@ -13,7 +13,7 @@
          xmlns:lots="https://boamp.maudry.com/lots/"
          xmlns:cpv="https://boamp.maudry.com/cpv/">
   <b:Annonce rdf:about="https://boamp.maudry.com/annonces/16-181902">
-      <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
+      <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
       <b:idweb>16-181902</b:idweb>
       <b:nomHtml>16-181902.html</b:nomHtml>
       <b:datePublication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-01-01</b:datePublication>
@@ -26,7 +26,7 @@
          <b:AppelOffres rdf:about="https://boamp.maudry.com/appeloffres/16-181902">
             <b:acheteur>
                <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/Grand-Port-Maritime-de-Marseille">
-                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
                   <rdfs:label>Grand Port Maritime de Marseille</rdfs:label>
                   <b:codePostal>13226</b:codePostal>
                   <b:ville>MARSEILLE Cedex 02</b:ville>

@@ -48,7 +48,7 @@
             <xsl:variable name="nbTitulaires" select="count(TITULAIRE)"/>
             <b:Attribution rdf:about="&attributions;{$idweb}{$lotAttribution}">
                 <xsl:if test="not(TITULAIRE)">
-                    <rdfs:type rdf:resource="&boamp;NonAttribue"/>
+                    <rdf:type rdf:resource="&boamp;NonAttribue"/>
                 </xsl:if>
                 <xsl:if test="string-length($idAppelOffres) > 0">
                     <b:appelOffres rdf:resource="&appeloffres;{$idAppelOffres}"/>

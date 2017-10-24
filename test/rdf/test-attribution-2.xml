@@ -13,7 +13,7 @@
          xmlns:lots="https://boamp.maudry.com/lots/"
          xmlns:cpv="https://boamp.maudry.com/cpv/">
   <b:Annonce rdf:about="https://boamp.maudry.com/annonces/16-138580">
-      <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
+      <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
       <b:idweb>16-138580</b:idweb>
       <b:annonceAnterieure>
          <b:Annonce rdf:about="https://boamp.maudry.com/annonces/16-119846">
@@ -31,7 +31,7 @@
             <b:appelOffres rdf:resource="https://boamp.maudry.com/appeloffres/16-119846"/>
             <b:acheteur>
                <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/Communauté-d-Agglomération-de-Saintes">
-                  <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Ept"/>
+                  <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Ept"/>
                   <rdfs:label>Communauté d'Agglomération de Saintes</rdfs:label>
                   <b:codePostal>17100</b:codePostal>
                   <b:ville>Saintes</b:ville>

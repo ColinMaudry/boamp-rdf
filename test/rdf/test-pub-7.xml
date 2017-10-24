@@ -13,7 +13,7 @@
          xmlns:lots="https://boamp.maudry.com/lots/"
          xmlns:cpv="https://boamp.maudry.com/cpv/">
   <b:Annonce rdf:about="https://boamp.maudry.com/annonces/17-22464">
-      <rdfs:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
+      <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Annonce"/>
       <b:idweb>17-22464</b:idweb>
       <b:nomHtml>17-22464.html</b:nomHtml>
       <b:datePublication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-02-15</b:datePublication>
@@ -25,7 +25,7 @@
          <b:AppelOffres rdf:about="https://boamp.maudry.com/appeloffres/17-22464">
             <b:acheteur>
                <rdf:Description rdf:about="https://boamp.maudry.com/acheteurs/Cté-de-Cnes-Pyrénées-Audoises">
-                  <rdfs:type rdfs:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
+                  <rdf:type rdf:resource="https://data.maudry.com/voc/boamp#Acheteur"/>
                   <rdfs:label>Cté de Cnes Pyrénées Audoises</rdfs:label>
                   <b:codePostal>11500</b:codePostal>
                   <b:ville>Quillan</b:ville>
